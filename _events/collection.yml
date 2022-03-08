@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Lifelong Learning/.keep
       - Social Good/.keep
       - Environment/.keep
       - Healthy Living/.keep

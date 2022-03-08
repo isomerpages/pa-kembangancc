@@ -25,7 +25,6 @@ sections:
       description: Through creative and targeted programming, the Marine Parade
         Cluster aspires to connect and serve the needs of the different profiles
         within the community.
-      url: /faq/
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle

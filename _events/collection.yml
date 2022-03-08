@@ -1,5 +1,5 @@
 collections:
-  all-events:
+  events:
     output: true
     order:
       - Healthy Living/.keep

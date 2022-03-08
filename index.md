@@ -21,9 +21,15 @@ sections:
       title: Key Events
       button: View More events
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Our Vision
+      description: Through creative and targeted programming, the Marine Parade
+        Cluster aspires to connect and serve the needs of the different profiles
+        within the community.
       url: /faq/
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---

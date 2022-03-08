@@ -9,14 +9,14 @@ sections:
   - hero:
       subtitle: Immerse in the buzz and happenings of your neighbourhood.
       background: /images/hero-banner.png
-      key_highlights:
-        - title: BROWSE OUR EVENTS
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
       title: Kembangan-Chai Chee
+      dropdown:
+        title: Explore Events
+        options:
+          - title: Healthy Living
+            url: Lifelong Learning
+          - title: Hero Dropdown Element Title
+            url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle

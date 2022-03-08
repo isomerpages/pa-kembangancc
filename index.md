@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Please contact us at kembanganchaicheecc@pa.gov.sg if you have any queries.
 sections:
   - hero:
       subtitle: Welcome to Kembangan-Chai Chee

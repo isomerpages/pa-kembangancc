@@ -2,4 +2,4 @@ collections:
   all-events:
     output: true
     order:
-      - All Events.md
+      - Test Category.md

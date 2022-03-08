@@ -2,4 +2,5 @@ collections:
   all-events:
     output: true
     order:
+      - Healthy Living/.keep
       - Animals, Pets/.keep

@@ -26,9 +26,12 @@ sections:
         Cluster aspires to connect and serve the needs of the different profiles
         within the community.
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Tan Chuan-Jin
+      subtitle: Grassroots Adviser
+      description: "\"If you're able to step up and give back something, I think that
+        should be done.\""
+      button: more about Tan chuan-jin
       alt: Image alt text
+      url: https://pa-kembangancc-staging.netlify.app/resources/lifelong-learning/
+      image: /images/Tan Chuan-Jin.jpg
 ---

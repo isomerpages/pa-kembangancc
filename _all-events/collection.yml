@@ -1,4 +1,5 @@
 collections:
   all-events:
     output: true
-    order: []
+    order:
+      - Animals, Pets/.keep

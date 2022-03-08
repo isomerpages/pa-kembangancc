@@ -1,6 +1,4 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Resources
-    resource_room: true
   - title: Events
-    collection: events
+    resource_room: true

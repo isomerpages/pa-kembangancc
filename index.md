@@ -11,7 +11,7 @@ sections:
       background: /images/hero-banner.png
       title: Kembangan-Chai Chee
       dropdown:
-        title: Explore Events
+        title: Explore Our Events
         options:
           - title: Healthy Living
             url: Lifelong Learning

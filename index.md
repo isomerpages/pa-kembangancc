@@ -13,10 +13,12 @@ sections:
       dropdown:
         title: Explore Our Events
         options:
-          - title: Healthy Living
-            url: Lifelong Learning
-          - title: Hero Dropdown Element Title
-            url: ""
+          - title: Environment
+            url: /resources/environment/
+          - title: Lifelong Learning
+            url: /resources/lifelong-learning/
+          - title: Social Good
+            url: /resources/social-good/
   - resources:
       title: Key Events
       button: View More events

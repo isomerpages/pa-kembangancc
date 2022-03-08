@@ -19,7 +19,7 @@ sections:
             url: ""
   - resources:
       title: Key Events
-      button: View More
+      button: View More events
   - infobar:
       title: Infobar title
       subtitle: Subtitle

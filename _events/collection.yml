@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Lifelong Learning/Skillsfuture.md
       - Lifelong Learning/.keep
       - Social Good/.keep
       - Environment/Beach Clean Up.md

@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Kembangan-Chai Chee
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -43,3 +43,4 @@ sections:
       button: find out more
       url: /volunteer
 ---
+

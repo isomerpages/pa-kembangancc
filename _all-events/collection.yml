@@ -1,5 +1,0 @@
-collections:
-  all-events:
-    output: true
-    order:
-      - Test Category.md

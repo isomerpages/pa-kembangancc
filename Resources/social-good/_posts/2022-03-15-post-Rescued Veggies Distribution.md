@@ -7,7 +7,7 @@ description: ""
 ---
 ### Rescued Veggies Distribution ### 
 
-<img style="height:100%; width:100%; max-width:550px; min-height:100px" src="/images/Rescued%20Veggies%20Distribution.jpg">
+<img style="height:100%; width:100%; max-width:450px; min-height:100px" src="/images/testimage.jpg">
 
 <table  style="font-size:130%; background-color:#f2f2f2">
 <tbody>

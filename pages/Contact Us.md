@@ -3,7 +3,7 @@ title: Contact Us
 permalink: /contact-us
 description: ""
 ---
-# Kembangan-Chai Chee # 
+# Kembangan-Chai Chee Constituency Office # 
 
 Should you have any enquiries, you may write to us at kembangan-chaichee@pa.gov.sg.
 

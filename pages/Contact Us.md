@@ -4,6 +4,9 @@ permalink: /contact-us
 description: ""
 ---
 # Kembangan-Chai Chee # 
+
+Should you have any enquiries, you may write to us at kembangan-chaichee@pa.gov.sg.
+
 #### Kampong Kembangan CC ####
 
 <table  style="font-size:120%">

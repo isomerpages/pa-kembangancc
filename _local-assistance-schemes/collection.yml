@@ -1,0 +1,4 @@
+collections:
+  local-assistance-schemes:
+    output: true
+    order: []

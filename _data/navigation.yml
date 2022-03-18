@@ -2,3 +2,5 @@ logo: /images/isomer-logo.svg
 links:
   - title: Events
     resource_room: true
+  - title: Contact Us
+    url: /contact-us

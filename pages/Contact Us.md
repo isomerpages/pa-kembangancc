@@ -22,7 +22,7 @@ Should you have any enquiries, you may write to us at [kembangan-chaichee@pa.gov
 </tr>
 </tbody>
 </table>
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15955.017391898637!2d103.91269!3d1.3232317!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3fdfa9cc0723f19!2sKampong%20Kembangan%20Community%20Club!5e0!3m2!1sen!2ssg!4v1647597870311!5m2!1sen!2ssg" width="450" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 #### Kampong Ubi CC ####
 <table  style="font-size:120%">
@@ -38,3 +38,5 @@ Should you have any enquiries, you may write to us at [kembangan-chaichee@pa.gov
 </tr>
 </tbody>
 </table>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.76313283154!2d103.89851791457258!3d1.3177573990388969!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da181a92e11a3d%3A0x484e3638ce52c330!2sKampong%20Ubi%20Community%20Centre!5e0!3m2!1sen!2ssg!4v1647598046082!5m2!1sen!2ssg" width="450" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>

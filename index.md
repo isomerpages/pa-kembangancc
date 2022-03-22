@@ -35,7 +35,7 @@ sections:
       button: more about Tan chuan-jin
       alt: Image alt text
       url: https://pa-kembangancc-staging.netlify.app/resources/lifelong-learning/
-      image: /images/Tan Chuan-Jin-300x299.jpg
+      image: /images/Tan Chuan-Jin-450x450.jpg
   - infobar:
       title: Volunteer with Us
       description: Forge new friendships and be part of the volunteer family in Marine

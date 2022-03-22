@@ -30,3 +30,5 @@ The Kembangan-Chai Chee Support For Community Fund seeks to provide necessary as
 <tr><td>Contact Kampong Ubi CC for details</td>
 </tbody>
 </table>
+
+<b>Kampong Ubi CC Contact Details</b>

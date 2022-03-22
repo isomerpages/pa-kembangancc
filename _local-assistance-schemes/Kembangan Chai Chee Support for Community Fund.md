@@ -20,7 +20,7 @@ The Kembangan-Chai Chee Support For Community Fund seeks to provide necessary as
 <b>Benefits</b>
 <table  style="font-size:130%; background-color:#f2f2f2">
 <tbody>
-	<tr><td>Dependent on what necessities or support is required</td></tr>
+	<tr><td>Necessities and miscellaneous support on a case-by-case basis</td></tr>
 </tbody>
 </table>
 

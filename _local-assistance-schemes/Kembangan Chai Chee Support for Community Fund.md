@@ -6,3 +6,13 @@ description: ""
 The Kembangan-Chai Chee Support For Community Fund seeks to provide necessary assistance to support less privileged residents in K-CC. E.g., essentials such as food, toiletries, household items. 
 
 Eligibility:
+<table  style="font-size:130%; background-color:#f2f2f2">
+<tbody>
+<tr><td>Singaporean or PR aged 21 years and above</td>
+</tr>
+<tr><td>Total Household Income <= $1,900 or Per Capita Income <= $650</td></tr>
+<tr><td> Referrals from community partners or GROs</td>
+</tr>
+<tr><td>Residents residing in rental blocks or under ComCare assistance</td></tr>
+</tbody>
+</table>

@@ -20,14 +20,14 @@ The Kembangan-Chai Chee Support For Community Fund seeks to provide necessary as
 <b>Benefits</b>
 <table  style="font-size:130%; background-color:#f2f2f2">
 <tbody>
-<tr><td>Dependent on what necessities or support is required</td>
+	<tr><td>Dependent on what necessities or support is required</td></tr>
 </tbody>
 </table>
 
 <b>How to Apply</b>
 <table  style="font-size:130%; background-color:#f2f2f2">
 <tbody>
-<tr><td>Contact Kampong Ubi CC for details</td>
+	<tr><td>Contact Kampong Ubi CC for details</td></tr>
 </tbody>
 </table>
 

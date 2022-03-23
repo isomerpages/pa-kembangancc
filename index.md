@@ -11,17 +11,21 @@ sections:
       background: /images/hero-banner.png
       title: Kembangan-Chai Chee
       dropdown:
-        title: Explore Our Events
+        title: Explore Our Programmes
         options:
+          - title: All Programmes
+            url: /resources
           - title: Environment
             url: /resources/environment/
           - title: Lifelong Learning
             url: /resources/lifelong-learning/
           - title: Social Good
             url: /resources/social-good/
+          - title: Healthy Living
+            url: /healthy-living
   - resources:
-      title: Key Events
-      button: View More events
+      title: Key Programmes
+      button: View More Programmes
   - infobar:
       title: Our Vision
       description: Through creative and targeted programming, the Marine Parade
@@ -42,4 +46,12 @@ sections:
         Parade Cluster!
       button: find out more
       url: /volunteer
+  - infopic:
+      title: Our Vision
+      subtitle: Infopic Subtitle
+      description: Through creative and targeted programming, the Marine Parade
+        Cluster aspires to connect and serve the needs of the different profiles
+        within the community.
+      image: /images/vision-homepage-image.jpg
+      alt: Image alt text
 ---

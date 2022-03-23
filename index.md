@@ -8,7 +8,7 @@ notification: Please contact us at kembangan-chaichee@pa.gov.sg if you have any 
 sections:
   - hero:
       subtitle: Immerse in the buzz and happenings of your neighbourhood.
-      background: /images/hero-banner.png
+      background: /images/MPGRC Advisers CNY.png
       title: Kembangan-Chai Chee
       dropdown:
         title: Explore Our Programmes
@@ -26,11 +26,14 @@ sections:
   - resources:
       title: Key Programmes
       button: View More Programmes
-  - infobar:
+  - infopic:
       title: Our Vision
+      subtitle: Infopic Subtitle
       description: Through creative and targeted programming, the Marine Parade
         Cluster aspires to connect and serve the needs of the different profiles
         within the community.
+      image: /images/vision-homepage-image.jpg
+      alt: Image alt text
   - infopic:
       title: Tan Chuan-Jin
       subtitle: Grassroots Adviser
@@ -47,11 +50,12 @@ sections:
       button: find out more
       url: /volunteer
   - infopic:
-      title: Our Vision
+      title: Volunteer with Us
       subtitle: Infopic Subtitle
-      description: Through creative and targeted programming, the Marine Parade
-        Cluster aspires to connect and serve the needs of the different profiles
-        within the community.
-      image: /images/vision-homepage-image.jpg
-      alt: Image alt text
+      description: Forge new friendships and be part of the volunteer family in Marine
+        Parade Cluster!
+      button: Find Out More
+      url: /volunteer
+      image: /images/volunteer-homepage-image.jpg
+      alt: Volunteer
 ---

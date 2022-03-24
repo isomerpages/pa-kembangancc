@@ -41,7 +41,7 @@ sections:
         should be done.\""
       button: more about Tan chuan-jin
       alt: Image alt text
-      url: https://pa-kembangancc-staging.netlify.app/resources/lifelong-learning/
+      url: https://www.facebook.com/TanChuanJin1
       image: /images/TCJ_forwebsite copy.jpg
   - infopic:
       title: Volunteer with Us

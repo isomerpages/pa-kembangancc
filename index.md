@@ -28,7 +28,7 @@ sections:
       button: View More Programmes
   - infopic:
       title: Our Vision
-      subtitle: Infopic Subtitle
+      subtitle: Marine Parade cluster
       description: Through creative and targeted programming, the Marine Parade
         Cluster aspires to connect and serve the needs of the different profiles
         within the community.
@@ -45,7 +45,7 @@ sections:
       image: /images/TCJ_forwebsite copy.jpg
   - infopic:
       title: Volunteer with Us
-      subtitle: Infopic Subtitle
+      subtitle: get involved
       description: Forge new friendships and be part of the volunteer family in Marine
         Parade Cluster!
       button: Find Out More

@@ -42,7 +42,7 @@ sections:
       button: more about Tan chuan-jin
       alt: Image alt text
       url: https://pa-kembangancc-staging.netlify.app/resources/lifelong-learning/
-      image: /images/Tan Chuan-Jin-450x450.jpg
+      image: /images/90178719_2923288361047253_403901511949615104_n.jpg
   - infopic:
       title: Volunteer with Us
       subtitle: Infopic Subtitle

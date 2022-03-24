@@ -3,7 +3,7 @@ url: ""
 favicon: /images/MPC_logo_favicon.png
 colors:
   primary-color: "#199aab"
-  secondary-color: "#59d5e3"
+  secondary-color: "#aa1908"
   media-colors:
     - title: media-color-one
       color: "#f8d442"

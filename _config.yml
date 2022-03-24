@@ -3,18 +3,18 @@ url: ""
 favicon: /images/MarineParadeGRC_Logo.png
 colors:
   primary-color: "#199aab"
-  secondary-color: "#4372d6"
+  secondary-color: "#f7b637"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#f8d442"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#7573b6"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
-      color: "#00838f"
+      color: "#f15a4e"
     - title: media-color-five
-      color: "#00838f"
+      color: "#e68365"
 resources_name: Resources
 description: ""
 permalink: none

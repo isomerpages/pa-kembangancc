@@ -28,7 +28,7 @@ sections:
       button: View More Programmes
   - infopic:
       title: Our Vision
-      subtitle: Marine Parade cluster
+      subtitle: Marine Parade GRC
       description: Through creative and targeted programming, the Marine Parade
         Cluster aspires to connect and serve the needs of the different profiles
         within the community.

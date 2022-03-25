@@ -14,4 +14,9 @@ Through volunteering, you can gain insights on your community; gain new skills a
 
 <b>	Embark on Your Volunteering Journey Today!</b>
 <br>Are you passionate about driving a change in the community? Wear the hat of a community builder and change someone's life today!</br>
-Join us here: www.go.gov.sg/mpcvolunteer 
+Join us here: www.go.gov.sg/mpcvolunteer
+
+<b>	Not Sure Where to Start?</b>
+<br>Browse [Oppourtunities](/resources) to get involved or head down to your nearest Community Centre!
+
+

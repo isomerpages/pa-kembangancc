@@ -15,7 +15,7 @@ description: ""
  <td><b>Location:</b></td><td>Blk 109 Lengkong Tiga</td>
 </tr>
 <tr>
- <td><b>Date:</b> </td><td>20 March 2022</td>
+ <td><b>Date:</b> </td><td>Every Wednesday</td>
 </tr>
 <tr>
 	<td> <b>Time:</b> </td><td> 12:15PM - 1:30PM</td>

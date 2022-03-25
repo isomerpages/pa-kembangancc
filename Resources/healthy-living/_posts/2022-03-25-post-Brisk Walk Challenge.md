@@ -5,7 +5,6 @@ date: 2022-03-25
 layout: post
 description: ""
 ---
-
 ### Brisk Walk Challenge ### 
 
 <img style="height:100%; width:100%; max-width:450px; min-height:100px" src="/images/Brisk Walk.jpg">

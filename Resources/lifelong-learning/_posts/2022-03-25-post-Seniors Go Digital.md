@@ -23,6 +23,6 @@ description: ""
 </tbody>
 </table>
 
-Join us for a beach clean up at East Coast Park to make our park a cleaner and better place!
+Here’s a series of upcoming Seniors Go Digital virtual classes or 1-to-1 engagement sessions through Zoom or video call in August 2021 for our residents.
 
 <div><center><a class="bp-button is-uppercase search-button" style="background-color:darkblue; color:white" href="form.gov.sg"> Click here to Register Now! </a></center></div>

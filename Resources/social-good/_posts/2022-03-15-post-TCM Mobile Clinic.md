@@ -15,7 +15,7 @@ description: ""
  <td><b>Location:</b></td><td>Lengkong Tiga (Lengkong Tiga RC Foyer)</td>
 </tr>
 <tr>
- <td><b>Date:</b> </td><td>Every Saturdy</td>
+ <td><b>Date:</b> </td><td>Every Saturday</td>
 </tr>
 <tr>
 	<td> <b>Time:</b> </td><td> 12:30PM - 1:30PM</td>

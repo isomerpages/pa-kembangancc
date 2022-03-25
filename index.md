@@ -22,7 +22,7 @@ sections:
           - title: Social Good
             url: /resources/social-good/
           - title: Healthy Living
-            url: /healthy-living
+            url: resources/healthy-living/
   - resources:
       title: Key Programmes
       button: View More Programmes

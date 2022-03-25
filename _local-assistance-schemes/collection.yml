@@ -2,4 +2,5 @@ collections:
   local-assistance-schemes:
     output: true
     order:
+      - Local Assistance Schemes.md
       - Kembangan Chai Chee Support for Community Fund.md

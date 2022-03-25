@@ -23,6 +23,8 @@ sections:
             url: /resources/social-good/
           - title: Healthy Living
             url: /resources/healthy-living/
+          - title: Others
+            url: /resources/others/
   - resources:
       title: Key Programmes
       button: View More Programmes

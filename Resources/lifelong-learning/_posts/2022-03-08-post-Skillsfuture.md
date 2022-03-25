@@ -5,7 +5,7 @@ date: 2022-03-08
 layout: post
 description: ""
 ---
-### E-Learning @ Virtual CC ### 
+### E-Learning @ Kampong Kembangan CC ### 
 
 <img style="height:100%; width:100%; max-width:550px; min-height:100px" src="/images/E-learning.jpg">
 

@@ -5,8 +5,7 @@ date: 2022-03-25
 layout: post
 description: ""
 ---
-### Mother's Day Preserved Flowers Workshop
- ### 
+### Mother's Day Preserved Flowers Workshop ### 
 
 <img style="height:100%; width:100%; max-width:450px; min-height:100px" src="/images/Mother's Day Preserved Flowers Workshop.jpg">
 

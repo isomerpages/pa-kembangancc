@@ -26,7 +26,7 @@ sections:
           - title: Others
             url: /resources/others/
   - resources:
-      title: Key Programmes
+      title: Featured Programmes
       button: View More Programmes
   - infopic:
       title: Our Vision

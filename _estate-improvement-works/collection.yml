@@ -1,4 +1,5 @@
 collections:
   estate-improvement-works:
     output: true
-    order: []
+    order:
+      - All Estate Improvement Works.md

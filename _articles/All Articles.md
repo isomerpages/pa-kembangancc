@@ -3,8 +3,7 @@ title: All Articles
 permalink: /articles/all-articles
 description: ""
 ---
-
-![](/images/Website%20-%20Schemes%20Banner.png)
+![](/images/Stories%20of%20K-CC%20Banner.png)
 
 Meet some of our everyday samaritans and changemakers who make a difference and contribute to the lives of the people around us.
 

@@ -1,5 +1,5 @@
 collections:
-  articles:
+  stories:
     output: true
     order:
       - All Articles.md

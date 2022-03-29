@@ -2,4 +2,5 @@ collections:
   articles:
     output: true
     order:
+      - All Articles.md
       - Giving Back In Your Own Ways.md

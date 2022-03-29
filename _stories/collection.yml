@@ -2,5 +2,5 @@ collections:
   stories:
     output: true
     order:
-      - All Articles.md
+      - All Stories.md
       - Giving Back in Your Own Ways.md

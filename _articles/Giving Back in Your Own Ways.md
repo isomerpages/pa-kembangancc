@@ -3,12 +3,9 @@ title: Giving Back in Your Own Ways
 permalink: /articles/giving-back-in-you-own-ways
 description: ""
 ---
-
-#### Meet Jarel Tang, Kampong Kembangan CC YEC ####
+#### Meet Jarel Tang ####
 One of his first activities with the YEC was a back- to school outing for children, aged six to 14 living in rental blocks in Chai Chee estate. "As we began
 to build relationships with them, we realised that it wasn’t enough to have a one-off programme to mentor and help these kids,” he explains. “So we decided to start the Homework Club in 2013. The twice-weekly programme sees volunteers tutoring children from low-income families.” 
-
-<iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/zGBRPggAi9c" height="400" width="100%"></iframe>
 
 “I didn’t want to stop giving back to the community after my graduation, so I joined the Kampong Kembangan CC Youth Executive Committee (YEC) in 2013,” says the 21 year-old (at the time), who travelled to the United Kingdom to study
 Economics. 

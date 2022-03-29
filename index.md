@@ -8,7 +8,7 @@ notification: Please contact us at kembangan-chaichee@pa.gov.sg if you have any 
 sections:
   - hero:
       subtitle: Immerse in the buzz and happenings of your neighbourhood.
-      background: /images/MPGRC Advisers CNY.png
+      background: /images/Hero Banner.jpg
       title: Kembangan-Chai Chee
       dropdown:
         title: Explore Our Programmes

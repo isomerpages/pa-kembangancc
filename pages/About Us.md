@@ -85,7 +85,7 @@ input:checked + label + .content {
 <input type="checkbox" id="Social Good">
 	<label for="Social Good" style="background-color: #F05A4D; color:#f7f7f7;"><b>Social Good</b></label>
 <div class="content" style="background-color:#edf4fa;">
-<p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">To promote a caring and inclusive eco-system for the GRC. Find Out More. </a></p>  
+<p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">To promote a caring and inclusive eco-system for the GRC. </a></p>  
 </div>
 	
 	

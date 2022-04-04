@@ -107,6 +107,3 @@ input:checked + label + .content {
 <p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">To promote a holistic approach to advocate an active and healthier lifestyle together as a community.</p>
 	
 </div>
-
-
-</table>

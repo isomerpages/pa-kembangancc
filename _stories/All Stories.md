@@ -3,9 +3,7 @@ title: All Stories
 permalink: /articles/all-stories
 description: ""
 ---
-
-
-![](/images/Stories%20of%20K-CC%20Banner.png)
+![](/images/Banners/Stories%20of%20K-CC%20Banner.png)
 
 Meet some of our everyday samaritans and changemakers who make a difference and contribute to the lives of the people around us.
 

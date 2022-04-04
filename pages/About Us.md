@@ -85,25 +85,26 @@ input:checked + label + .content {
 <input type="checkbox" id="Social Good">
 	<label for="Social Good" style="background-color: #F05A4D; color:#f7f7f7;"><b>Social Good</b></label>
 <div class="content" style="background-color:#edf4fa;">
-<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">To promote a caring and inclusive eco-system for the GRC. Find Out More. </a></p>  </p>
+<p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">To promote a caring and inclusive eco-system for the GRC. Find Out More. </a></p>  
 </div>
 	
 	
 <input type="checkbox" id="Environment">
 	<label for="Environment" style="background-color: #0299AA; color:#f7f7f7;"><b>Environment</b></label>
 <div class="content" style="background-color:#edf4fa;">
-<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Leveraging on the Green movement trends, action will be taken at the GRC level to inspire the community to care for and protect the enivronment by adopting a clean, green and sustainable lifestyle.</p>
+<p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">Leveraging on the Green movement trends, action will be taken at the GRC level to inspire the community to care for and protect the enivronment by adopting a clean, green and sustainable lifestyle.</p>
 </div>
 	
-<input type="checkbox" id="LTPHabove18">
-	<label for="LTPHabove18" style="background-color: #23537a; color:#f7f7f7;"><b>MOE or MOM Long-Term Pass Holders Aged 18 and Above who are Medically Ineligible for Vaccines</b></label>
+<input type="checkbox" id="Healthy Living">
+	<label for="Healthy Living" style="background-color: #E58265; color:#f7f7f7;"><b>Healthy Living</b></label>
 <div class="content" style="background-color:#edf4fa;">
-<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;"><b><u>Student’s Pass (STP), STP In-Principle Approval Holders and their Eligible Immediate Family Members</u></b></p>
-<p style="font-size:18px; margin-top: 10px; margin-bottom:20px; line-height:1.35;">- Applications must be submitted <b>at least 1 week before</b> the desired date of entry using <a target="_blank" href="https://go.gov.sg/moe-vaccination-exemption">this application form</a>.</p>
-<p style="font-size:18px; margin-top: 20px; margin-bottom:0px; line-height:1.35;"><b><u>Long-Term Pass Issued by MOM</u></b></p>
-<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">- <a target="_blank" href="https://www.mom.gov.sg/exempt-vaccination">Submit an exemption request before entry</a>. Request is subject to approval. Visit the <a target="_blank" href="https://www.mom.gov.sg/covid-19/vaccination-requirements-as-a-condition-for-mom-passes#pass-holders-who-can-be-exempted-from-vaccination">MOM website</a> for more details.</p>
-</div>
+<p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">To nuture a culture of life-long learning in the GRC.</p>
 
+</div>
+<input type="checkbox" id="Lifelong Learning">
+	<label for="Lifelong Learning" style="background-color: #7573B5; color:#f7f7f7;"><b>Lifelong Learning</b></label>
+<div class="content" style="background-color:#edf4fa;">
+<p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">To promote a holistic approach to advocate an active and healthier lifestyle together as a community.</p>
 	
 </div>
 

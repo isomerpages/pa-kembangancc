@@ -3,9 +3,6 @@ title: About Us
 permalink: /about-us
 description: ""
 ---
-
-
-
 The Cluster’s focus areas are to drive creativity, do-good via WeCare initiatives and engage the harder-to-reach segments of the community towards social cohesion and active citizenry.
 
 

@@ -23,10 +23,7 @@ description: ""
 <b>Our Key Categories</b>
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;"> 
 
-
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#0000; font-size:18px;">
-
-
 
 
 <title>Test Accordion</title>
@@ -86,15 +83,14 @@ input:checked + label + .content {
 
 	
 <input type="checkbox" id="Social Good">
-	<label for="Social Good" style="background-color: #61BF8F; color:#f7f7f7;"><b>Social Good</b></label>
+	<label for="Social Good" style="background-color: #F05A4D; color:#f7f7f7;"><b>Social Good</b></label>
 <div class="content" style="background-color:#edf4fa;">
-<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">To promote a caring and inclusive eco-system for the GRC.</p>
+<p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">To promote a caring and inclusive eco-system for the GRC. Find Out More. </a></p>  </p>
 </div>
 	
-
 	
 <input type="checkbox" id="Environment">
-	<label for="Environment" style="background-color: #61BF8F; color:#f7f7f7;"><b>Environment</b></label>
+	<label for="Environment" style="background-color: #0299AA; color:#f7f7f7;"><b>Environment</b></label>
 <div class="content" style="background-color:#edf4fa;">
 <p style="font-size:18px; margin-top: 10px; margin-bottom:0px; line-height:1.35;">Leveraging on the Green movement trends, action will be taken at the GRC level to inspire the community to care for and protect the enivronment by adopting a clean, green and sustainable lifestyle.</p>
 </div>
@@ -111,8 +107,5 @@ input:checked + label + .content {
 	
 </div>
 
-	
-	</ul><table style="font-size:130%;">
-	
 
 </table>

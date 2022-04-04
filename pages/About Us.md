@@ -15,7 +15,7 @@ description: ""
  <td><b><img style="width:500px; float:left;right-margin:20px;" alt="Singing" src="/images/About%20Us/Singing.gif"></b> </td><td>The GRC’s focus areas are to drive creativity, do-good via WeCare initiatives and engage the harder-to-reach segments of the community towards social cohesion and active citizenry.</td>
 </tr>
 <tr>
- <td><b><img style="width:500px; float:left;right-margin:20px;" alt="Fireworks" src="/images/About%20Us/Fireworks.gif"></b> </td><td>Through creative and targeted programming, the Marine Parade GRC aspires to connect and serve the needs of the different profiles within the community. <br>  
+ <td><b><img style="width:500px; float:left;right-margin:20px;" alt="Fireworks" src="/images/About%20Us/Fireworks.gif"></b> </td><td>Through creative and targeted programming, the Marine Parade GRC aspires to connect and serve the needs of the different profiles within the community. Discover our key programmes:  <br>  
 
 
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;"> 

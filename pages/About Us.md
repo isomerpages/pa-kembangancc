@@ -17,7 +17,10 @@ description: ""
 </tr>
 <tr>
  <td><b><img style="width:800px; float:left;right-margin:20px;" alt="Fireworks" src="/images/About%20Us/Fireworks.gif"></b> </td><td>Through creative and targeted programming, the Marine Parade GRC aspires to connect and serve the needs of the different profiles within the community. <br>
-	<b> Discover our key programmes:  <br>  
+	
+<b>Discover our key programmes: </b>
+<table style="font-size:130%;">
+
 
 
 <title>Test Accordion</title>

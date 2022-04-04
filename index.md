@@ -29,13 +29,14 @@ sections:
       title: Featured Programmes
       button: View More Programmes
   - infopic:
-      title: Our Vision
-      subtitle: Marine Parade GRC
-      description: Through creative and targeted programming, the Marine Parade
-        Cluster aspires to connect and serve the needs of the different profiles
-        within the community.
+      title: Our Mission
+      subtitle: wecare @ marine parade grc
+      description: The GRC aims to strengthen the Ground to be Purposeful, Efficient
+        and Responsive in Engaging Residents to build  Cohesive Community.
       image: /images/Vision.gif
       alt: Image alt text
+      button: more about us
+      url: " /about-us"
   - infopic:
       title: Tan Chuan-Jin
       subtitle: Grassroots Adviser

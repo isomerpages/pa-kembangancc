@@ -3,7 +3,7 @@ title: Volunteer
 permalink: /volunteer
 description: ""
 ---
-<img src="/images/k-cc-volunteer-banner.png"> 
+![](/images/Banners/k-cc-volunteer-banner.png)
 
 Through volunteering, you can gain insights on your community; gain new skills and knowledge through the myriad of activities and programmes. Forge new friendships and be part of the volunteer family in Marine Parade GRC!
 

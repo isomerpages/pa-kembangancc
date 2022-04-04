@@ -33,7 +33,7 @@ sections:
       subtitle: wecare @ marine parade grc
       description: The GRC aims to strengthen the Ground to be Purposeful, Efficient
         and Responsive in Engaging Residents to build a Cohesive Community.
-      image: /images/Vision.gif
+      image: /images/About Us/Ourvision.gif
       alt: Image alt text
       button: more about us
       url: " /about-us"

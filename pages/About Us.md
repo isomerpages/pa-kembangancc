@@ -6,16 +6,17 @@ description: ""
 <b>Our Vision</b>
 <table style="font-size:130%;">
 
+	
 </table><table style="font-size:120%">
 <tbody>
 <tr>
- <td><b> <img style="width:500px; float:left;right-margin:20px;" alt="Selfie" src="/images/About%20Us/Selfie.gif"> </b></td><td> The Marine Parade GRC brings residents together through various events and programmes at both GRCand Divisional Level.</td>
+ <td><b> <img style="width:500px; float:left;right-margin:500px;" alt="Selfie" src="/images/About%20Us/Selfie.gif"> </b></td><td> The Marine Parade GRC brings residents together through various events and programmes at both GRCand Divisional Level.</td>
 </tr>
 <tr>
- <td><b><img style="width:500px; float:left;right-margin:20px;" alt="Singing" src="/images/About%20Us/Singing.gif"></b> </td><td>The GRC’s focus areas are to drive creativity, do-good via WeCare initiatives and engage the harder-to-reach segments of the community towards social cohesion and active citizenry.</td>
+ <td><b><img style="width:500px; float:left;right-margin:500px;" alt="Singing" src="/images/About%20Us/Singing.gif"></b> </td><td>The GRC’s focus areas are to drive creativity, do-good via WeCare initiatives and engage the harder-to-reach segments of the community towards social cohesion and active citizenry.</td>
 </tr>
 <tr>
- <td><b><img style="width:500px; float:left;right-margin:20px;" alt="Fireworks" src="/images/About%20Us/Fireworks.gif"></b> </td><td>Through creative and targeted programming, the Marine Parade GRC aspires to connect and serve the needs of the different profiles within the community. Discover our key programmes:  <br>  
+ <td><b><img style="width:500px; float:left;right-margin:500px;" alt="Fireworks" src="/images/About%20Us/Fireworks.gif"></b> </td><td>Through creative and targeted programming, the Marine Parade GRC aspires to connect and serve the needs of the different profiles within the community. Discover our key programmes:  <br>  
 
 
 
@@ -104,3 +105,5 @@ input:checked + label + .content {
 <p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">To promote a holistic approach to advocate an active and healthier lifestyle together as a community.</p>
 	
 </div>
+	
+	

@@ -21,9 +21,6 @@ description: ""
 
 
 
-<div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#0000; font-size:18px;">
-
-
 <title>Test Accordion</title>
 
 <style>

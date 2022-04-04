@@ -20,7 +20,6 @@ description: ""
 </tbody>
 </table>
 
-<b>Our Key Categories</b>
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;"> 
 
 <div style="padding:10px 10px 5px 10px; margin-bottom:10px; line-height:1.35; background-color:#0000; font-size:18px;">

@@ -34,7 +34,7 @@ sections:
       description: Through creative and targeted programming, the Marine Parade
         Cluster aspires to connect and serve the needs of the different profiles
         within the community.
-      image: /images/vision-homepage-image.jpg
+      image: /images/Vision.gif
       alt: Image alt text
   - infopic:
       title: Tan Chuan-Jin

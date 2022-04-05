@@ -45,7 +45,7 @@ sections:
       button: more about Tan chuan-jin
       alt: Image alt text
       url: https://www.facebook.com/TanChuanJin1
-      image: /images/About Us/GRA-Speaker.png
+      image: /images/About Us/Speaker.png
   - infopic:
       title: Volunteer with Us
       subtitle: get involved

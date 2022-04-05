@@ -3,6 +3,8 @@ title: About Us
 permalink: /about-us
 description: ""
 ---
+![](/images/Banners/About%20GRC.png)
+
 <b>Our Vision</b>
 <table style="font-size:130%;">
 

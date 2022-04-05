@@ -3,7 +3,7 @@ title: KCC Utilities Assistance Scheme
 permalink: /local-assistance-schemes/utilities-assist-scheme
 description: ""
 ---
-<img src="/images/Website%20-%20Schemes%20Banner.png">
+![](/images/Local%20Assistance%20Scheme/Utilities%20Assistance%20Scheme.jpg)
 
 
 The Kembangan-Chai Chee Utilities Assistance Scheme seeks to offer a dollar-to-dollar top-up of up to $100* whichever is lower for utilities arrears of residents in hardship during the Covid-19 pandemic.

@@ -3,7 +3,6 @@ title: KCC Utilities Assistance Scheme
 permalink: /local-assistance-schemes/utilities-assist-scheme
 description: ""
 ---
-
 ![](/images/Local%20Assistance%20Scheme/Utilities%20Assistance%20Scheme.jpg)
 
 
@@ -21,6 +20,9 @@ The Kembangan-Chai Chee Utilities Assistance Scheme seeks to offer a dollar-to-d
 </tbody>
 </table>
 
+<table  style="font-size:130%; background-color:#f2f2f2">
+	*Applications may be submitted to support accumulated utilities arrears from 1 Feb 2020 onwards </table>
+	
 <b>Benefits</b>
 <table  style="font-size:130%; background-color:#f2f2f2">
 <tbody>

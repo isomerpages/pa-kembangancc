@@ -5,7 +5,6 @@ date: 2022-03-25
 layout: post
 description: ""
 ---
-
 ### Live Happy - Pastel Art ### 
 
 <img style="height:100%; width:100%; max-width:550px; min-height:100px" src="/images/Programmes (May 2022)/Live Happy.jpg">
@@ -26,4 +25,4 @@ description: ""
 
 “Live Happy” Programme helps to promote mental and social well-being.
 
-<div><center><a class="bp-button is-uppercase search-button" style="background-color:darkblue; color:white" href="http://go.gov.sg/basicsmartphoneusagekcc"> Click here to Register Now! </a></center></div>
+<div><center><a class="bp-button is-uppercase search-button" style="background-color:darkblue; color:white" href="http://go.gov.sg/pastelartkcc"> Click here to Register Now! </a></center></div>

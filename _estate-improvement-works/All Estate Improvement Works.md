@@ -13,9 +13,9 @@ description: ""
                 <a href="/estate-improvement-works/318-senior-citizen-corner">Read more...</a>
             </td>
             <td width="50%" style="border:0px;">
-                <img src="/images/Event%20Gallery/chingay50-mini-float-@-tanjong-pagar-grc-and-radin-mas-smc-2.jpeg" alt="@ Tanjong Pagar GRC and Radin Mas SMC" style="width:370px;height:auto;">
+                <img src="/images/Estate Improvements/Kembangan Station Linkway.jpg" alt="@ SeniorCitizens" alt="@ Tanjong Pagar GRC and Radin Mas SMC" style="width:370px;height:auto;">
                 <br>
-                <b>Chingay50 Mini Float @ Tanjong Pagar GRC and Radin Mas SMC</b><br>
+                <b>Construction of Sheltered Linkway along Kembangan Station Bus Stop</b><br>
                 <a href="/event-gallery/tanjong-pagar-grc-and-radin-mas-smc">Read more...</a>
             </td>
         </tr>

@@ -10,7 +10,7 @@ description: ""
 </table><table style="font-size:120%">
 <tbody>
 <tr>
- <td><b> <img style="width:600px; float:left;right-margin:20px;" alt="Selfie" src="/images/About%20Us/Selfie.gif"> </b></td><td> The Marine Parade GRC brings residents together through various events and programmes at both GRCand Divisional Level.</td>
+ <td><b> <img style="width:600px; float:left;right-margin:20px;" alt="Selfie" src="/images/About%20Us/Selfie.gif"> </b></td><td> The Marine Parade GRC brings residents together through various events and programmes at both GRC and Divisional Level.</td>
 </tr>
 <tr>
  <td><b><img style="width:600px; float:left;right-margin:20px;" alt="Singing" src="/images/About%20Us/Singing.gif"></b> </td><td>The GRC’s focus areas are to drive creativity, do-good via WeCare initiatives and engage the harder-to-reach segments of the community towards social cohesion and active citizenry.</td>

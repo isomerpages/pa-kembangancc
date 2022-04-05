@@ -3,7 +3,7 @@ title: Contact Us
 permalink: /contact-us
 description: ""
 ---
-![](/images/Banners/kcc-contact-us-banner.png)
+![](/images/Banners/KCC%20Contact%20Us.png)
 
 Should you have any enquiries, you may write to us at [kembangan-chaichee@pa.gov.sg](mailto:kembangan-chaichee@pa.gov.sg).
 

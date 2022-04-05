@@ -25,4 +25,4 @@ description: ""
 
 “Live Prepared” Programme helps to get seniors digital-ready by focusing on foundation digital skills and lifestyle/hobbies related digital activities. 
 
-<div><center><a class="bp-button is-uppercase search-button" style="background-color:darkblue; color:white" href="http://go/gov.sg/basicsmartphoneusagekcc"> Click here to Register Now! </a></center></div>
+<div><center><a class="bp-button is-uppercase search-button" style="background-color:darkblue; color:white" href="http://go.gov.sg/basicsmartphoneusagekcc"> Click here to Register Now! </a></center></div>

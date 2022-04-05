@@ -9,8 +9,6 @@ description: ""
 
 <img style="height:100%; width:100%; max-width:550px; min-height:100px" src="/images/Programmes (May 2022)/RescuedVeggiesDistribution(SimsAvenue).jpg">
 
-<br>
-
 <table  style="font-size:130%; background-color:#f2f2f2">
 <tbody>
 <tr>

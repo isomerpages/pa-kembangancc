@@ -2,6 +2,6 @@ collections:
   estate-improvement-works:
     output: true
     order:
-      - Linkway @ Kembangan Station Bus Stop.md
       - All Estate Improvement Works.md
       - Blk 318 Ubi Ave 1 Senior Citizen's Corner.md
+      - Linkway @ Kembangan Station Bus Stop.md

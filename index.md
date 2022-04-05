@@ -53,6 +53,6 @@ sections:
         Parade Cluster!
       button: Find Out More
       url: /volunteer
-      image: /images/About Us/Volunteering1.png
+      image: /images/About Us/Volunteering.png
       alt: Volunteer
 ---

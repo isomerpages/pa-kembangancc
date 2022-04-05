@@ -3,7 +3,7 @@ title: All Local Assistance Schemes
 permalink: /local-assistance-schemes/all-schemes
 description: ""
 ---
-![](/images/Banners/Website%20-%20Schemes%20Banner.png)
+![](/images/Banners/Local%20Assistance%20Schemes%20Banner.png)
 
 Get support for individuals and families from our various schemes. 
 

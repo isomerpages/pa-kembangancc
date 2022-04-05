@@ -12,7 +12,7 @@ description: ""
 <table  style="font-size:130%; background-color:#f2f2f2">
 <tbody>
 <tr>
-	<td><b>Location:</b></td><td><b>Kampong Ubi Community Centre</b> <br> 10 Jln Ubi, Singapore 409075 </td>
+	<td><b>Location:</b></td><td><b>Kampong Ubi Community Centre</b> <br> 10 Jln Ubi, Singapore 409075 <br> Classroom #02-01 </td>
 </tr>
 <tr>
  <td><b>Date:</b> </td><td>14 May 2022 (Saturday)</td>

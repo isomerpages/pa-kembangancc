@@ -14,17 +14,17 @@ sections:
         title: Explore Our Programmes
         options:
           - title: All Programmes
-            url: /resources
+            url: /programmes
           - title: Environment
-            url: /resources/environment/
+            url: /programmes/environment/
           - title: Lifelong Learning
-            url: /resources/lifelong-learning/
+            url: /programmes/lifelong-learning/
           - title: Social Good
-            url: /resources/social-good/
+            url: /programmes/social-good/
           - title: Healthy Living
-            url: /resources/healthy-living/
+            url: /programmes/healthy-living/
           - title: Others
-            url: /resources/others/
+            url: /programmes/others/
   - resources:
       title: Featured Programmes
       button: View More Programmes

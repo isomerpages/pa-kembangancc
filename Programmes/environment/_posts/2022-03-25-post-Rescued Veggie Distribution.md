@@ -5,8 +5,7 @@ date: 2022-03-25
 layout: post
 description: ""
 ---
-
-### Rescued Veggie Distribution ### 
+### Rescued Veggies Project ### 
 
 <img style="height:100%; width:100%; max-width:550px; min-height:100px" src="/images/Rescued Veggies Distribution.jpg">
 
@@ -24,7 +23,5 @@ description: ""
 </tbody>
 </table>
 
-Every Wednesday afternoon, our team of dedicated volunteers will distribute the rescued veggies & fruits from Pasir Panjang Wholesale Centre for our Kembangan residents. 
+Every Wednesday afternoon, our team of dedicated volunteers will distribute the rescued veggies & fruits from Pasir Panjang Wholesale Centre for our Kembangan residents. *While Stock Lasts
 
-
-<div><center><a class="bp-button is-uppercase search-button" style="background-color:darkblue; color:white" href="form.gov.sg"> Click here to Register Now! </a></center></div>

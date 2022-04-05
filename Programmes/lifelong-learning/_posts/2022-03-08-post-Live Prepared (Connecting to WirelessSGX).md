@@ -5,7 +5,6 @@ date: 2022-03-08
 layout: post
 description: ""
 ---
-
 ### Live Prepared - Connecting to Wireless @ SGX ### 
 
 <br>

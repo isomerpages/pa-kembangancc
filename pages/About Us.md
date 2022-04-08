@@ -11,10 +11,10 @@ description: ""
 <table style="font-size:120%; margin-top: 0px; margin-bottom:20px;">
 <tbody>
 <tr>
- <td><b> <img style="width:600px; vertical-align:middle; float:left;right-margin:20px;" alt="Selfie" src="/images/About%20Us/Selfie.gif"> </b></td><td> The Marine Parade GRC brings residents together through various events and programmes at both GRC and Divisional Level.</td>
+ <td><b> <img style="width:600px; vertical-align:middle; float:left;right-margin:20px;" alt="Selfie" src="/images/About%20Us/Selfie.gif"> </b></td><td> <div style="vertical-align:middle;">The Marine Parade GRC brings residents together through various events and programmes at both GRC and Divisional Level.</div></td>
 </tr>
 <tr>
- <td><b><img style="width:400px; padding-top:auto; padding-bottom:auto; float:left;right-margin:20px;" alt="Singing" src="/images/About%20Us/Singing-3.gif"></b> </td><td>The GRC’s focus areas are to drive creativity, do-good via WeCare initiatives and engage the harder-to-reach segments of the community towards social cohesion and active citizenry.</td>
+ <td><b><img style="width:400px; padding-top:auto; padding-bottom:auto; float:left;right-margin:20px;" alt="Singing" src="/images/About%20Us/Singing-3.gif"></b> </td><td><div style="vertical-align:middle;">The GRC’s focus areas are to drive creativity, do-good via WeCare initiatives and engage the harder-to-reach segments of the community towards social cohesion and active citizenry.</div></td>
 </tr>
 <tr>
  <td><b><img style="width:600px; float:left;right-margin:20px;" alt="Fireworks" src="/images/About%20Us/Fireworks.gif"></b> </td><td>Through creative and targeted programming, the Marine Parade GRC aspires to connect and serve the needs of the different profiles within the community. <br><br></td></tr>

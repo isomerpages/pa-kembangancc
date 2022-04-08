@@ -20,7 +20,7 @@ description: ""
 	
 <table style="font-size:120%">
 	
-<b>Discover our key programmes: </b> <p style=" font-size:120%; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;">(Click ‘+’ to expand for details)</p>
+<p style=" font-size:120%; margin-top: 0px; margin-bottom:20px; line-height:1.35;"> <b>Discover our key programmes: </p></b> <p style=" font-size:120%; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;">(Click ‘+’ to expand for details)</p>
 
 <style>
 

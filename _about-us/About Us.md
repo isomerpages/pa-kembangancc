@@ -12,7 +12,6 @@ The GRC aims to strengthen the Ground to be Purposeful, Efficient and Responsive
 <b>Our Vision</b>
 	
 <table style="font-size:120%; margin-top: 0px; margin-bottom:20px;">
-<tbody>
 <tr>
  <td><b> <img style="width:400px; vertical-align:middle; float:left;right-margin:20px;" alt="Selfie" src="/images/About%20Us/Vision-1.gif"> </b></td><td>The Marine Parade GRC brings residents together through various events and programmes at both GRC and Divisional Level.</td>
 </tr>

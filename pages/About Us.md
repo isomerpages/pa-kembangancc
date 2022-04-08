@@ -20,6 +20,8 @@ description: ""
 <tr>
  <td><b><img style="width:600px; float:left;right-margin:20px;" alt="Fireworks" src="/images/About%20Us/Fireworks.gif"></b> </td><td>Through creative and targeted programming, the Marine Parade GRC aspires to connect and serve the needs of the different profiles within the community. <br><br></td>
 	
+</table>
+	
 <table>
 	
 <b>Discover our key programmes: </b> <p style=" font-size:16px; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;">(Click ‘+’ to expand for details)</p>

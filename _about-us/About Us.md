@@ -17,7 +17,7 @@ The GRC aims to strengthen the Ground to be Purposeful, Efficient and Responsive
  <td><b> <img style="width:400px; vertical-align:middle; float:left;right-margin:20px;" alt="Selfie" src="/images/About%20Us/Vision-1.gif"> </b></td><td>The Marine Parade GRC brings residents together through various events and programmes at both GRC and Divisional Level.</td>
 </tr>
 <tr>
- <td><b><img style="width:400px; padding-top:auto; padding-bottom:auto; float:left;right-margin:20px;" alt="Singing" src="/images/About%20Us/Vision-2.gif"></b> </td><td>The GRC’s focus areas are to drive creativity, do-good via WeCare initiatives and engage the harder-to-reach segments of the community towards social cohesion and active citizenry.</td>
+ <td><b><img style="width:400px; float:left;right-margin:20px;" alt="Singing" src="/images/About%20Us/Vision-2.gif"></b> </td><td>The GRC’s focus areas are to drive creativity, do-good via WeCare initiatives and engage the harder-to-reach segments of the community towards social cohesion and active citizenry.</td>
 </tr>
 <tr>
  <td><b><img style="width:400px; float:left;right-margin:20px;" alt="Fireworks" src="/images/About%20Us/Vision-3.gif"></b> </td><td>Through creative and targeted programming, the Marine Parade GRC aspires to connect and serve the needs of the different profiles within the community. <br><br></td></tr>
@@ -28,9 +28,9 @@ The GRC aims to strengthen the Ground to be Purposeful, Efficient and Responsive
 
 <style>
 
-tr {
-	display: flex;
-	vertical-align:middle;
+td {
+		display: flex;
+		vertical-align:middle;
 }
 	
 input {

@@ -32,6 +32,7 @@ The GRC aims to strengthen the Ground to be Purposeful, Efficient and Responsive
 
 h4 {
 		font-size: 20px;
+		color: #009ED9;
 		display:table-cell;
     vertical-align:middle;
 }

@@ -18,11 +18,11 @@ description: ""
  <td><b>Date:</b> </td><td>30 April 2022</td>
 </tr>
 <tr>
-	<td> <b>Time:</b> </td><td> 2:30PM - 4:30PM</td>
+	<td> <b>Time:</b> </td><td> <b>Session 1:</b> 2:30PM - 3:30PM <br><b>Session 2:</b> 3:30PM - 4:30PM</td>
 </tr>
 </tbody>
 </table>
 
 Join us to celebrate Mother’s Day through self-arranged preserved flowers for mothers and understand the unique properties of Preserved flowers! 💐👩🏻
 
-<div><center><a class="bp-button is-uppercase search-button" style="background-color:darkblue; color:white" href="form.gov.sg"> Click here to Register Now! </a></center></div>
+<div><center><a class="bp-button is-uppercase search-button" style="background-color:darkblue; color:white" href="https://www.go.gov.sg/mothersdaypfw "> Click here to Register Now! </a></center></div>

@@ -13,7 +13,7 @@ The GRC aims to strengthen the Ground to be Purposeful, Efficient and Responsive
 	
 <table style="font-size:120%; margin-top: 0px; margin-bottom:20px;">
 <tr>
- <td><b> <img style="width:400px; vertical-align:middle; float:left;right-margin:20px;" alt="Selfie" src="/images/About%20Us/Vision-1.gif"> </b></td><td><h4>The Marine Parade GRC brings residents together through various events and programmes at both GRC and Divisional Level.</h4></td>
+ <td><b> <img style="width:400px; vertical-align:middle; float:left;right-margin:20px;" alt="Selfie" src="/images/About%20Us/Vision-1.gif"> </b></td><td>The Marine Parade GRC brings residents together through various events and programmes at both GRC and Divisional Level.</td>
 </tr>
 <tr>
  <td align="left" valign="middle"><b><img style="width:400px; float:left;right-margin:20px;" alt="Singing" src="/images/About%20Us/Vision-2.gif"></b> </td><td>The GRC’s focus areas are to drive creativity, do-good via WeCare initiatives and engage the harder-to-reach segments of the community towards social cohesion and active citizenry.</td>
@@ -30,11 +30,8 @@ The GRC aims to strengthen the Ground to be Purposeful, Efficient and Responsive
 
 <style>
 
-h4 {
-		font-size: 20px;
-		color: #009ED9;
-		display:table-cell;
-    vertical-align:middle;
+td {
+		vertical-align: middle;
 }
 	
 input {

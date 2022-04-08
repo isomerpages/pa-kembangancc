@@ -6,7 +6,6 @@ description: ""
 ![](/images/Banners/About%20GRC.png)
 
 <b>Our Vision</b>
-
 	
 <table style="font-size:120%; margin-top: 0px; margin-bottom:20px;">
 <tbody>
@@ -27,6 +26,11 @@ description: ""
 
 <style>
 
+td {
+  text-align: justify;
+  vertical-align: middle;
+}
+	
 input {
     display: none;
 }

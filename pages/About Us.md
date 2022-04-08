@@ -108,4 +108,3 @@ To promote a caring and inclusive eco-system for the GRC. <a href="/programmes/s
 <p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">To promote a holistic approach to advocate an active and healthier lifestyle together as a community. <a href="/programmes/lifelong-learning"> Explore Lifelong Learning-> </a>  </p>
 	
 </div>
-</table>

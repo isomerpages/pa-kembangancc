@@ -22,7 +22,7 @@ description: ""
 	
 <table>
 	
-<b>Discover our key programmes: </b>
+<b>Discover our key programmes: </b> <p style=" font-size:16px; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;">(Click ‘+’ to expand for details)</p>
 
 <style>
 

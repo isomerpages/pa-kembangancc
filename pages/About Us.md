@@ -32,6 +32,7 @@ input {
 
 label {
     display: block;    
+	  font-size: 120%;
     padding: 10px 30px;
     margin: 0 0 1px 0;
     cursor: pointer;

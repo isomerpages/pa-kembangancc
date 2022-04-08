@@ -5,6 +5,10 @@ description: ""
 ---
 ![](/images/Banners/About%20GRC.png)
 
+<b>Our Mission</b>
+
+The GRC aims to strengthen the Ground to be Purposeful, Efficient and Responsive in Engaging Residents to build a Cohesive Community.
+
 <b>Our Vision</b>
 	
 <table style="font-size:120%; margin-top: 0px; margin-bottom:20px;">

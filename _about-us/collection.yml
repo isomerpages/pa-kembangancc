@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Partners.md
       - About Us.md
+      - Our Partners.md
       - Contact Us.md

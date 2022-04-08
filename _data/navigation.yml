@@ -14,3 +14,5 @@ links:
     url: /volunteer
   - title: Contact Us
     url: /contact-us
+  - title: About Us
+    collection: about-us

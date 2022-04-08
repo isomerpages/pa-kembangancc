@@ -36,7 +36,7 @@ sections:
       image: /images/About Us/OurVision.gif
       alt: Image alt text
       button: more about us
-      url: " /about-us"
+      url: about-us/about-us
   - infopic:
       title: Tan Chuan-Jin
       subtitle: Grassroots Adviser

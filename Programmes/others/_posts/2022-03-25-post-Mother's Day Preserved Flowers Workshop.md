@@ -15,7 +15,7 @@ description: ""
  <td><b>Location:</b></td><td>Kampong Kembangan CC Hall</td>
 </tr>
 <tr>
- <td><b>Date:</b> </td><td>30 April 2022</td>
+ <td><b>Date:</b> </td><td>30 April 2022 (Saturday) </td>
 </tr>
 <tr>
 	<td> <b>Time:</b> </td><td> <b>Session 1:</b> 2:30PM - 3:30PM <br><b>Session 2:</b> 3:30PM - 4:30PM</td>

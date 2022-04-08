@@ -1,5 +1,7 @@
 logo: /images/MPC_logo_nobg.png
 links:
+  - title: About Us
+    collection: about-us
   - title: Programmes
     resource_room: true
   - title: Local Assistance Schemes
@@ -12,7 +14,3 @@ links:
     url: /flexi-jobs
   - title: Volunteer
     url: /volunteer
-  - title: Contact Us
-    url: /contact-us
-  - title: About Us
-    collection: about-us

@@ -9,7 +9,7 @@ description: ""
 <table style="font-size:130%;">
 
 	
-</table><table style="font-size:120%">
+</table><table style="font-size:120%; margin-top: 0px; margin-bottom:20px;">
 <tbody>
 <tr>
  <td><b> <img style="width:600px; float:left;right-margin:20px;" alt="Selfie" src="/images/About%20Us/Selfie.gif"> </b></td><td> The Marine Parade GRC brings residents together through various events and programmes at both GRC and Divisional Level.</td>
@@ -24,7 +24,7 @@ description: ""
 	
 <table>
 	
-<b>Discover our key programmes: </b> <p style=" font-size:16px; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;">(Click ‘+’ to expand for details)</p>
+<b>Discover our key programmes: </b> <p style=" font-size:120%; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;">(Click ‘+’ to expand for details)</p>
 
 <style>
 

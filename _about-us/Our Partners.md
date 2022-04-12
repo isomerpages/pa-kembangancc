@@ -11,3 +11,4 @@ description: ""
 							<div style="display:flex; padding-top: 15px;"><img src="/images/e2i_Logo2.png" style="width: 80px; float: left;"> </div>
 							<div style="display:flex; padding-top: 15px;"><img src="/images/Logos/HPB_Logo.png" style="width: 80px; float: left;"> </div>
 							<div style="display:flex; padding-top: 15px;"><img src="/images/Logos/NEA_Logo.png" style="width: 80px; float: left;"> </div>
+							<div style="display:flex; padding-top: 15px;"><img src="/images/Logos/ActiveSG_Logo.png" style="width: 80px; float: left;"> </div>

@@ -5,11 +5,7 @@ description: ""
 ---
 ![](/images/Banners/About%20MPC.png)
 
-
-![](/images/About%20Us/Ourvision.png)
 <b>Our Vision</b>
-	
-
 	
 <table style="font-size:120%; margin-top: 0px; margin-bottom:20px;">
 <tr>

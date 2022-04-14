@@ -3,10 +3,10 @@ title: All Stories
 permalink: /articles/all-stories
 description: ""
 ---
-
 ![](/images/Banners/Stories.png)
 
-Meet some of our everyday samaritans and changemakers who make a difference and contribute to the lives of the people around us.
+<b>Our Local Heroes</b>
+<br>Meet some of our everyday samaritans and changemakers who make a difference and contribute to the lives of the people around us. <br>
 
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;"> 
 

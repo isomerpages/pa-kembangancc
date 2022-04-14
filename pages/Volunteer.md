@@ -15,4 +15,4 @@ Through volunteering, you can gain insights on your community; gain new skills a
 <div><a href="form.gov.sg" style="background-color:darkblue; color:white" class="bp-button is-uppercase search-button"> get involved </a></div>
 
 <b>	Not Sure Where to Start?</b>
-<br>Browse [opportunities](/resources) to get involved or head down to your nearest Community Centre!
+<br>Browse [opportunities](/resources) to get involved or head down to your nearest Community Club/Centre!

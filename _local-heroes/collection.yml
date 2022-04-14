@@ -1,5 +1,5 @@
 collections:
-  stories:
+  local-heroes:
     output: true
     order:
       - All Stories.md

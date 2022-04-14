@@ -44,7 +44,7 @@ sections:
       subtitle: Grassroots Adviser
       description: "\"If you're able to step up and give back something, I think that
         should be done.\""
-      button: more about Tan chuan-jin
+      button: Tan chuan-jin's FACEBOOK PAGE
       alt: Image alt text
       url: https://www.facebook.com/TanChuanJin1
       image: /images/About Us/Speaker.png

@@ -6,8 +6,8 @@ links:
     resource_room: true
   - title: Local Assistance Schemes
     collection: local-assistance-schemes
-  - title: Stories
-    collection: stories
+  - title: Local Heroes
+    collection: local-heroes
   - title: Estate Improvements
     collection: estate-improvement-works
   - title: Flexi Jobs

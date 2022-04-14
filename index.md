@@ -4,7 +4,7 @@ title: Kembangan-Chai Chee
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: "Disclaimer: Please note that this is a staging website and is
+notification: "Disclaimer: Please note that this is a staging website and it is
   still under development."
 sections:
   - hero:

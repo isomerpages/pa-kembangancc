@@ -3,7 +3,7 @@ title: About Us
 permalink: /about-us/about-us
 description: ""
 ---
-![](/images/Banners/About%20GRC.png)
+![](/images/Banners/About%20MPC.png)
 
 
 

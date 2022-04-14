@@ -3,8 +3,7 @@ title: Local Assistance Scheme
 permalink: /localassistancescheme
 description: ""
 ---
-![](/images/Website%20-%20Schemes%20Banner.png)
-
+![](/images/Banners/Local%20Assistance%20Schemes.png)
 Get support for individuals and families from our various schemes. 
 
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;"> 

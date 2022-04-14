@@ -4,7 +4,8 @@ title: Kembangan-Chai Chee
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Please contact us at kembangan-chaichee@pa.gov.sg if you have any queries.
+notification: "Disclaimer: Please note that this is a staging website and is
+  still under development."
 sections:
   - hero:
       subtitle: Immerse in the buzz and happenings of your neighbourhood.

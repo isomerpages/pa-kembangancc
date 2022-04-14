@@ -1,7 +1,7 @@
 logo: /images/MPC_logo_nobg.png
 links:
-  - title: Our Vision
-    collection: our-vision
+  - title: About Us
+    collection: about-us
   - title: Programmes
     resource_room: true
   - title: Local Assistance Schemes

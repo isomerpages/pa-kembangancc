@@ -2,6 +2,7 @@ collections:
   estate-improvement-works:
     output: true
     order:
+      - 2022/.keep
       - 2021/Blk 318 Ubi Ave 1 Senior Citizen's Corner.md
       - 2021/.keep
       - All Estate Improvement Works.md

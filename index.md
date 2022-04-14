@@ -31,9 +31,9 @@ sections:
   - infopic:
       title: About Us
       subtitle: wecare @ marine parade grc
-      description: The Marine Parade GRC comprises of five Divisions, namely, Braddell
-        Heights, Geylang Serai, Kembangan-Chai Chee, Joo Chiat and Marine
-        Parade.
+      description: Through creative and targeted programming, the Marine Parade GRC
+        aspires to connect and serve the needs of the different profiles within
+        the community.
       image: /images/About Us/OurVision.gif
       alt: Image alt text
       button: find out more

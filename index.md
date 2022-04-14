@@ -29,13 +29,14 @@ sections:
       title: Featured Programmes
       button: View More Programmes
   - infopic:
-      title: Our Mission
+      title: About Us
       subtitle: wecare @ marine parade grc
-      description: The GRC aims to strengthen the Ground to be Purposeful, Efficient
-        and Responsive in Engaging Residents to build a Cohesive Community.
+      description: The Marine Parade GRC comprises of five Divisions, namely, Braddell
+        Heights, Geylang Serai, Kembangan-Chai Chee, Joo Chiat and Marine
+        Parade.
       image: /images/About Us/OurVision.gif
       alt: Image alt text
-      button: more about us
+      button: find out more
       url: about-us/about-us
   - infopic:
       title: Tan Chuan-Jin

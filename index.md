@@ -41,8 +41,9 @@ sections:
       url: about-us/about-us
   - infopic:
       title: Estate Improvements
-      subtitle: Estate Improvements
-      description: Infopic description
+      description: As part of our continuous efforts to improve the community we live
+        in, we are pleased to share with you some of the improvement works
+        around your neighbourhood.
       button: Button Text
       alt: Image alt text
   - infopic:

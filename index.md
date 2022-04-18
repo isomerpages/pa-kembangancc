@@ -44,8 +44,9 @@ sections:
       description: As part of our continuous efforts to improve the community we live
         in, we are pleased to share with you some of the improvement works
         around your neighbourhood.
-      button: Button Text
+      button: Find out more
       alt: Image alt text
+      url: estate-improvement-works/all-estate-improv-works
   - infopic:
       title: Tan Chuan-Jin
       subtitle: Grassroots Adviser

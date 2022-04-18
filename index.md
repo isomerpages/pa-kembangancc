@@ -56,6 +56,7 @@ sections:
       button: Find out more
       alt: Image alt text
       url: /estate-improvement-works/all-estate-improv-works
+      image: /images/About Us/EstateImprovements.png
   - infopic:
       title: Our Local Heroes
       subtitle: stories of kembangan-chai chee
@@ -64,6 +65,7 @@ sections:
       button: find out more
       url: /articles/all-stories
       alt: Image alt text
+      image: /images/About Us/StoriesofK-CC.png
   - infopic:
       title: Volunteer with Us
       subtitle: get involved

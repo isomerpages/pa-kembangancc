@@ -40,14 +40,6 @@ sections:
       button: find out more
       url: about-us/about-us
   - infopic:
-      title: Estate Improvements
-      description: As part of our continuous efforts to improve the community we live
-        in, we are pleased to share with you some of the improvement works
-        around your neighbourhood.
-      button: Find out more
-      alt: Image alt text
-      url: /estate-improvement-works/all-estate-improv-works
-  - infopic:
       title: Tan Chuan-Jin
       subtitle: Grassroots Adviser
       description: "\"If you're able to step up and give back something, I think that
@@ -57,14 +49,13 @@ sections:
       url: https://www.facebook.com/TanChuanJin1
       image: /images/About Us/Speaker.png
   - infopic:
-      title: Volunteer with Us
-      subtitle: get involved
-      description: Forge new friendships and be part of the volunteer family in Marine
-        Parade Cluster!
-      button: Find Out More
-      url: /volunteer
-      image: /images/About Us/Volunteering.png
-      alt: Volunteer
+      title: Estate Improvements
+      description: As part of our continuous efforts to improve the community we live
+        in, we are pleased to share with you some of the improvement works
+        around your neighbourhood.
+      button: Find out more
+      alt: Image alt text
+      url: /estate-improvement-works/all-estate-improv-works
   - infopic:
       title: Our Local Heroes
       subtitle: stories of kembangan-chai chee
@@ -73,4 +64,13 @@ sections:
       button: find out more
       url: /articles/all-stories
       alt: Image alt text
+  - infopic:
+      title: Volunteer with Us
+      subtitle: get involved
+      description: Forge new friendships and be part of the volunteer family in Marine
+        Parade Cluster!
+      button: Find Out More
+      url: /volunteer
+      image: /images/About Us/Volunteering.png
+      alt: Volunteer
 ---

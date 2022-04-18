@@ -70,7 +70,7 @@ sections:
       subtitle: stories of kembangan-chai chee
       description: Meet some of our everyday samaritans and changemakers who make a
         difference and contribute to the lives of the people around us.
-      button: Button Text
-      url: a/rticles/all-stories
+      button: find out more
+      url: /articles/all-stories
       alt: Image alt text
 ---

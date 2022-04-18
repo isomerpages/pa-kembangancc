@@ -57,4 +57,10 @@ sections:
       url: /volunteer
       image: /images/About Us/Volunteering.png
       alt: Volunteer
+  - infopic:
+      title: Infopic Title
+      subtitle: Estate Improvements
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---

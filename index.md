@@ -46,7 +46,7 @@ sections:
         around your neighbourhood.
       button: Find out more
       alt: Image alt text
-      url: estate-improvement-works/all-estate-improv-works
+      url: /estate-improvement-works/all-estate-improv-works
   - infopic:
       title: Tan Chuan-Jin
       subtitle: Grassroots Adviser
@@ -71,6 +71,6 @@ sections:
       description: Meet some of our everyday samaritans and changemakers who make a
         difference and contribute to the lives of the people around us.
       button: Button Text
-      url: articles/all-stories
+      url: a/rticles/all-stories
       alt: Image alt text
 ---

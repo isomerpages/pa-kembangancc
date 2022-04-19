@@ -3,7 +3,6 @@ title: Our Vision
 permalink: /about-us/about-us
 description: ""
 ---
-
 ![](/images/Banners/About%20MPC.png)
 
 <b>Our Vision</b>

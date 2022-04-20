@@ -23,7 +23,7 @@ Kembangan-Chai Chee provides free prescription glasses to needy individuals who 
 #### Application ####
 <table  style="font-size:130%; background-color:#f2f2f2">
 <tbody>
-	<tr><td>To approach Kampong Ubi CC or your GRLs for assistance</td></tr>
+	<tr><td>To approach Kampong Ubi CC for assistance</td></tr>
 </tbody>
 </table>
 

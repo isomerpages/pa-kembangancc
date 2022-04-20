@@ -3,24 +3,21 @@ title: Project 100=50
 permalink: /local-assistance-schemes/project-100-50
 description: ""
 ---
-Project 100=50
+Kembangan-Chai Chee's Project 100=50 seeks to address the needs of middle-income families by providing them an opportunity to purchase their daily necessities or groceries at half the retail price or at a maximum value of $100.
 
 <b>Eligibility</b>
 <table  style="font-size:130%; background-color:#f2f2f2">
 <tbody>
 	<tr><td>Resident must reside within Kembangan-Chai Chee</td>
 </tr>
-<tr><td>Applicants must be Singapore Citizens or Permanent Residents</td></tr>
-<tr><td>Applicant has a gross monthly household income of $1,900 or less, or a per capita income of $650 or less</td>
-</tr>
-<tr><td>Only one application per household</td></tr>
+<tr><td>Per Capita Income between $651 to $1,200</td></tr>
 </tbody>
 </table>
 	
 <b>Benefits</b>
 <table  style="font-size:130%; background-color:#f2f2f2">
 <tbody>
-	<tr><td>Beneficiaries will receive a bag of dry rations (e.g. rice, canned food, etc.)</td></tr>
+	<tr><td>Daily necessities or groceries at half the retail price or at a maximum value of $100</td></tr>
 </tbody>
 </table>
 

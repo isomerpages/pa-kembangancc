@@ -3,10 +3,7 @@ title: KCC Service & Conservancy Charges (S&CC) Assistance Schemes
 permalink: /local-assistance-schemes/scc-assist-scheme
 description: ""
 ---
-![](/images/Local%20Assistance%20Scheme/S&C%20Charges%20Assistance%20Scheme.jpg)
-
-
-The Kembangan-Chai Chee Utilities Assistance Scheme seeks to offer a dollar-to-dollar top-up of up to $100* whichever is lower for S&CC arrears in hardship during the Covid-19 pandemic.
+Kembangan-Chai Chee's Daily Free Meals scheme was set up to lighten the finances for needy families for their daily meals and to address the needs of those who are unable to cook due to physical disabilities or no access to electricity and gas.
 
 <b>Eligibility</b>
 <table  style="font-size:130%; background-color:#f2f2f2">

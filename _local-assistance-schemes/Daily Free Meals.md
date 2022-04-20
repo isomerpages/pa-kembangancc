@@ -10,17 +10,13 @@ Kembangan-Chai Chee's Daily Free Meals scheme was set up to lighten the finances
 <tbody>
 	<tr><td>Resident must reside within Kembangan-Chai Chee</td>
 </tr>
-<tr><td>Applicants must be Singapore Citizens or Permanent Residents</td></tr>
-<tr><td>Applicant has a gross monthly household income of $1,900 or less, or a per capita income of $650 or less</td>
-</tr>
-<tr><td>Only one application per household</td></tr>
 </tbody>
 </table>
 	
 <b>Benefits</b>
 <table  style="font-size:130%; background-color:#f2f2f2">
 <tbody>
-	<tr><td>Beneficiaries will receive a bag of dry rations (e.g. rice, canned food, etc.)</td></tr>
+	<tr><td>Packet of cooked meals daily (number of packets will be determined by the family size or if beneficiary requires dinner) </td></tr>
 </tbody>
 </table>
 

@@ -3,31 +3,27 @@ title: Weekly Bread Distribution
 permalink: /local-assistance-schemes/weekly-bread-distribution
 description: ""
 ---
-Weekly Bread Distribution
+Kembangan-Chai Chee's Weekly Bread Distribution Assistance Scheme helps defray the cost of daily groceries by providing residents with weekly bread or fresh fruits and vegetables.
 
 <b>Eligibility</b>
 <table  style="font-size:130%; background-color:#f2f2f2">
 <tbody>
 	<tr><td>Resident must reside within Kembangan-Chai Chee</td>
 </tr>
-<tr><td>Applicants must be Singapore Citizens or Permanent Residents</td></tr>
-<tr><td>Applicant has a gross monthly household income of $1,900 or less, or a per capita income of $650 or less</td>
-</tr>
-<tr><td>Only one application per household</td></tr>
 </tbody>
 </table>
 	
 <b>Benefits</b>
 <table  style="font-size:130%; background-color:#f2f2f2">
 <tbody>
-	<tr><td>Beneficiaries will receive a bag of dry rations (e.g. rice, canned food, etc.)</td></tr>
+	<tr><td>Bread or fresh fruits and vegetables</td></tr>
 </tbody>
 </table>
 
 #### Application ####
 <table  style="font-size:130%; background-color:#f2f2f2">
 <tbody>
-	<tr><td>To approach Kampong Ubi CC or your GRLs for assistance</td></tr>
+	<tr><td>To approach Food From The Heart or Kampong Ubi CC for assistance</td></tr>
 </tbody>
 </table>
 

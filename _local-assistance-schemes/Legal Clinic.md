@@ -3,24 +3,21 @@ title: Legal Clinic
 permalink: /local-assistance-schemes/legal-clinic
 description: ""
 ---
-Legal Clinic
+Residents within Kembangan-Chai Chee can receive free legal advice dealing with LPA, employment, marriage matters and etc. 
 
 <b>Eligibility</b>
 <table  style="font-size:130%; background-color:#f2f2f2">
 <tbody>
-	<tr><td>Resident must reside within Kembangan-Chai Chee</td>
+	<tr><td>Resident must reside within Kembangan-Chai Chee (Priority)</td>
 </tr>
-<tr><td>Applicants must be Singapore Citizens or Permanent Residents</td></tr>
-<tr><td>Applicant has a gross monthly household income of $1,900 or less, or a per capita income of $650 or less</td>
-</tr>
-<tr><td>Only one application per household</td></tr>
+<tr><td>Marine Parade GRC Residents</td></tr>
 </tbody>
 </table>
 	
 <b>Benefits</b>
 <table  style="font-size:130%; background-color:#f2f2f2">
 <tbody>
-	<tr><td>Beneficiaries will receive a bag of dry rations (e.g. rice, canned food, etc.)</td></tr>
+	<tr><td>Free legal consultation advice</td></tr>
 </tbody>
 </table>
 

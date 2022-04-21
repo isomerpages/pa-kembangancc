@@ -23,18 +23,18 @@ Residents within Kembangan-Chai Chee can receive free legal advice dealing with 
 </tbody>
 </table>
 
-#### Location, Date and Time ####
+#### Application ####
 <table style="font-size:130%; background-color:#f2f2f2">
 <tbody>
-	<tr><td>To approach Kampong Kembangan CC, Kampong Ubi CC or your GRLs for assistance</td></tr>
+	<tr><td>Attend legal clinic sessions located at Ansar RC (address can be in the poster above and in the table below)</td></tr>
 </tbody>
 </table>
 
-<b>Kampong Kembangan CC</b>
-<table style="font-size:120%">
+<b>Ansar RC</b>
+<table style="font-size:120%; display:flex; padding-bottom:15px;">
 <tbody>
 <tr>
- <td><b>Address:</b></td><td>15 Lengkong Tiga, Singapore 417408</td>
+ <td><b>Address:</b></td><td>32 Chai Chee Ave, #01-218, Singapore 461032</td>
 </tr>
 <tr>
  <td><b>Operating Hours:</b> </td><td>Counter Services: 10:00AM - 6:00PM <br>(Closed on Public Holidays)</td>
@@ -43,6 +43,7 @@ Residents within Kembangan-Chai Chee can receive free legal advice dealing with 
 	<td> <b>Phone:</b> </td><td>6449 6022
 </td>
 </tr>
+	<tr><td></td><td></td></tr>
 </tbody>
 </table>
 

@@ -21,7 +21,6 @@ Should you have any enquiries, you may write to us at [kembangan-chaichee@pa.gov
 <tr>
 	<td> <b>Phone:</b> </td><td>6449 6022</td>
 </tr>
-	<tr><td></td><td></td></tr>
 </tbody>
 </table>
 
@@ -40,7 +39,6 @@ Should you have any enquiries, you may write to us at [kembangan-chaichee@pa.gov
 <tr>
 	<td> <b>Phone:</b> </td><td>6745 9919</td>
 </tr>
-	<tr><td></td><td></td></tr>
 </tbody>
 </table>
 

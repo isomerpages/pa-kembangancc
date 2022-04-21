@@ -37,12 +37,25 @@ Residents within Kembangan-Chai Chee can receive free legal advice dealing with 
  <td><b>Address:</b></td><td>32 Chai Chee Ave, #01-218, Singapore 461032</td>
 </tr>
 <tr>
- <td><b>Operating Hours:</b> </td><td>Counter Services: 10:00AM - 6:00PM <br>(Closed on Public Holidays)</td>
+ <td><b>Time:</b> </td><td>7:30PM - 9:30PM</td>
 </tr>
 <tr>
-	<td> <b>Phone:</b> </td><td>6449 6022
-</td>
-</tr>
+	<td><b>Dates:</b></td>
+	<td>
+		<ul>
+			<li>24 Jan 2022</li>
+			<li>28 Feb 2022</li>
+			<li>28 Mar 2022</li>
+			<li>25 Apr 2022</li>
+			<li>23 May 2022</li>
+			<li>27 Jun 2022</li>
+			<li>25 Jul 2022</li>
+			<li>22 Aug 2022</li>
+			<li>26 Sep 2022</li>
+			<li>28 Nov 2022</li>
+		</ul>
+	</td>
+	</tr>
 </tbody>
 </table>
 

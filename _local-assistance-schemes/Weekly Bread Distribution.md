@@ -23,7 +23,7 @@ Kembangan-Chai Chee's Weekly Bread Distribution Assistance Scheme helps defray t
 #### Application ####
 <table  style="font-size:130%; background-color:#f2f2f2">
 <tbody>
-	<tr><td>To approach Food From The Heart or Kampong Ubi CC for assistance</td></tr>
+	<tr><td>To approach Food From The Heart for assistance</td></tr>
 </tbody>
 </table>
 

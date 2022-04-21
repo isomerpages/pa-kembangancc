@@ -46,4 +46,4 @@ Residents within Kembangan-Chai Chee can receive free legal advice dealing with 
 </tbody>
 </table>
 
-<iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="100%" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5401.791478346883!2d103.92173245711925!3d1.3238954976410622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da22ad9dfe01a1%3A0x10bbe36e7680e5e6!2sSingapore%20461032!5e0!3m2!1sen!2ssg!4v1650523448732!5m2!1sen!2ssg"></iframe>
+<iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="100%" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.753557784425!2d103.92277891457262!3d1.3237229990345571!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da22ad9df725df%3A0x1b51474efca0a386!2sAnsar%20RC!5e0!3m2!1sen!2ssg!4v1650523540337!5m2!1sen!2ssg"></iframe>

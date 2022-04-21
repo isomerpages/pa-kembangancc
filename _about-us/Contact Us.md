@@ -11,7 +11,6 @@ Should you have any enquiries, you may write to us at [kembangan-chaichee@pa.gov
 
 <table  style="display:flex; flex-grow:1; margin: 0px 0px 25px 0px; font-size:120%;">
 <tbody>
-	<tr><td></td><td></td></tr>
 <tr>
  <td><b>Address:</b></td><td>5 Lengkong Tiga, Singapore 417408</td>
 </tr>
@@ -31,7 +30,6 @@ Should you have any enquiries, you may write to us at [kembangan-chaichee@pa.gov
 #### Kampong Ubi CC ####
 <table  style="display:flex; font-size:120%; padding-bottom:25px">
 <tbody>
-	<tr><td></td><td></td></tr>
 <tr>
  <td><b>Address:</b></td><td>10 Jln Ubi, Singapore 409075</td>
 </tr>

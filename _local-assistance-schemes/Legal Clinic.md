@@ -43,7 +43,6 @@ Residents within Kembangan-Chai Chee can receive free legal advice dealing with 
 	<td> <b>Phone:</b> </td><td>6449 6022
 </td>
 </tr>
-	<tr><td></td><td></td></tr>
 </tbody>
 </table>
 

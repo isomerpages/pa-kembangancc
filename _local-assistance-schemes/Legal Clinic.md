@@ -26,7 +26,7 @@ Residents within Kembangan-Chai Chee can receive free legal advice dealing with 
 #### Application ####
 <table style="font-size:130%; background-color:#f2f2f2">
 <tbody>
-	<tr><td>Attend legal clinic sessions located at Ansar RC (address can be in the poster above and in the table below)</td></tr>
+	<tr><td>Attend legal clinic sessions located at Ansar RC (dates and times for sessions can be in the poster above and in the table below)</td></tr>
 </tbody>
 </table>
 

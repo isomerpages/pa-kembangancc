@@ -31,8 +31,8 @@ sections:
       button: View More Programmes
   - infopic:
       title: About Us
-      subtitle: wecare @ marine parade grc
-      description: Through creative and targeted programming, the Marine Parade GRC
+      subtitle: WeCare @ Marine Parade Cluster
+      description: Through creative and targeted programming, Marine Parade Cluster
         aspires to connect and serve the needs of the different profiles within
         the community.
       image: /images/About Us/OurVision.gif

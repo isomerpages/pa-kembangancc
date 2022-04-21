@@ -9,7 +9,7 @@ Should you have any enquiries, you may write to us at [kembangan-chaichee@pa.gov
 
 #### Kampong Kembangan CC ####
 
-<table  style="width: 100%; flex-grow:1; display:flex; margin: 0px 0px 25px 0px; font-size:120%;">
+<table  style="width: 100%; display:flex; flex-grow:1; margin: 0px 0px 25px 0px; font-size:120%;">
 <tbody>
 <tr>
  <td><b>Address:</b></td><td>5 Lengkong Tiga, Singapore 417408</td>

@@ -9,7 +9,7 @@ Should you have any enquiries, you may write to us at [kembangan-chaichee@pa.gov
 
 #### Kampong Kembangan CC ####
 
-<table  style="font-size:120%; padding:10px">
+<table  style="display:flex; margin: 0px 0px 40px 0px; font-size:120%;">
 <tbody>
 <tr>
  <td><b>Address:</b></td><td>5 Lengkong Tiga, Singapore 417408</td>
@@ -24,7 +24,7 @@ Should you have any enquiries, you may write to us at [kembangan-chaichee@pa.gov
 </tbody>
 </table>
 
-<iframe style="padding-top:10px; display:block" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15955.017391898637!2d103.91269!3d1.3232317!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3fdfa9cc0723f19!2sKampong%20Kembangan%20Community%20Club!5e0!3m2!1sen!2ssg!4v1647597870311!5m2!1sen!2ssg" width="100%" height="300" style="padding:10;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15955.017391898637!2d103.91269!3d1.3232317!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3fdfa9cc0723f19!2sKampong%20Kembangan%20Community%20Club!5e0!3m2!1sen!2ssg!4v1647597870311!5m2!1sen!2ssg" width="100%" height="300" style="padding:10;" allowfullscreen="" loading="lazy"></iframe>
 
 #### Kampong Ubi CC ####
 <table  style="font-size:120%; padding-bottom:10px">

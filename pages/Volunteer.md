@@ -15,4 +15,4 @@ Through volunteering, you can gain insights on your community; gain new skills a
 <div><a href="go.gov.sg/mpcvolunteer" style="font-size:20px; width:35%; height:60px; background-color:darkblue; color:white" class="bp-button"><b>Get Involved</b></a></div>
 
 <b>	Not Sure Where to Start?</b>
-<br>Browse [opportunities](/resources) to get involved or head down to your nearest Community Club/Centre!
+<br>Browse [opportunities](/programmes) to get involved or head down to your nearest Community Club/Centre!

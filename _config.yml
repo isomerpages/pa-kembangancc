@@ -2,11 +2,11 @@ title: Kembangan-Chai Chee
 url: ""
 favicon: /images/MPC_logo_favicon.png
 colors:
-  primary-color: "#199aab"
+  primary-color: "#0899aa"
   secondary-color: "#aa1908"
   media-colors:
     - title: media-color-one
-      color: "#f8d442"
+      color: "#0899aa"
     - title: media-color-two
       color: "#7573b6"
     - title: media-color-three

@@ -5,7 +5,6 @@ date: 2022-03-25
 layout: post
 description: ""
 ---
-
 ### Rescued Veggies Project (Lengkong Tiga) ### 
 
 <img style="height:100%; width:100%; max-width:550px; min-height:100px" src="/images/Rescued Veggies Distribution.jpg">
@@ -25,3 +24,7 @@ description: ""
 </table>
 
 Every Wednesday afternoon, our team of dedicated volunteers will distribute the rescued veggies & fruits from Pasir Panjang Wholesale Centre for our Kembangan residents. *While Stocks Last
+
+
+<b>Wish to join as a volunteer?</b><br>
+You may contact Kampong Kembangan CC or Kampong Ubi CC via phone:

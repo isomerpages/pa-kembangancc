@@ -23,7 +23,8 @@ description: ""
 </tbody>
 </table>
 
-Every 2nd Wednesday of the month, our team of dedicated volunteers will distribute the rescued veggies & fruits from Pasir Panjang Wholesale Centre for our Kembangan residents. <b>*While Stocks Last</b>
+Every 2nd Wednesday of the month, our team of dedicated volunteers will distribute the rescued veggies & fruits from Pasir Panjang Wholesale Centre for our Kembangan residents.<br>
+<b>*While Stocks Last</b>
 
 <b>Wish to join as a volunteer?</b><br>
 You may contact Kampong Kembangan CC or Kampong Ubi CC via a phone call.

@@ -12,7 +12,7 @@ Through volunteering, you can gain insights on your community; gain new skills a
 <b>	Embark on Your Volunteering Journey Today!</b>
 <br>Are you passionate about driving a change in the community? Wear the hat of a community builder and change someone's life today! <br>
 
-<div style="font-size:120%"><a href="go.gov.sg/mpcvolunteer" style="width:50%; height:60px; background-color:darkblue; color:white" class="bp-button is-uppercase search-button">Get Involved </a></div>
+<div><a href="go.gov.sg/mpcvolunteer" style="font-size:20px; width:40%; height:60px; background-color:darkblue; color:white" class="bp-button"><b>Get Involved</b></a></div>
 
 <b>	Not Sure Where to Start?</b>
 <br>Browse [opportunities](/resources) to get involved or head down to your nearest Community Club/Centre!

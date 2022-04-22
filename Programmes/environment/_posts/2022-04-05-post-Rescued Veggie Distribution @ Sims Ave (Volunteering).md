@@ -18,7 +18,7 @@ description: ""
  <td><b>Date:</b> </td><td>Every 2nd Wednesday of the Month (Except PH)</td>
 </tr>
 <tr>
-	<td> <b>Time:</b> </td><td> 12:30PM - 1:30PM</td>
+	<td> <b>Time:</b> </td><td> 1:00PM - 2:00PM</td>
 </tr>
 </tbody>
 </table>

@@ -23,9 +23,9 @@ description: ""
 </tbody>
 </table>
 
-Every 2nd Wednesday of the month, our team of dedicated volunteers will distribute the rescued veggies & fruits from Pasir Panjang Wholesale Centre for our Kembangan residents.<br>
+Every 2nd Wednesday of the month, our team of dedicated volunteers will distribute the rescued veggies & fruits from Pasir Panjang Wholesale Centre for our Kembangan residents.<br><br>
 *Please note that location for Block 842 Sims Ave has changed to Kampong Ubi CC as it is undergoing HIP works.<br>
-<b>**While Stocks Last</b>
+**While Stocks Last
 
 
 <b>Wish to join as a volunteer?</b><br>

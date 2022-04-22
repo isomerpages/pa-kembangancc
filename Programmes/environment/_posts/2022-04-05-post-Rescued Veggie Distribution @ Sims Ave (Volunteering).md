@@ -12,7 +12,7 @@ description: ""
 <table  style="font-size:130%; background-color:#f2f2f2">
 <tbody>
 <tr>
- <td><b>Location:</b></td><td>Void Deck of Blk 842 Sims Avenue</td>
+ <td><b>Location:</b></td><td>Kampong Ubi CC, Foyer*</td>
 </tr>
 <tr>
  <td><b>Date:</b> </td><td>Every 2nd Wednesday of the Month (Except PH)</td>
@@ -24,7 +24,9 @@ description: ""
 </table>
 
 Every 2nd Wednesday of the month, our team of dedicated volunteers will distribute the rescued veggies & fruits from Pasir Panjang Wholesale Centre for our Kembangan residents.<br>
-<b>*While Stocks Last</b>
+*Please note that location for Block 842 Sims Ave has changed to Kampong Ubi CC as it is undergoing HIP works.<br>
+<b>**While Stocks Last</b>
+
 
 <b>Wish to join as a volunteer?</b><br>
 You may contact Kampong Kembangan CC or Kampong Ubi CC via a phone call.

@@ -23,7 +23,8 @@ description: ""
 </tbody>
 </table>
 
-Every Wednesday afternoon, our team of dedicated volunteers will distribute the rescued veggies & fruits from Pasir Panjang Wholesale Centre for our Kembangan residents. <b>*While Stocks Last</b>
+Every Wednesday afternoon, our team of dedicated volunteers will distribute the rescued veggies & fruits from Pasir Panjang Wholesale Centre for our Kembangan residents.<br>
+<b>*While Stocks Last</b>
 
 
 <b>Wish to join as a volunteer?</b><br>

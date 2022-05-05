@@ -27,10 +27,13 @@ description: ""
 	</tbody>
 </table>
 
-<div style="padding:50px 0 30px 0;"><p>ComLink provides <b>Comprehensive, Convenient and Coordinated</b> support to families with children living in rental housing, and empower them to achieve <b>Stability, Self-reliance</b>, and eventually <b>Social mobility</b>.</p>
-	<p>This is done through proactive outreach to address their needs early, closer case support, systematic case monitoring and galvanising the community to offer customised programmes and services to the families.</p></div>
+<div style="padding:40px 0 30px 0;">
+	<p>ComLink provides <b>Comprehensive, Convenient and Coordinated</b> support to families with children living in rental housing, and empower them to achieve <b>Stability, Self-reliance</b>, and eventually <b>Social mobility</b>.
+	</p>
+	<p>This is done through proactive outreach to address their needs early, closer case support, systematic case monitoring and galvanising the community to offer customised programmes and services to the families.</p>
+</div>
 
-<div style="padding:20px 20px 10px 20px; background-color:#f2f2f2">
+<div style="padding:20px 20px 10px 15px; background-color:#f2f2f2">
 	<p><u>ComLink's Programmes:</u></p>
 	<p><i>Needs Assessment</i></p>
 	<ul>

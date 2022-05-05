@@ -49,11 +49,11 @@ description: ""
 
 <div style="padding:10px 0 20px 0;">
 	<p><b>Our Partners</b></p>
-	<div style="display:inline-block; padding:0 10px 0 0;"><img src="/images/Programmes%20(May%202022)/Social%20Good/MSFCN_Stacked_Comlink.png" style="width:200px;height:auto;">
+	<div style="display:inline-block; padding:0 15px 0 0;"><img src="/images/Programmes%20(May%202022)/Social%20Good/MSFCN_Stacked_Comlink.png" style="width:200px;height:auto;">
 	</div>
-	<div style="display:inline-block; padding:0 10px 0 0;"><img src="/images/Programmes%20(May%202022)/Social%20Good/MSF_SSO_logo_(Geylang_Serai).png" style="width:210px;height:auto;">
+	<div style="display:inline-block; padding:0 15px 0 0;"><img src="/images/Programmes%20(May%202022)/Social%20Good/MSF_SSO_logo_(Geylang_Serai).png" style="width:210px;height:auto;">
 	</div>
-	<div style="display:inline-block; padding:0 100px 0 0;">
+	<div style="display:inline-block; padding:0 15px 0 0;">
 	<img src="/images/PA%20Logo%202015%20(PNG).png" style="width:110px;height:auto;">
 	</div>
 </div>

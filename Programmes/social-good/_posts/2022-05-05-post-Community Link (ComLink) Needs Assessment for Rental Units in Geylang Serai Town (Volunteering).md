@@ -27,7 +27,7 @@ description: ""
 	</tbody>
 </table>
 
-<div style="padding:40px 0 30px 0;">
+<div style="padding:50px 0 40px 0;">
 	<p>ComLink provides <b>Comprehensive, Convenient and Coordinated</b> support to families with children living in rental housing, and empower them to achieve <b>Stability, Self-reliance</b>, and eventually <b>Social mobility</b>.
 	</p>
 	<p>This is done through proactive outreach to address their needs early, closer case support, systematic case monitoring and galvanising the community to offer customised programmes and services to the families.</p>

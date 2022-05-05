@@ -27,14 +27,14 @@ description: ""
 <div style="padding:10px 0 20px 0;"><p>ComLink provides <b>Comprehensive, Convenient and Coordinated</b> support to families with children living in rental housing, and empower them to achieve <b>Stability, Self-reliance</b>, and eventually <b>Social mobility</b>.</p>
 	<p>This is done through proactive outreach to address their needs early, closer case support, systematic case monitoring and galvanising the community to offer customised programmes and services to the families.</p></div>
 
-<div style="background-color:#FFFFFF">
+<div>
 	<p><u>Programmes as follows:</u></p>
-	<i>Needs Assessment</i>
+	<p><i>Needs Assessment</i></p>
 	<ul>
 		<li>Proactively reaching out door-to-door to families to address needs early
 		</li>
 	</ul>
-<i>Befrienders</i>
+	<p><i>Befrienders</i></p>
 	<ul>
 		<li>Providing regular non-specialist support to ComLink households</li>
 		<li>Journeying and nudging families to reach their goals</li>

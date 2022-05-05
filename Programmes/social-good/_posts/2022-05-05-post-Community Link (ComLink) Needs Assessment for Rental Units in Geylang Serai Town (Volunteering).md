@@ -8,7 +8,7 @@ description: ""
 ---
 ### ComLink Needs Assessment for Rental Units in Geylang Serai Town (Volunteering) ### 
 
-<img src="/images/Rescued Veggies Distribution.jpg" style="height:100%; width:100%; max-width:550px; min-height:100px">
+<img src="/images/Programmes%20(May%202022)/Social%20Good/SSO_GS_Volunteer_Recruitment.png" style="width:500px; height:auto">
 
 <table style="font-size:130%; background-color:#f2f2f2">
 	<tbody>
@@ -27,7 +27,7 @@ description: ""
 	</tbody>
 </table>
 
-<div style="padding:50px 0 40px 0;">
+<div style="padding:50px 0 50px 0;">
 	<p>ComLink provides <b>Comprehensive, Convenient and Coordinated</b> support to families with children living in rental housing, and empower them to achieve <b>Stability, Self-reliance</b>, and eventually <b>Social mobility</b>.
 	</p>
 	<p>This is done through proactive outreach to address their needs early, closer case support, systematic case monitoring and galvanising the community to offer customised programmes and services to the families.</p>

@@ -24,9 +24,8 @@ description: ""
 </tbody>
 </table>
 
-<div>ComLink provides <b>Comprehensive, Convenient and Coordinated</b> support to families with children living in rental housing, and empower them to achieve <b>Stability, Self-reliance</b>, and eventually <b>Social mobility</b>.  
-
-This is done through proactive outreach to address their needs early, closer case support, systematic case monitoring and galvanising the community to offer customised programmes and services to the families.
+<div style=""><p>ComLink provides <b>Comprehensive, Convenient and Coordinated</b> support to families with children living in rental housing, and empower them to achieve <b>Stability, Self-reliance</b>, and eventually <b>Social mobility</b>.</p>
+	<p>This is done through proactive outreach to address their needs early, closer case support, systematic case monitoring and galvanising the community to offer customised programmes and services to the families.</P></div>
 
 <u>Programmes as follows:</u><br><br>
 <i>Needs Assessment</i>
@@ -35,7 +34,6 @@ This is done through proactive outreach to address their needs early, closer cas
 <i>Befrienders</i>
 <ul><li>Providing regular non-specialist support to ComLink households</li>
 	<li>Journeying and nudging families to reach their goals</li></ul>
-</div>
 
 <b>Our Partners</b>
 

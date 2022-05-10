@@ -91,12 +91,12 @@ input:checked + label + .content {
 <input type="checkbox" id="Healthy Living">
 <label for="Healthy Living" style="background-color: #E58265; color:#f7f7f7;"><b>Healthy Living</b></label>
 <div class="content" style="background-color:#edf4fa;">
-<p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">To nurture a culture of life-long learning in the GRC. <a href="/programmes/healthy-living"><br>Explore Healthy Living-> </a>  </p></div>
+<p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">To promote a holistic approach to advocate an active and healthier lifestyle together as a community.<a href="/programmes/healthy-living"><br>Explore Healthy Living-> </a>  </p></div>
 
 <input type="checkbox" id="Lifelong Learning">
 	<label for="Lifelong Learning" style="background-color: #7573B5; color:#f7f7f7;"><b>Lifelong Learning</b></label>
 <div class="content" style="background-color:#edf4fa;">
-<p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">To promote a holistic approach to advocate an active and healthier lifestyle together as a community. <a href="/programmes/lifelong-learning"><br>Explore Lifelong Learning-> </a></p></div>
+<p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;"> To cultivate a culture of life-long learning in the GRC.<a href="/programmes/lifelong-learning"><br>Explore Lifelong Learning-> </a></p></div>
 	
 <input type="checkbox" id="Social Good">
 	<label for="Social Good" style="background-color: #F05A4D; color:#f7f7f7;"><b>Social Good</b></label>

@@ -10,10 +10,10 @@ description: ""
 <img style="height:100%; width:100%; max-width:550px; min-height:100px" src="/images/Rescued Veggies Distribution.jpg">
 
 <table  style="font-size:130%; background-color:#f2f2f2">
-<tbody>
-<tr>
- <td><b>Location:</b></td><td>Blk 109 Lengkong Tiga</td>
-</tr>
+	<tbody>
+		<tr>
+			 <td><b>Location:</b></td><td>Blk 109 Lengkong Tiga</td>
+		</tr>
 <tr>
  <td><b>Date:</b> </td><td>Every Wednesday (Except PH)</td>
 </tr>

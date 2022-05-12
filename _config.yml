@@ -16,6 +16,7 @@ colors:
     - title: media-color-five
       color: "#e68365"
 resources_name: Programmes
+google_analytics: UA-228607592-1
 description: ""
 permalink: none
 baseurl: ""

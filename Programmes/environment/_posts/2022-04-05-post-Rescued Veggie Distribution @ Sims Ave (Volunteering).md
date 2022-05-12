@@ -5,7 +5,7 @@ date: 2022-04-05
 layout: post
 description: ""
 ---
-### Rescued Veggies Project (Sims Ave) ### 
+### Rescued Veggies Project @ Sims Ave (Volunteering) ### 
 
 <img style="height:auto; width:400px;" src="/images/Programmes (May 2022)/rescued_veggies_distribution_simsavenue.png">
 

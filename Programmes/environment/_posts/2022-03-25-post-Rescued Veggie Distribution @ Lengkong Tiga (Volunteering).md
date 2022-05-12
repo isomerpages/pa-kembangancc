@@ -5,8 +5,7 @@ date: 2022-03-25
 layout: post
 description: ""
 ---
-
-### Rescued Veggies Project @ Lengkong Tiga [Volunteering] ### 
+### Rescued Veggies Project @ Lengkong Tiga (Volunteering) ### 
 
 <img style="height:100%; width:100%; max-width:550px; min-height:100px" src="/images/Rescued Veggies Distribution.jpg">
 

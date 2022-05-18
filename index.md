@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Kembangan-Chai Chee
-description: Brief site description here
+description: Immerse in the buzz and happenings of your neighbourhood.
 image: /images/isomer-logo.svg
 permalink: /
 notification: "Disclaimer: Please note that this is a staging website and it is
@@ -76,3 +76,4 @@ sections:
       image: /images/About Us/Volunteering.png
       alt: Volunteer
 ---
+

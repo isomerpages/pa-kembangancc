@@ -54,4 +54,3 @@ plugins:
 staging: https://pa-kembangancc-staging.netlify.app
 prod: https://pa-kembangancc-prod.netlify.app
 is_government: false
-google_analytics: UA-228607592-1

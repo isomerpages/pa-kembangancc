@@ -2,5 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - Our Vision.md
+      - Our Key Programmes.md
       - Contact Us.md

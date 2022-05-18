@@ -1,0 +1,10 @@
+collections:
+  local-assistance-schemes:
+    output: true
+    order:
+      - All Local Assistance Schemes.md
+      - Daily Free Meals.md
+      - Free Prescription Glasses.md
+      - Legal Clinic.md
+      - Project 100=50.md
+      - Weekly Bread Distribution.md

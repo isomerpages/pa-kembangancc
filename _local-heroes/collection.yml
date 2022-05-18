@@ -1,0 +1,6 @@
+collections:
+  local-heroes:
+    output: true
+    order:
+      - All Stories.md
+      - "Jarel Tang: Giving Back in Your Own Ways.md"

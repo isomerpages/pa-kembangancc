@@ -1,41 +1,47 @@
-title: Title
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
-
-# Site colors
+title: Kembangan-Chai Chee
+url: ""
+favicon: /images/MPC_logo_favicon.png
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: "#0899aa"
+  secondary-color: "#aa1908"
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: "#0899aa"
     - title: media-color-two
-      color: '#744d9f'
+      color: "#7573b6"
     - title: media-color-three
-      color: '#00838f'
+      color: "#f15a4a"
     - title: media-color-four
-      color: '#00838f'
+      color: "#60c090"
     - title: media-color-five
-      color: '#00838f'
-resources_name: Resources
-
-description: An Isomer site of the Singapore Government
-
-##################################################################################################################
-# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
-##################################################################################################################
+      color: "#e68365"
+resources_name: Programmes
+google_analytics: UA-228607592-1
+description: Immerse in the buzz and happenings of your neighbourhood.
 permalink: none
 baseurl: ""
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-include: [_redirects]
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
 defaults:
   - scope:
       path: ""
     values:
-      layout: "page"
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
@@ -47,3 +53,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://pa-kembangancc-staging.netlify.app
 prod: https://pa-kembangancc-prod.netlify.app
+is_government: false

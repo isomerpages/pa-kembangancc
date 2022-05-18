@@ -5,7 +5,7 @@ date: 2022-05-12
 layout: post
 description: ""
 ---
-### Walk-in interview for F&B and Retail Roles # ### 
+### Walk-in interview for F&B and Retail Roles ### 
 
 <img style="height:100%; width:100%; max-width:600px; min-height:100px" src="/images/Programmes%20(May%202022)/12May22_MacPhersonCC_Interview_Poster.jpg">
 

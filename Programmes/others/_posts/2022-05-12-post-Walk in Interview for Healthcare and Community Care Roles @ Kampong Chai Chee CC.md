@@ -7,7 +7,7 @@ layout: post
 description: Walk-in interviews for healthcare and community care roles,
   organised by Workforce Singapore
 ---
-### Walk-in interview for Healthcare and Community Care Roles ### !
+### Walk-in interview for Healthcare and Community Care Roles ###
 
 <img style="height:100%; width:100%; max-width:600px; max-height:846px" src="/images/Programmes%20(May%202022)/24May22_KampongChaiChee_Interview_Poster.jpg">
 

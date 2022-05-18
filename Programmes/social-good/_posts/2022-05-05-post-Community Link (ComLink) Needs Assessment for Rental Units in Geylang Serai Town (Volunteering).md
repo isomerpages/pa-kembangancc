@@ -59,3 +59,6 @@ description: ""
 </div>
 
 <b>Wish to join as a volunteer?</b>
+<div>
+	<a href="https://go.gov.sg/comlink-gstown" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Get Involved</b></a>
+</div>

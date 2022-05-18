@@ -47,7 +47,7 @@ description: ""
 	</ul>
 </div>
 
-<div style="padding:10px 0 20px 0;">
+<div style="padding:50px 0 20px 0px;">
 	<p><b>Our Partners</b></p>
 	<div style="display:inline-block; padding:0 15px 0 0;"><img src="/images/Programmes%20(May%202022)/Social%20Good/MSFCN_Stacked_Comlink.png" style="width:200px;height:auto;">
 	</div>
@@ -59,5 +59,3 @@ description: ""
 </div>
 
 <b>Wish to join as a volunteer?</b>
-<br>
-<br>

@@ -8,7 +8,7 @@ description: ""
 ---
 ### ComLink Needs Assessment for Rental Units in Geylang Serai Town (Volunteering) ### 
 
-<img src="/images/Programmes%20(May%202022)/Social%20Good/SSO_GS_Volunteer_Recruitment.png" style="width:750px; height:auto">
+<img src="/images/Programmes%20(May%202022)/Social%20Good/SSO_GS_Volunteer_Recruitment.png" style="width:675px; height:auto">
 
 <table style="font-size:130%; background-color:#f2f2f2">
 	<tbody>

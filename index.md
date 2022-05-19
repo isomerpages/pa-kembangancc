@@ -40,8 +40,7 @@ sections:
   - infopic:
       title: Tan Chuan-Jin
       subtitle: Grassroots Adviser
-      description: "\"If you're able to step up and give back something, I think that
-        should be done.\""
+      description: '"... it is always always about our people and our home."'
       button: Tan chuan-jin's FACEBOOK PAGE
       alt: Image alt text
       url: https://www.facebook.com/TanChuanJin1

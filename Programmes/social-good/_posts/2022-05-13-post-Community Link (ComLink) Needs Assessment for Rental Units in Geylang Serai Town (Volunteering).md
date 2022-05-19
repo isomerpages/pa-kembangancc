@@ -64,6 +64,5 @@ description: ""
 	<a href="https://go.gov.sg/comlink-gstown" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Get Involved</b></a>
 </div>
 
-
 <b>Have questions?</b><br>
-You may contact clarice_yt_cheong@msf.gov.sg or selina_wx_lim@msf.gov.sg via email.
+You may contact clarice_yt_cheong@msf.gov.sg or selina_wx_lim@msf.gov.sg via email.<br><br><br>

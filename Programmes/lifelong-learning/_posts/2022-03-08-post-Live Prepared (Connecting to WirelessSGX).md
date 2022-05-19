@@ -25,4 +25,21 @@ description: ""
 
 “Live Prepared” Programme helps to get seniors digital-ready by focusing on foundation digital skills and lifestyle/hobbies related digital activities. 
 
-<div><center><a class="bp-button is-uppercase search-button" style="background-color:darkblue; color:white" href="http://go.gov.sg/connectingtowirelesssgxkcc"> Click here to Register Now! </a></center></div>
+<b>Wish to join?</b><br>
+You may contact Kampong Ubi CC for more details.
+
+#### Kampong Ubi CC ####
+<table  style="display:flex; font-size:120%; padding-bottom:25px">
+<tbody>
+<tr>
+ <td><b>Address:</b></td><td>10 Jln Ubi, Singapore 409075</td>
+</tr>
+<tr>
+ <td><b>Operating Hours:</b> </td>
+	<td>Phone Enquiries: 10:00AM - 6:00PM<br><br>Closed on Public Holidays</td>
+</tr>
+<tr>
+	<td> <b>Phone:</b> </td><td>6745 9919</td>
+</tr>
+</tbody>
+</table>

@@ -40,7 +40,7 @@ sections:
   - infopic:
       title: Tan Chuan-Jin
       subtitle: Grassroots Adviser
-      description: '"... it is always always about our people and our home."'
+      description: '"... it is always about our people and our home."'
       button: Tan chuan-jin's FACEBOOK PAGE
       alt: Image alt text
       url: https://www.facebook.com/TanChuanJin1

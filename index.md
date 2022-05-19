@@ -4,8 +4,7 @@ title: Kembangan-Chai Chee
 description: Immerse in the buzz and happenings of your neighbourhood.
 image: /images/isomer-logo.svg
 permalink: /
-notification: "Disclaimer: Please note that this is a staging website and it is
-  still under development."
+notification: ""
 sections:
   - hero:
       subtitle: Immerse in the buzz and happenings of your neighbourhood.
@@ -76,4 +75,3 @@ sections:
       image: /images/About Us/Volunteering.png
       alt: Volunteer
 ---
-

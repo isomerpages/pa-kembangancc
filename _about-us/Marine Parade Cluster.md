@@ -8,11 +8,10 @@ description: ""
 <div>
 	<p style=" font-size:120%; margin-top: 0px; margin-bottom:20px; line-height:1.35; padding:10px 0 0 0"><b>About Marine Parade Cluster</b></p>
 </div>
-
 		
 <table style="font-size:120%; margin-top: 0px; margin-bottom:20px;">
 	<tr>
-		<td><img style="width:400px; vertical-align:middle; float:left;right-margin:20px;" alt="Selfie" src="/images/About%20Us/Vision-1.gif"></td><td> 
+		<td><img style="width:400px; vertical-align:middle; float:left;right-margin:20px;" alt="Selfie" src="/images/About%20Us/Wefie.gif"></td><td> 
 Marine Parade Cluster consists of the following divisions:
 <ol>
 	<li style="padding-left:8px">Braddell Heights

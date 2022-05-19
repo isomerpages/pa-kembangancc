@@ -7,23 +7,14 @@ Meet Alvin, he is one of many unsung heroes at Kembangan-Chai Chee who roll up t
 
 <iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/9mMqH-aZjso" height="400" width="100%"></iframe>
 
-K-CC Grassroots Organisations has been working
-with Fridge Restock Community (FRC) to provide rescued
-fruits and vegetables collected from Pasir Panjang
-Warehouse Centre.
+<b>	About Kembangan-Chai Chee Project Rescue Veggies</b>
 
-The objective is to be eco-friendly, which focus on
-sustainability and help to reduce food wastage in
-Singapore. As a result of participating in the project, residents learn
-that “ugly fruits and vegetables” can be used to prepare
-nutritious meals albeit with a little personal creativity.
+Kembangan-Chai Chee Grassroots Organisations has been working with Fridge Restock Community (FRC) to provide rescued fruits and vegetables collected from Pasir Panjang Warehouse Centre.
 
-The initiatives also brought people together and step
-forward to community volunteering.
+The objective is to be eco-friendly, which focus on sustainability and help to reduce food wastage in Singapore. As a result of participating in the project, residents learn that “ugly fruits and vegetables” can be used to prepare nutritious meals albeit with a little personal creativity. The initiatives also brought people together and step forward to community volunteering.
 
-K-CC has set up 5 distribution points to-date with about 300
-residents in all benefiting from the rescued fruits and
-vegetables. K-CC also installed 2 physical community fridges
-within the division to allow residents to have ease of
-collection if they are physically present during the allotted
-distribution schedule.
+Kembangan-Chai Chee  has set up 5 distribution points to-date with about 300 residents in all benefiting from the rescued fruits and vegetables. Kembangan-Chai Chee  also installed 2 physical community fridges within the division to allow residents to have ease of collection if they are physically present during the allotted distribution schedule.
+
+<b>	Be a Part of Our Community of Network Volunteer!</b>
+<br>Browse [opportunities](/resources) to get involved or head down to your nearest Community Centre!
+<div><a href="form.gov.sg" style="background-color:darkblue; color:white" class="bp-button is-uppercase search-button"> get involved </a></div>

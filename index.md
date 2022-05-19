@@ -4,8 +4,7 @@ title: Kembangan-Chai Chee
 description: Immerse in the buzz and happenings of your neighbourhood.
 image: /images/isomer-logo.svg
 permalink: /
-notification: "Disclaimer: Please note that this is a staging website and it is
-  still under development."
+notification: ""
 sections:
   - hero:
       subtitle: Immerse in the buzz and happenings of your neighbourhood.
@@ -31,19 +30,17 @@ sections:
       button: View More Programmes
   - infopic:
       title: About Us
-      subtitle: WeCare @ Marine Parade Cluster
-      description: Through creative and targeted programming, Marine Parade Cluster
-        aspires to connect and serve the needs of the different profiles within
-        the community.
+      description: Kembangan-Chai Chee, a part of Marine Parade Cluster, aspires to
+        connect and serve the needs of the different profiles within the
+        community.
       image: /images/About Us/OurVision.gif
       alt: Image alt text
       button: find out more
-      url: about-us/about-us
+      url: about-us/about-marineparadecluster
   - infopic:
       title: Tan Chuan-Jin
       subtitle: Grassroots Adviser
-      description: "\"If you're able to step up and give back something, I think that
-        should be done.\""
+      description: '"... it is always always about our people and our home."'
       button: Tan chuan-jin's FACEBOOK PAGE
       alt: Image alt text
       url: https://www.facebook.com/TanChuanJin1
@@ -76,4 +73,3 @@ sections:
       image: /images/About Us/Volunteering.png
       alt: Volunteer
 ---
-

@@ -1,11 +1,12 @@
 ---
 title: Community Link (ComLink) Needs Assessment for Rental Units in Geylang
   Serai Town (Volunteering)
-permalink: /Programmes/social-good/comlink-geylang-serai
-date: 2022-05-05
+permalink: /Programmes/social-good/comlink-gstown
+date: 2022-05-13
 layout: post
 description: ""
 ---
+
 ### ComLink Needs Assessment for Rental Units in Geylang Serai Town (Volunteering) ### 
 
 <img src="/images/Programmes%20(May%202022)/Social%20Good/SSO_GS_Volunteer_Recruitment.png" style="width:675px; height:auto">
@@ -28,6 +29,7 @@ description: ""
 </table>
 
 <div style="padding:50px 0 50px 0;">
+	<p>Community Link (ComLink) is a community initiative where MSF and our partners come together to support families with young children living in rental flats. With your help, we will be able to support our needy families/individuals in a timely and impactful manner. Do join us in helping us make Singapore a caring and inclusive society for all!</p>
 	<p>ComLink provides <b>Comprehensive, Convenient and Coordinated</b> support to families with children living in rental housing, and empower them to achieve <b>Stability, Self-reliance</b>, and eventually <b>Social mobility</b>.
 	</p>
 	<p>This is done through proactive outreach to address their needs early, closer case support, systematic case monitoring and galvanising the community to offer customised programmes and services to the families.</p>
@@ -58,7 +60,8 @@ description: ""
 	</div>
 </div>
 
-<b>Wish to join as a volunteer?</b>
-<div>
+<div style="padding:30px 0 0 0">
+	<p><b>Wish to join as a volunteer?</b></p>
 	<a href="https://go.gov.sg/comlink-gstown" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Get Involved</b></a>
 </div>
+

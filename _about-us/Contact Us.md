@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Banners/Contact%20Us.png)
 
-Should you have any enquiries, you may write to us at [kembangan-chaichee@pa.gov.sg](mailto:kembangan-chaichee@pa.gov.sg).
+Should you have any enquiries, you may write to us at [pa_kampongkembangancc@pa.gov.sg](mailto:pa_kampongkembangancc@pa.gov.sg).
 
 #### Kampong Kembangan CC ####
 

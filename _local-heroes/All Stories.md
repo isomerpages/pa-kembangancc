@@ -31,6 +31,6 @@ description: ""
 				<a href="/articles/alvin-project-rescue-veggies">View Details -></a>
 			</p>
 		</div>
-</li> 
-
+	</div>
+</li>
 </ul>

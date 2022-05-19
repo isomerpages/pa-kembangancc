@@ -3,8 +3,8 @@ title: Marine Parade Cluster
 permalink: /about-us/about-marineparadecluster
 description: ""
 ---
-![](/images/Banners/banner_about_marineparadecluster.png)
-	
+
+
 <table style="font-size:120%">
 	
 <div>

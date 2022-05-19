@@ -2,6 +2,6 @@ collections:
   local-heroes:
     output: true
     order:
-      - "Alvin: Project Rescue Veggies.md"
       - All Stories.md
+      - "Alvin: Project Rescue Veggies.md"
       - "Jarel Tang: Giving Back in Your Own Ways.md"

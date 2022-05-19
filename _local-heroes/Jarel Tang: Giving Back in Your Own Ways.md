@@ -17,7 +17,7 @@ he returns to Singapore during his school holidays. “Volunteering has opened m
 <b>Embark on Your Volunteering Journey Today!</b><br>
 Are you passionate about driving a change in the community? Wear the hat of a community builder and change someone's life today!
 	
-<div style="padding:10px 0 0 0">
+<div>
 	<a href="https://go.gov.sg/mpcvolunteer" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Get Involved</b></a>
 </div> 
 

@@ -12,14 +12,15 @@ description: ""
 		
 <table style="font-size:120%; margin-top: 0px; margin-bottom:20px;">
 	<tr>
- <td><b> <img style="width:400px; vertical-align:middle; float:left;right-margin:20px;" alt="Selfie" src="/images/About%20Us/Vision-1.gif"> </b></td><td> 
+		<td><img style="width:400px; vertical-align:middle; float:left;right-margin:20px;" alt="Selfie" src="/images/About%20Us/Vision-1.gif"></td><td> 
 Marine Parade Cluster consists of the following divisions:
 <ol>
 	<li style="padding-left:8px">Braddell Heights
 	<li style="padding-left:8px">Geylang Serai
 	<li style="padding-left:8px">Joo Chiat
 	<li style="padding-left:8px">Kembangan-Chai Chee
-	<li style="padding-left:8px">Marine Parade</td>
+	<li style="padding-left:8px">Marine Parade
+	</td>
 </tr>
 <tr>
  <td><b> <img style="width:400px; vertical-align:middle; float:left;right-margin:20px;" alt="Selfie" src="/images/About%20Us/Vision-1.gif"> </b></td><td> Marine Parade Cluster brings residents together through various events and programmes at both Cluster and divisional level.</td>

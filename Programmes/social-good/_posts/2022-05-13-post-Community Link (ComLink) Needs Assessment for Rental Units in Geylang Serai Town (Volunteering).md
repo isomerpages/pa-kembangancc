@@ -6,7 +6,6 @@ date: 2022-05-13
 layout: post
 description: ""
 ---
-
 ### ComLink Needs Assessment for Rental Units in Geylang Serai Town (Volunteering) ### 
 
 <img src="/images/Programmes%20(May%202022)/Social%20Good/SSO_GS_Volunteer_Recruitment.png" style="width:675px; height:auto">
@@ -65,3 +64,6 @@ description: ""
 	<a href="https://go.gov.sg/comlink-gstown" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Get Involved</b></a>
 </div>
 
+
+<b>Have questions?</b><br>
+You may contact clarice_yt_cheong@msf.gov.sg or selina_wx_lim@msf.gov.sg via email.

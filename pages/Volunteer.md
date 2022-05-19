@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Banners/Volunteer%20with%20Us.png)
 
-Through volunteering, you can gain insights on your community; gain new skills and knowledge through the myriad of activities and programmes. Forge new friendships and be part of the volunteer family in Marine Parade GRC!
+Through volunteering, you can gain insights on your community; gain new skills and knowledge through the myriad of activities and programmes. Forge new friendships and be part of the volunteer family in Marine Parade Cluster!
 
 <iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/zGBRPggAi9c" height="400" width="100%"></iframe>
 

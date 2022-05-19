@@ -23,4 +23,4 @@ Kembangan-Chai Chee  has set up 5 distribution points to-date with about 300 res
 </div> 
 
 <b>	Not Sure Where to Start?</b>
-<br>Browse [opportunities](/programmes) to get involved or head down to your nearest Community Club/Centre!
+<br>Browse [opportunities](/programmes) to get involved or head down to your nearest Community Club/Centre! 

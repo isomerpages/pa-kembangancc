@@ -26,11 +26,11 @@ description: ""
 		<div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">
 			</h3>
 		</div>
-		<div>
-		<p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><b>Project Rescue Veggies</b><br>"I don't expect anything in return. I can help people, and feel happy even if they just gave me a smile. It is more than enough for me." - Alvin Tan<br>
-			<a href="/articles/alvin-project-rescue-veggies">View Details -></a>
-		</p>
-	</div>
+		<div> 
+			<p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><b>Project Rescue Veggies</b><br>"I don't expect anything in return. I can help people, and feel happy even if they just gave me a smile. It is more than enough for me." - Alvin Tan<br>
+				<a href="/articles/alvin-project-rescue-veggies">View Details -></a>
+			</p>
+		</div>
 </li> 
 
 </ul>

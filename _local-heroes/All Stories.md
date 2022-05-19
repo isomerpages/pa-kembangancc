@@ -12,7 +12,7 @@ description: ""
 	<li>
 		<div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
 			<div style="width:100%;height:250px;">
-					<img style="height:auto;width:343px;" src="/images/JarelTang.png">
+					<img style="height:auto;width:250px;" src="/images/JarelTang.png">
 			</div>
 			<div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
 			<p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><b>Giving Back in Your Own Ways</b><br>"Volunteering has open my eyes to the diversity of our society and it constantly reminds me to be grateful for the little things." - Jarel Tang<br><a href="/articles/giving-back-in-you-own-ways">View Details -></a></p>
@@ -21,7 +21,7 @@ description: ""
 	<li>
 	<div style="position: relative; display: block; height: 100%;">
 		<div style="width:100%;height:250px;">
-			<img style="height:auto;width:343px;" src="/images/AlvinTan.png">
+			<img style="height:auto;width:250px;" src="/images/AlvinTan.png">
 		</div>
 		<div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">
 			</h3>

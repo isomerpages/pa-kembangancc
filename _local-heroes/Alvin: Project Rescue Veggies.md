@@ -22,5 +22,7 @@ Are you passionate about driving a change in the community? Wear the hat of a co
 	<a href="https://go.gov.sg/mpcvolunteer" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Get Involved</b></a>
 </div> 
 
-<b>	Not Sure Where to Start?</b>
+<div>
+	<p><b>	Not Sure Where to Start?</b></p>
 <br>Browse [opportunities](/programmes) to get involved or head down to your nearest Community Club/Centre!
+	</div>

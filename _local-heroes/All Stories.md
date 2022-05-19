@@ -19,7 +19,7 @@ description: ""
 	</li> 
 	
 <li>
-	<div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+	<div style="position: relative; display: block; height: 100%;">
 		<div style="width:100%;height:250px;">
 			<img style="height:auto;width:343px;" src="/images/AlvinTan.png">
 		</div>

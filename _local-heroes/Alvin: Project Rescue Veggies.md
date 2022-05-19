@@ -15,12 +15,12 @@ The objective is to be eco-friendly, which focus on sustainability and help to r
 
 Kembangan-Chai Chee  has set up 5 distribution points to-date with about 300 residents in all benefiting from the rescued fruits and vegetables. Kembangan-Chai Chee  also installed 2 physical community fridges within the division to allow residents to have ease of collection if they are physically present during the allotted distribution schedule.
 
-<b>	Embark on Your Volunteering Journey Today!</b>
-<br>Are you passionate about driving a change in the community? Wear the hat of a community builder and change someone's life today! <br>
-
-<div>
+<p><b>Embark on Your Volunteering Journey Today!</b></p>
+Are you passionate about driving a change in the community? Wear the hat of a community builder and change someone's life today!
+	
+<div style="padding:30px 0 0 0">
 	<a href="https://go.gov.sg/mpcvolunteer" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Get Involved</b></a>
 </div> 
 
 <b>	Not Sure Where to Start?</b>
-<br>Browse [opportunities](/programmes) to get involved or head down to your nearest Community Club/Centre! 
+<br>Browse [opportunities](/programmes) to get involved or head down to your nearest Community Club/Centre!

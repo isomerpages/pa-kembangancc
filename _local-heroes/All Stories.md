@@ -15,7 +15,7 @@ description: ""
 					<img style="height:auto;width:270px;" src="/images/JarelTang.png">
 			</div>
 			<div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
-			<p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><b>Giving Back in Your Own Ways</b><br>"Volunteering has open my eyes to the diversity of our society and it constantly reminds me to be grateful for the little things." - Jarel Tang<br><a href="/articles/giving-back-in-you-own-ways">View Details -></a></p>
+			<p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><b>Giving Back in Your Own Ways</b><br>"Volunteering has open my eyes to the diversity of our society and it constantly reminds me to be grateful for the little things." - Jarel Tang<br><a href="/local-heroes/jarel-giving-back">View Details -></a></p>
 		</div>
 	</li>
 	<li>
@@ -28,7 +28,7 @@ description: ""
 		</div>
 		<div> 
 			<p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><b>Project Rescue Veggies</b><br>"I don't expect anything in return. I can help people, and feel happy even if they just gave me a smile. It is more than enough for me." - Alvin Tan<br>
-				<a href="/articles/alvin-project-rescue-veggies">View Details -></a>
+				<a href="/local-heroes/alvin-project-rescue-veggies">View Details -></a>
 			</p>
 		</div>
 	</div>

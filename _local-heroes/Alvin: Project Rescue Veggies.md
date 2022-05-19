@@ -3,7 +3,7 @@ title: "Alvin: Project Rescue Veggies"
 permalink: /local-heroes/alvin-project-rescue-veggies
 description: ""
 ---
-Meet Alvin Tan, he is one of many unsung heroes at Kembangan-Chai Chee who roll up their sleeves to help out our residents in need. 👏🏼 
+Meet Alvin, he is one of many unsung heroes at Kembangan-Chai Chee who roll up their sleeves to help out our residents in need. 👏🏼 
 
 <iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/9mMqH-aZjso" height="400" width="100%"></iframe>
 

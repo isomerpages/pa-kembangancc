@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - About Marine Parade Cluster.md
       - Our Key Programmes.md
       - Contact Us.md

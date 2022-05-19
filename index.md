@@ -30,10 +30,9 @@ sections:
       button: View More Programmes
   - infopic:
       title: About Us
-      subtitle: WeCare @ Marine Parade Cluster
-      description: Through creative and targeted programming, Marine Parade Cluster
-        aspires to connect and serve the needs of the different profiles within
-        the community.
+      description: Kembangan-Chai Chee, a part of Marine Parade Cluster, aspires to
+        connect and serve the needs of the different profiles within the
+        community.
       image: /images/About Us/OurVision.gif
       alt: Image alt text
       button: find out more

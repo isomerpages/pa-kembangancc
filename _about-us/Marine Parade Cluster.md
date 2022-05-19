@@ -15,11 +15,11 @@ description: ""
 		<td> 
 Marine Parade Cluster consists of the following divisions:
 			<ol>
-				<li style="padding-left:8px">Braddell Heights
-				<li style="padding-left:8px">Geylang Serai
-				<li style="padding-left:8px">Joo Chiat
-				<li style="padding-left:8px">Kembangan-Chai Chee
-				<li style="padding-left:8px">Marine Parade
+				<li style="padding-left:8px">Braddell Heights</li>
+				<li style="padding-left:8px">Geylang Serai</li>
+				<li style="padding-left:8px">Joo Chiat</li>
+				<li style="padding-left:8px">Kembangan-Chai Chee</li>
+				<li style="padding-left:8px">Marine Parade</li>
 		</td>
 	</tr>
 	<tr>

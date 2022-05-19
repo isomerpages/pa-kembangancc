@@ -26,7 +26,7 @@ description: ""
 “Live Happy” Programme helps to promote mental and social well-being.
 
 <b>Wish to join?</b><br>
-You may contact Kampong Kembangan CC or Kampong Ubi CC.
+You may contact Kampong Ubi CC.
 
 #### Kampong Ubi CC ####
 <table  style="display:flex; font-size:120%; padding-bottom:25px">

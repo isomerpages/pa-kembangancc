@@ -1,8 +1,11 @@
 ---
 title: "Jarel Tang: Giving Back in Your Own Ways"
-permalink: /articles/giving-back-in-you-own-ways
+permalink: /local-heroes/jarel-giving-back
 description: ""
 ---
+
+
+
 #### Meet Jarel Tang ####
 One of his first activities with the YEC was a back- to school outing for children, aged six to 14 living in rental blocks in Chai Chee estate. "As we began
 to build relationships with them, we realised that it wasn’t enough to have a one-off programme to mentor and help these kids,” he explains. “So we decided to start the Homework Club in 2013. The twice-weekly programme sees volunteers tutoring children from low-income families.” 

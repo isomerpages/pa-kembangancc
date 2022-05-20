@@ -35,6 +35,7 @@ Registered participants will be given a code to key in the app to retrieve the m
 
 New experience in the new normal! Join us! #Moviemagic #CelebratingFamilies #KCC
 
+<b>	Wish to join us?</b>
 <div>
 	<a href="https://www.go.gov.sg/kccmovie" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
 </div>

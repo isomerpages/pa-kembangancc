@@ -12,14 +12,7 @@ description: ""
 <table style="font-size:120%; margin-top: 0px; margin-bottom:20px;">
 	<tr>
 		<td><img style="width:400px; vertical-align:middle; float:left;right-margin:20px;" alt="Selfie" src="/images/About%20Us/Wefie.gif"></td>
-		<td>Marine Parade Cluster consists of the following divisions:
-			<ol>
-				<li style="font-size:18px; padding-left:8px">Braddell Heights</li>
-				<li style="font-size:18px; padding-left:8px">Geylang Serai</li>
-				<li style="font-size:18px; padding-left:8px">Joo Chiat</li>
-				<li style="font-size:18px; padding-left:8px">Kembangan-Chai Chee</li>
-				<li style="font-size:18px; padding-left:8px">Marine Parade</li>
-			</ol>
+		<td>Marine Parade Cluster consists of the following divisions: Braddell Heights, Geylang Serai, Joo Chiat, <b>Kembangan-Chai Chee</b>, Marine Parade, MacPherson and Mountbatten.
 		</td>
 	</tr>
 	<tr>

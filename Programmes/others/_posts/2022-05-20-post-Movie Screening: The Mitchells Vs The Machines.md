@@ -12,13 +12,13 @@ description: ""
 <table  style="font-size:130%![](/images/Programmes%20(May%202022)/K-CC%20FLC%20Movie%20Screening.png); background-color:#f2f2f2">
 	<tbody>
 		<tr>
-			 <td><b>Location:</b></td><td>Kembangan-Chai Chee Community Club, <br>Level 1 Activity Plaza<br>
+			 <td><b>Location:</b></td><td>Kembangan-Chai Chee Community Club, <br>Level 1 Activity Plaza</td>
 		</tr>
 		<tr>
 		 <td><b>Date:</b> </td><td>Saturday, 11 June, 2022</td>
 		</tr>
 		<tr>
-			<td> <b>Time:</b> </td><td> 7:30 PM
+			<td> <b>Time:</b> </td><td> 7:30 PM</td>
 		</tr>
 	</tbody>
 </table>

@@ -5,7 +5,6 @@ date: 2022-05-20
 layout: post
 description: ""
 ---
-
 ### Movie Screening: The Mitchells vs The Machines ###
 
 <img style="height:100%; width:100%; max-width:600px; max-height:846px" src="/images/Programmes%20(May%202022)/K-CC%20FLC%20Movie%20Screening.png">
@@ -28,3 +27,9 @@ description: ""
 Our movie screening is back with a different format! Watch on big screen but hear the crystal clear sound on your phone or earpiece! 
 
 New experience in the new normal! Join us! #Moviemagic #CelebratingFamilies #KCC
+
+<div>
+	<a href="https://www.go.gov.sg/kccmovie" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
+</div>
+	
+	

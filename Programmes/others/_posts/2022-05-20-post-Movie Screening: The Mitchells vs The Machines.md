@@ -9,8 +9,7 @@ description: ""
 
 <img style="height:100%; width:100%; max-width:600px; max-height:846px" src="/images/Programmes%20(May%202022)/K-CC%20FLC%20Movie%20Screening.png">
 
-
-<table  style="font-size:130%![](/images/Programmes%20(May%202022)/K-CC%20FLC%20Movie%20Screening.png); background-color:#f2f2f2">
+<table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>
 		<tr>
 			 <td><b>Location:</b></td><td>Kembangan-Chai Chee Community Club, <br>Level 1 Activity Plaza</td>

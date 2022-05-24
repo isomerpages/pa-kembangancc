@@ -5,7 +5,7 @@ date: 2022-05-24
 layout: post
 description: ""
 ---
-### Supporting Someone through an Emotional Crisis ###
+### Supporting Someone through an Emotional Crisis (Webinar) ###
 
 <img style="height:100%; width:100%; max-width:600px; max-height:846px" src="/images/Programmes%20(May%202022)/hpb_supporting_someone_webinar.jpg">
 

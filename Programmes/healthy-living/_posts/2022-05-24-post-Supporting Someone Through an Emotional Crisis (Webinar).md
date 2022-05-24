@@ -38,5 +38,5 @@ NOTE: The webinar is limited to the first 500 attendees.
 	
 <b>Wish to join us?</b>
 <div>
-	<a href="https://www.go.gov.sg/kccmovie" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
+	<a href="https://form.gov.sg/#!/61a8d85fe6d4250013574974" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Sign Up</b></a>
 </div>

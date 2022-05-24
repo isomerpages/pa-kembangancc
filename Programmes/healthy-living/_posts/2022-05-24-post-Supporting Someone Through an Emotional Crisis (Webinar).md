@@ -7,7 +7,7 @@ description: ""
 ---
 ### Supporting Someone through an Emotional Crisis ###
 
-<img style="height:100%; width:100%; max-width:600px; max-height:846px" src="/images/Programmes%20(May%202022)/K-CC%20FLC%20Movie%20Screening.png">
+<img style="height:100%; width:100%; max-width:600px; max-height:846px" src="/images/Programmes%20(May%202022)/hpb_supporting_someone_webinar.jpg">
 
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>

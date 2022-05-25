@@ -3,6 +3,8 @@ title: Kembangan Chai Chee
 permalink: /about-kembangan-chai-chee
 description: ""
 ---
+![](/images/Banners/banner_kembangan_chai_chee.png)
+
 <div>
 	<p style=" font-size:120%; margin-top: 0px; margin-bottom:20px; line-height:1.35; padding:10px 0 0 0"><b>About Kembangan-Chai Chee</b></p>
 </div>

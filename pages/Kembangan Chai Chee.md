@@ -9,8 +9,9 @@ description: ""
 	<p style=" font-size:120%; margin-top: 0px; margin-bottom:20px; line-height:1.35; padding:10px 0 0 0"><b>About Kembangan-Chai Chee</b></p>
 </div>
 
-<div>
-	<a href="https://go.gov.sg/mpcvolunteer" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Facebook Page</b></a>
+
+<div style="padding:10px 0 10px 0">
+		<a href="https://go.gov.sg/mpcvolunteer" style="display:block;"><img src="/images/Logos/f_logo_RGB-Blue_100.png" style="max-width:100px; max-height:100px; float:left;"></a>
 </div>
 
 <br><br>

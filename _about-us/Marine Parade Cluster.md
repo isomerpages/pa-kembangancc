@@ -26,3 +26,8 @@ description: ""
 	<td>Through creative and targeted programming, Marine Parade Cluster aspires to connect and serve the needs of the different profiles within the community.
 	</td>
 </tr>
+</table>
+
+<div>
+	<p style=" font-size:120%; margin-top: 0px; margin-bottom:20px; line-height:1.35; padding:10px 0 0 0"><b>Our Facebook Page</b></p>
+</div>

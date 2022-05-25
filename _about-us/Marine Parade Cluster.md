@@ -31,6 +31,6 @@ description: ""
 <div>
 	<p style=" font-size:120%; margin-top: 0px; margin-bottom:20px; line-height:1.35; padding:10px 0 0 0"><b>Our Facebook Page</b></p>
 </div>
-<div style="padding:0 0 100px 0">
+<div>
 		<a href="https://go.gov.sg/mpcvolunteer" style="display:block;"><img src="/images/Logos/f_logo_RGB-Blue_100.png" style="max-width:60px; max-height:60px; float:left;"></a>
 </div>

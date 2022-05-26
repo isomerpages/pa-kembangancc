@@ -26,9 +26,9 @@ description: ""
 Join our Family Fun Walk and spend some time with your
 loved ones. The walk will start from Kg Kembangan CC.
 
-* Breakfast will be provided*
+* Breakfast will be provided
 * Free Sunshine Australian Oat Soft Grain Whole Bread will be provided to participants* (By Sunshine Bakeries)
-* *Limited to 350 participants only.
+* Limited to 350 participants only.
 * Stand a chance to win attractive prizes, in our Lucky Draw!<br>
 
 <b>	Wish to join us?</b>

@@ -7,7 +7,7 @@ description: ""
 ---
 ### Family Fun Walk ###
 
-<img style="height:100%; width:100%; max-width:600px; max-height:846px" src="/images/Programmes%20(May%202022)/K-CC%20FLC%20Movie%20Screening.png">
+![](/images/Programmes%20(June%202022)/Family%20Fun%20Walk.jpeg)
 
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>

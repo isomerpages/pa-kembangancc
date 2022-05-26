@@ -5,8 +5,6 @@ date: 2022-05-26
 layout: post
 description: ""
 ---
-
-
 ### Kembangan-Chai Chee Esports Weekend - Mobile Legends Bang Bang ###
 
 ![](/images/Programmes%20(June%202022)/Mobile%20Legends.jpg)

@@ -6,9 +6,7 @@ layout: post
 description: ""
 ---
 ### Family Fun Walk ###
-
 ![](/images/Programmes%20(June%202022)/Family%20Fun%20Walk.jpeg)
-
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>
 		<tr>

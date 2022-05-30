@@ -18,7 +18,7 @@ description: ""
 		 <td><b>Date:</b> </td><td>19 June 2022 (Sunday)</td>
 		</tr>
 		<tr>
-			<td> <b>Time:</b> </td><td> 7:30 am - 9:00 am</td>
+			<td> <b>Time:</b> </td><td> 7:30AM - 9:00AM</td>
 		</tr>
 	</tbody>
 </table>

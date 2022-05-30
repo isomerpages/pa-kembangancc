@@ -31,7 +31,7 @@ description: ""
 </table>
 
 <div>
-	<p style=" font-size:120%; margin-top: 0px; margin-bottom:20px; line-height:1.35; padding:20px 0 0 0"><b>Get Connected with Marine Parade Cluster</b></p>
+	<p style=" font-size:120%; margin-top: 0px; margin-bottom:20px; line-height:1.35; padding:20px 0 0 0"><b>Get Connected with Marine Parade Cluster!</b></p>
 </div>
 <div>
 		<a href="https://www.facebook.com/marineparadecluster" style="display:block;"><img src="/images/Logos/f_logo_RGB-Blue_100.png" style="max-width:60px; max-height:60px; float:left;"></a>

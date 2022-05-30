@@ -7,7 +7,7 @@ description: ""
 ---
 ### Yakult Virtual Tour ###
 
-![](/images/Programmes%20(June%202022)/Yakut%20Virtual%20Tour.png)
+<img src="/images/Programmes (June 2022)/Yakult Virtual Tour.png" style="width:675px; height:auto">
 
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>

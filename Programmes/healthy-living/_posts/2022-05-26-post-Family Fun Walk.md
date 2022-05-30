@@ -6,14 +6,16 @@ layout: post
 description: ""
 ---
 ### Family Fun Walk ###
-![](/images/Programmes%20(June%202022)/Family%20Fun%20Walk.jpeg)
+
+<img src="/images/Programmes (June 2022)/Family Fun Walk.jpeg" style="width:675px; height:auto">
+
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>
 		<tr>
-			 <td><b>Location:</b></td><td>Kembangan-Chai Chee Community Club</td>
+			 <td><b>Location:</b></td><td>Kampong Kembangan Community Club (Starting Point) </td>
 		</tr>
 		<tr>
-		 <td><b>Date:</b> </td><td>Sunday, 19 June, 2022</td>
+		 <td><b>Date:</b> </td><td>19 June 2022 (Sunday)</td>
 		</tr>
 		<tr>
 			<td> <b>Time:</b> </td><td> 7:30 am - 9:00 am</td>
@@ -22,10 +24,10 @@ description: ""
 </table>
 
 Join our Family Fun Walk and spend some time with your
-loved ones. The walk will start from Kg Kembangan CC.
+loved ones. The walk will start from Kampong Kembangan CC.
 
-* Breakfast will be provided
-* Free Sunshine Australian Oat Soft Grain Whole Bread will be provided to participants* (By Sunshine Bakeries)
+* Breakfast will be provided.
+* Free Sunshine Australian Oat Soft Grain Whole Bread will be provided to participants.* (By Sunshine Bakeries)
 * Limited to 350 participants only.
 * Stand a chance to win attractive prizes, in our Lucky Draw!<br>
 

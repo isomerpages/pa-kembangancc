@@ -18,8 +18,8 @@ description: ""
 </div>
 
 <p><u>Kampong Ubi CC</u></p>
-<div><img src="/images/About Us/Kembangan Chai Chee/Kampong Ubi CC.jpeg"></div>
-<div style="padding: 0 0 20px 0">
+<div style="padding: 0 0 20px 0"><img src="/images/About Us/Kembangan Chai Chee/Kampong Ubi CC.jpeg"></div>
+<div >
 	<p>Kampong Ubi CC, is conveniently located a few minutes’ walk from the Eunos MRT station and bus interchange. Situated in the heart of Geylang Serai, you can experience the richness of the Malay culture and heritage as soon as you step into the CC. Residents may also book courts in the multi-purpose hall for badminton or pickle ball.</p>
 </div>
 

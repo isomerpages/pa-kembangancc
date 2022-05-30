@@ -12,13 +12,13 @@ description: ""
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>
 		<tr>
-			 <td><b>Location:</b></td><td>Kembangan-Chai Chee Community Club, <br>Level 1 Activity Plaza</td>
+			 <td><b>Location:</b></td><td>Kampong Kembangan Community Club, <br>Level 1 Activity Plaza</td>
 		</tr>
 		<tr>
-		 <td><b>Date:</b> </td><td>Saturday, 11 June, 2022</td>
+		 <td><b>Date:</b> </td><td>11 June 2022 (Saturday)</td>
 		</tr>
 		<tr>
-			<td> <b>Time:</b> </td><td> 7:30 PM</td>
+			<td> <b>Time:</b> </td><td> 7:30PM</td>
 		</tr>
 	</tbody>
 </table>

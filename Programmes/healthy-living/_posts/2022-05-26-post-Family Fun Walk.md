@@ -15,7 +15,7 @@ description: ""
 			 <td><b>Location:</b></td><td>Kampong Kembangan Community Club (Starting Point) </td>
 		</tr>
 		<tr>
-		 <td><b>Date:</b> </td><td>19 June 2022 (Sunday)</td>
+		 <td><b>Date:</b> </td><td>19 June 2022, Sunday</td>
 		</tr>
 		<tr>
 			<td> <b>Time:</b> </td><td> 7:30AM - 9:00AM</td>

@@ -12,13 +12,13 @@ description: ""
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>
 		<tr>
-			 <td><b>Location:</b></td><td>Virtual, Zoom. </td>
+			 <td><b>Location:</b></td><td> Zoom Platform </td>
 		</tr>
 		<tr>
-		 <td><b>Date:</b> </td><td>Wednesday, 15 June 2022</td>
+		 <td><b>Date:</b> </td><td>5 June 2022 (Wednesday)</td>
 		</tr>
 		<tr>
-			<td> <b>Time:</b> </td><td> 10:00 am - 11:00 pm</td>
+			<td> <b>Time:</b> </td><td> 10:00AM - 11:00AM</td>
 		</tr>
 	</tbody>
 </table>

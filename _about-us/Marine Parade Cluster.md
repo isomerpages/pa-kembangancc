@@ -3,7 +3,9 @@ title: Marine Parade Cluster
 permalink: /about-us/about-marineparadecluster
 description: ""
 ---
-![](/images/Banners/banner_marineparadecluster.png)
+<div style="padding:0 0 30px 0">
+	<img src="/images/Logos/MarineParadeCluster_Logo.png" style="width:200px; height:auto">
+</div>
 
 <div>
 	<p style=" font-size:120%; margin-top: 0px; margin-bottom:20px; line-height:1.35; padding:10px 0 0 0"><b>About Marine Parade Cluster</b></p>

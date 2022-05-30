@@ -4,7 +4,7 @@ permalink: /about-us/about-marineparadecluster
 description: ""
 ---
 <div style="padding:0 0 30px 0">
-	<img src="/images/Logos/MarineParadeCluster_Logo.png" style="width:200px; height:auto">
+	<img src="/images/Logos/MarineParadeCluster_logo_1263x1263.png" style="width:300px; height:auto">
 </div>
 
 <div>

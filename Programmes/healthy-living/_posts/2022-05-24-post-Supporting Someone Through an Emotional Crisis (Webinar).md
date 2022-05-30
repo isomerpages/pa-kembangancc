@@ -12,7 +12,7 @@ description: ""
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>
 		<tr>
-			 <td><b>Location:</b></td><td>Virtual, Zoom Webinar</td>
+			 <td><b>Location:</b></td><td>Zoom Webinar</td>
 		</tr>
 		<tr>
 		 <td><b>Date:</b> </td><td>31 May 2022 (Tuesday)</td>

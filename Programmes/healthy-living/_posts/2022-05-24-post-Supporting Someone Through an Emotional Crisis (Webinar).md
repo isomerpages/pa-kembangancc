@@ -27,7 +27,7 @@ Join this webinar to learn more about how you can support someone through an emo
 
 NOTE: The webinar is limited to the first 500 attendees.
 
-<b><u>Key topics:</u></b>
+<b><u>Key Topics:</u></b>
 <ol>
 	<li>What is a mental health crisis</li>
 	<li>How to recognise signs of distress</li>

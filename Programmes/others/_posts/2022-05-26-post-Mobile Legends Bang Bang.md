@@ -15,10 +15,10 @@ description: ""
 			 <td><b>Location:</b></td><td>Kampong Kembangan Community Club, <br>Level 1 Activity Plaza</td>
 		</tr>
 		<tr>
-		 <td><b>Date:</b> </td><td>Saturday, 11 June, 2022</td>
+		 <td><b>Date:</b> </td><td>11 June 2022 (Saturday)</td>
 		</tr>
 		<tr>
-			<td> <b>Time:</b> </td><td> 10:00 am onwards</td>
+			<td> <b>Time:</b> </td><td> 10:00AM onwards</td>
 		</tr>
 	</tbody>
 </table>

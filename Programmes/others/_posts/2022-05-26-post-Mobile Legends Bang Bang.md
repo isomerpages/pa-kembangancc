@@ -7,12 +7,12 @@ description: ""
 ---
 ### Kembangan-Chai Chee Esports Weekend - Mobile Legends Bang Bang ###
 
-![](/images/Programmes%20(June%202022)/Mobile%20Legends.jpg)
+<img src="/images/Programmes (June 2022)/Mobile Legends.jpg" style="width:675px; height:auto">
 
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>
 		<tr>
-			 <td><b>Location:</b></td><td>Kembangan-Chai Chee Community Club, <br>Level 1 Activity Plaza</td>
+			 <td><b>Location:</b></td><td>Kampong Kembangan Community Club, <br>Level 1 Activity Plaza</td>
 		</tr>
 		<tr>
 		 <td><b>Date:</b> </td><td>Saturday, 11 June, 2022</td>

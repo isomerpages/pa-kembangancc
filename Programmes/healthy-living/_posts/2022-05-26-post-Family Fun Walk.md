@@ -7,7 +7,7 @@ description: ""
 ---
 ### Family Fun Walk ###
 
-<img src="/images/Programmes (June 2022)/Family Fun Walk.jpeg" style="width:675px; height:auto">
+<img src="/images/Programmes (June 2022)/Family Fun Walk.jpeg" style="width:650px; height:auto">
 
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>

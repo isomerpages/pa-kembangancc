@@ -5,10 +5,9 @@ date: 2022-05-26
 layout: post
 description: ""
 ---
-
 ### Yakult Virtual Tour ###
 
-<img src="/images/Programmes (June 2022)/Yakult Virtual Tour.png" style="width:675px; height:auto">
+<img src="/images/Programmes (June 2022)/Yakult Virtual Tour.png" style="width:650px; height:auto">
 
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>
@@ -16,7 +15,7 @@ description: ""
 			 <td><b>Location:</b></td><td> Zoom Platform </td>
 		</tr>
 		<tr>
-		 <td><b>Date:</b> </td><td>5 June 2022 (Wednesday)</td>
+		 <td><b>Date:</b> </td><td>15 June 2022 (Wednesday)</td>
 		</tr>
 		<tr>
 			<td> <b>Time:</b> </td><td> 10:00AM - 11:00AM</td>

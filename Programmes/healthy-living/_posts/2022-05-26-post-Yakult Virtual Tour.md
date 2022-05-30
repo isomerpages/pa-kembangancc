@@ -12,7 +12,7 @@ description: ""
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>
 		<tr>
-			 <td><b>Location:</b></td><td> Zoom Platform </td>
+			 <td><b>Location:</b></td><td> Zoom Platform</td>
 		</tr>
 		<tr>
 		 <td><b>Date:</b> </td><td>15 June 2022 (Wednesday)</td>
@@ -23,7 +23,7 @@ description: ""
 	</tbody>
 </table>
 
-Join us virtually as we take a tour to the Yakult Factory and learn about the manufacturing process of Yakult, as well as its benefits to maintain healthy digestive system!  
+Join us virtually as we take a tour to the Yakult Factory and learn about the manufacturing process of Yakult, as well as its benefits to maintain a healthy digestive system!  
 
 * Registration is only $2 per person.
 * Each registration will receive a packet of Yakult (Original/Mixed).

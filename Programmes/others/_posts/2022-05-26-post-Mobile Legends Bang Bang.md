@@ -7,7 +7,7 @@ description: ""
 ---
 ### Kembangan-Chai Chee Esports Weekend - Mobile Legends Bang Bang ###
 
-<img src="/images/Programmes (June 2022)/Mobile Legends.jpg" style="width:675px; height:auto">
+<img src="/images/Programmes (June 2022)/Mobile Legends.jpg" style="width:650px; height:auto">
 
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>
@@ -26,7 +26,7 @@ description: ""
 Kembangan-Chai Chee E-Sports weekend is back with a bang! 
 Bringing you Mobile Legends Bang Bang competition with attractive cash and other prizes to be won!
 
-Exciting activities happening throughout the day
+Exciting activities happening throughout the day:
 * Public live viewing of the tournament
 * Family-friendly console games stations
 

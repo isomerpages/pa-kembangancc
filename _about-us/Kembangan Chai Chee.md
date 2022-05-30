@@ -24,7 +24,7 @@ description: ""
 </div>
 
 <div>
-	<p style=" font-size:120%; margin-top: 0px; line-height:1.35; padding:10px 0 0 0"><b>Kembangan-Chai Chee's Facebook Page</b></p>
+	<p style=" font-size:120%; margin-top: 0px; line-height:1.35; padding:10px 0 0 0"><b>Get connected with us!</b></p>
 </div>
 
 

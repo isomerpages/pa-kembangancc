@@ -15,7 +15,7 @@ description: ""
 			 <td><b>Location:</b></td><td>Virtual, Zoom Webinar</td>
 		</tr>
 		<tr>
-		 <td><b>Date:</b> </td><td>31 May 2022, Tuesday, 2022</td>
+		 <td><b>Date:</b> </td><td>31 May 2022 (Tuesday)</td>
 		</tr>
 		<tr>
 			<td> <b>Time:</b> </td><td> 12:00PM - 1:30PM</td>

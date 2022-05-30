@@ -6,7 +6,7 @@ description: ""
 ![](/images/Banners/About%20K-CC.png)
 
 <div>
-	<p style=" font-size:120%; margin-top: 0px; line-height:1.35; padding:10px 0 0 0"><b>CCs located within Kembangan-Chai Chee division</b></p>
+	<p style=" font-size:120%; margin-top: 0px; line-height:1.35; padding:10px 0 20px 0"><b>CCs located within Kembangan-Chai Chee division</b></p>
 </div>
 
 <div> <img src="/images/About Us/Kembangan Chai Chee/Kampong Kembangan CC.jpg"> </div>

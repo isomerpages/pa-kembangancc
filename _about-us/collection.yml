@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Kembangan Chai Chee.md
       - Marine Parade Cluster.md
       - Our Key Programmes.md
       - Contact Us.md

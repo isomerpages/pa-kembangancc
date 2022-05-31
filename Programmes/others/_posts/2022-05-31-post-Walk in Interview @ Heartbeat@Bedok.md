@@ -29,5 +29,7 @@ If you are currently a stay-home mum or caregiver who is looking to transition b
 
 <u>Note for live workshops:</u> Please note that seats are limited on a first come, first served basis. Standing space is available once seating capacity is full.
 
-Wish to join?
-
+<b>Wish to join?</b>
+<div>
+	<a href="https://www.go.gov.sg/wii-btww" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
+</div>

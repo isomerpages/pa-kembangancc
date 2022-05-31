@@ -3,7 +3,9 @@ title: Kembangan Chai Chee
 permalink: /about-us/aboutk-cc
 description: ""
 ---
-![](/images/Banners/About%20K-CC.png)
+<div style="padding:0 0 20px 0">
+	<img src="/images/Logos/K-CC-Logo.png" style="width:300px; height:auto">
+</div>
 
 <div>
 	<p style=" font-size:130%; margin-top: 0px; line-height:1.35; padding:10px 0 0 0"><b>CCs located within Kembangan-Chai Chee Division</b></p>

@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Banners/Flexi%20Jobsv2.png)
 
-Flexi jobs are jobs that often give employees the freedom to set their schedules, giving them the flexibility and space to find a balance that fits their lifestyle.
+Flexi jobs are jobs that often give employees the freedom to set their schedules, giving them the flexibility and space to find a balance that fits their working habits and lifestyle.
 
 <b>Looking for flexi jobs?</b>
 

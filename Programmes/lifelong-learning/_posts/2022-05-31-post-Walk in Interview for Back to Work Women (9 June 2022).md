@@ -5,12 +5,7 @@ date: 2022-05-31
 layout: post
 description: ""
 ---
-
-
-
-
-
-### Walk-in Interview @ Heartbeat@Bedok ###
+### Walk-in Interview for Back-to-Work Women ###
 
 <img style="width:600px; height:auto" src="/images/Programmes%20(June%202022)/poster_backtoworkwomen.jpg">
 

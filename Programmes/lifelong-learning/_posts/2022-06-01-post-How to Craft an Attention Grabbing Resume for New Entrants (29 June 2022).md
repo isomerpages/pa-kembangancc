@@ -5,3 +5,12 @@ date: 2022-06-01
 layout: post
 description: ""
 ---
+
+
+You will learn:
+
+•	Different resume formats and understand the different components of a resume 
+
+•	Tips to understand employers’ requirements by analysing job descriptions and applying it to your resume
+
+•	How to customise your resume to enhance your job search

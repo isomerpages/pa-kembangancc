@@ -6,7 +6,7 @@ date: 2022-05-26
 layout: post
 description: ""
 ---
-### Esports Competition: Mobile Legends Bang Bang and Console Games Stations (11 June 2022) ###
+### Esports Competition: Mobile Legends Bang Bang and Console Games Stations ###
 
 <img src="/images/Programmes (June 2022)/Mobile Legends.jpg" style="width:650px; height:auto">
 

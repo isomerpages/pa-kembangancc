@@ -6,9 +6,7 @@ date: 2022-05-26
 layout: post
 description: ""
 ---
-
-
-### Kembangan-Chai Chee Esports Weekend - Mobile Legends Bang Bang ###
+### Esports Competition: Mobile Legends Bang Bang and Console Games Stations (11 June 2022) ###
 
 <img src="/images/Programmes (June 2022)/Mobile Legends.jpg" style="width:650px; height:auto">
 

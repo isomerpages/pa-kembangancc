@@ -5,8 +5,7 @@ date: 2022-06-01
 layout: post
 description: ""
 ---
-
-### Walk-in Interview for Logistics and Operational Roles ###
+### Walk-in Interview for Mixed Sector Roles ###
 
 <img style="width:600px; height:auto" src="/images/Programmes%20(June%202022)/wsg_interview_jun22_mixed_sector.jpg">
 

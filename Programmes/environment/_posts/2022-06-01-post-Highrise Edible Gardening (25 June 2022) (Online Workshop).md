@@ -30,5 +30,5 @@ Pick up tips on the suitable range of crops to grow and nuggets of knowledge tha
 <b>	Wish to join the online workshop?</b><br>
 Click on the link below to be brought to the event's page to register.
 <div>
-	<a href="https://www.go.gov.sg/kccmovie" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
+	<a href="https://www.nparks.gov.sg/activities/events-and-workshops/2022/6/highrise-edible-gardening-(june)" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
 </div>

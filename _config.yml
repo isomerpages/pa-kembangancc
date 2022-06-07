@@ -6,13 +6,13 @@ colors:
   secondary-color: "#aa1908"
   media-colors:
     - title: media-color-one
-      color: "#f15a4a"
+      color: "#0899aa"
     - title: media-color-two
       color: "#60c090"
     - title: media-color-three
       color: "#e68365"
     - title: media-color-four
-      color: "#0899aa"
+      color: "#f15a4a"
     - title: media-color-five
       color: "#7573b6"
 resources_name: Programmes

@@ -5,7 +5,7 @@ date: 2022-06-01
 layout: post
 description: ""
 ---
-### Walk-in Interview for Back-to-Work Women ###
+### Walk-in Interview for Logistics and Operational Roles ###
 
 <img style="width:600px; height:auto" src="/images/Programmes%20(June%202022)/wsg_poster_jun22_logistics_operational.jpg">
 
@@ -23,11 +23,7 @@ description: ""
 	</tbody>
 </table>
 
-Workforce Singapore (WSG) is organising a walk-in interview at Heartbeat@Bedok on 9 June 2022 that will feature career resources for Back-to-Work women (male jobseekers are welcome to participate too).
-
-If you are currently a stay-home mum or caregiver who is looking to transition back to the workforce, or simply looking for more ways to empower yourself in your career, be sure not to miss it!
-
-<u>Note for live workshops:</u> Please note that seats are limited on a first come, first served basis. Standing space is available once seating capacity is full.
+Workforce Singapore (WSG) is organising a walk-in interview at Heartbeat@Bedok on 21 June 2022 that will feature career resources for jobseekers who are interested in Logistics and Operational Roles.
 
 <b>Wish to join?</b>
 <div>

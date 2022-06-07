@@ -23,7 +23,7 @@ description: ""
 	</tbody>
 </table>
 
-Workforce Singapore (WSG) is organising a walk-in interview at Changi Simei Community Club on 28 June 2022 that will feature career resources for jobseekers who are interested in Mixed Sector Roles.
+Workforce Singapore (WSG) is organising a walk-in interview at Changi Simei Community Club on 28 June 2022 that will feature career resources for jobseekers who are interested in roles from various sectors.
 
 <b>Wish to join?</b>
 <div>

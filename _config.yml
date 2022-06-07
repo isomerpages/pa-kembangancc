@@ -12,9 +12,9 @@ colors:
     - title: media-color-three
       color: "#e68365"
     - title: media-color-four
-      color: "#7573b6"
-    - title: media-color-five
       color: "#aa1908"
+    - title: media-color-five
+      color: "#7573b6"
 resources_name: Programmes
 google_analytics: UA-228607592-1
 description: Immerse in the buzz and happenings of your neighbourhood.

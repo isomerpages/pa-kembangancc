@@ -7,18 +7,16 @@ description: ""
 ---
 ### Walk-in Interview @ Heartbeat@Bedok ###
 
-<img style="width:600px; height:auto" src="/images/Programmes%20(June%202022)/poster_backtoworkwomen.jpg">
-
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>
 		<tr>
-			 <td><b>Location:</b></td><td>Heartbeat@Bedok,<br>11 Bedok North Street 1,<br>Singapore 469662</td>
+			 <td><b>Location:</b></td><td>East Coast Park<br>11 Bedok North Street 1,<br>Singapore 469662</td>
 		</tr>
 		<tr>
-		 <td><b>Date:</b> </td><td>9 June 2022 (Thursday)</td>
+		 <td><b>Date:</b> </td><td>17 September 2022 (Saturday)</td>
 		</tr>
 		<tr>
-			<td> <b>Time:</b> </td><td> 10:00AM - 4:00PM</td>
+			<td> <b>Time:</b> </td><td>To Be Confirmed</td>
 		</tr>
 	</tbody>
 </table>
@@ -31,4 +29,3 @@ The programme for the day includes Kayak N Klean (picking up litter along the be
 Registration has not been opened yet.
 
 Please contact us at mpcluster@pa.gov.sg should you wish to find out more about the programme.
-

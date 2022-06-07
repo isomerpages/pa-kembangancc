@@ -10,7 +10,7 @@ description: ""
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>
 		<tr>
-			 <td><b>Location:</b></td><td>East Coast Park<br>11 Bedok North Street 1,<br>Singapore 469662</td>
+			 <td><b>Location:</b></td><td>East Coast Park</td>
 		</tr>
 		<tr>
 		 <td><b>Date:</b> </td><td>17 September 2022 (Saturday)</td>

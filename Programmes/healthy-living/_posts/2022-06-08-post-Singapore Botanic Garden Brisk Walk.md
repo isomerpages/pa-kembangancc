@@ -7,7 +7,9 @@ description: ""
 ---
 ### Singapore Botanic Gardens Brisk Walk ###
 
-![](/images/Programmes%20(June%202022)/KUCC%20Briskwalk%20(1).png) ![](/images/Programmes%20(June%202022)/KKCC%20Briskwalk%20(1).png)
+<img src="/images/Programmes%20(June%202022)/KUCC%20Briskwalk%20(1).png" style="width:675px; height:auto">
+
+<img src="/images/Programmes%20(June%202022)/KKCC%20Briskwalk%20(1).png" style="width:675px; height:auto">
 
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>

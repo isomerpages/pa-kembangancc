@@ -43,7 +43,7 @@ Kembangan-Chai Chee Active Ageing Committee is organising brisk walk at Singapor
 	<p>Join us as we spend the morning at the Singapore Botanic Gardens walking at a brisk pace to get fit! Bring your friends and family along for a morning filled with good vibes and fun times.</p>
 </div>
 
-<b>Wish to join us?</b>
+<p><b>Wish to join us?</b></p>
 <div>
 	<a href="http://www.go.gov.sg/Kkccfamilyfunwalk " style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
 </div>

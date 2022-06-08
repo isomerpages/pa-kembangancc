@@ -7,7 +7,7 @@ description: ""
 ---
 ### Friends @ K-CC ### 
 
-<div style="padding:15px 0 15px 0">
+<div style="padding:30px 0 30px 0">
 <table style="font-size:130%; background-color:#f2f2f2">
 	<tbody>
 		<tr>
@@ -31,7 +31,7 @@ description: ""
 	<p>"Friends" would reach out to these seniors through house visits or phone calls, while at the same time promoting active ageing by sharing about upcoming community programmes and community health screenings conducted within Kembangan-Chai Chee.</p>
 </div>
 
-<div style="padding:0 0 0 0">
+<div style="padding:15px 0 15px 0">
 	<p><b>Wish to join Friends@K-CC as a volunteer?</b></p>
 	<p>Registration has not been opened yet.
 

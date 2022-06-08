@@ -31,7 +31,7 @@ description: ""
 </div>
 
 <div style="padding:20px 0 20px 0">
-	<table align="right"> <table  style="font-size:130%; background-color:#f2f2f2">
+	<table  style="font-size:130%; background-color:#f2f2f2">
 		<tbody>
 			<tr>
 				 <td><b>Location:</b></td><td>Kampong Kembangan Community Club</td>

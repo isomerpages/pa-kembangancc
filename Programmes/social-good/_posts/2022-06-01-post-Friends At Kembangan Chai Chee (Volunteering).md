@@ -33,7 +33,5 @@ description: ""
 
 <div style="padding:15px 0 15px 0">
 	<p><b>Wish to join Friends@K-CC as a volunteer?</b></p>
-	<p>Registration has not been opened yet.
-
-Please contact us at mpcluster@pa.gov.sg should you wish to find out more about the programme.</p>
+	<p>Registration has not been opened yet.<br><br>Please contact us at mpcluster@pa.gov.sg should you wish to find out more about the programme.</p>
 </div>

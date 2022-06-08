@@ -5,15 +5,10 @@ date: 2022-06-01
 layout: post
 description: ""
 ---
-
 ### Singapore Botanic Gardens Brisk Walk with Kampong Ubi CC ###
 
-<div style="padding:10px 0 20px 0px;">
-	<div style="display:inline-block; padding:0 15px 15px 0;"><img src="/images/Programmes%20(June%202022)/KUCC%20Briskwalk%20(1).png" style="width:450px; height:auto">
-	</div>
-	<div style="display:inline-block; padding:0 15px 15px 0;"><img src="/images/Programmes%20(June%202022)/KKCC%20Briskwalk%20(1).png" style="width:450px; height:auto">
-	</div>
-</div>
+
+<img src="/images/Programmes%20(June%202022)/KUCC%20Briskwalk%20(1).png" style="width:450px; height:auto">
 
 <div style="padding:20px 0 20px 0">
 	<table  style="font-size:130%; background-color:#f2f2f2">
@@ -23,22 +18,6 @@ description: ""
 			</tr>
 			<tr>
 			 <td><b>Date:</b></td><td>25 June 2022 (Saturday)</td>
-			</tr>
-			<tr>
-				<td> <b>Time:</b> </td><td>7:30AM - 10:30AM</td>
-			</tr>
-		</tbody>
-	</table>
-</div>
-
-<div style="padding:20px 0 20px 0">
-	<table  style="font-size:130%; background-color:#f2f2f2">
-		<tbody>
-			<tr>
-				 <td><b>Location:</b></td><td>Kampong Kembangan Community Club</td>
-			</tr>
-			<tr>
-			 <td><b>Date:</b></td><td>26 June 2022 (Sunday)</td>
 			</tr>
 			<tr>
 				<td> <b>Time:</b> </td><td>7:30AM - 10:30AM</td>

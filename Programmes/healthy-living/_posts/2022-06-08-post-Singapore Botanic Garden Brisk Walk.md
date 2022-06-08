@@ -7,9 +7,15 @@ description: ""
 ---
 ### Singapore Botanic Gardens Brisk Walk ###
 
-<img src="/images/Programmes%20(June%202022)/KUCC%20Briskwalk%20(1).png" style="width:675px; height:auto">
-
-<img src="/images/Programmes%20(June%202022)/KKCC%20Briskwalk%20(1).png" style="width:675px; height:auto">
+<div style="padding:10px 0 20px 0px;">
+	<div style="display:inline-block; padding:0 15px 15px 0;"><img src="/images/Programmes%20(June%202022)/KUCC%20Briskwalk%20(1).png" style="width:675px; height:auto">
+	</div>
+	<div style="display:inline-block; padding:0 15px 15px 0;"><img src="/images/Programmes%20(June%202022)/KKCC%20Briskwalk%20(1).png" style="width:675px; height:auto">
+	</div>
+	<div style="display:inline-block; padding:0 15px 0 0;">
+	<img src="/images/PA%20Logo%202015%20(PNG).png" style="width:110px;height:auto;">
+	</div>
+</div>
 
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>

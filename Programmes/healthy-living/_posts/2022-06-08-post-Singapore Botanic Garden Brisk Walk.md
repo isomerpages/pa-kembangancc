@@ -18,13 +18,13 @@ description: ""
 	<table  style="font-size:130%; background-color:#f2f2f2">
 		<tbody>
 			<tr>
-				 <td><b>Location:</b></td><td>Kampong  Ubi Community Club </td>
+				 <td><b>Location:</b></td><td>Kampong Ubi Community Club</td>
 			</tr>
 			<tr>
-			 <td><b>Date:</b> </td><td>25 June 2022 (Saturday)</td>
+			 <td><b>Date:</b></td><td>25 June 2022 (Saturday)</td>
 			</tr>
 			<tr>
-				<td> <b>Time:</b> </td><td> 7:30AM - 10:30AM</td>
+				<td> <b>Time:</b> </td><td>7:30AM - 10:30AM</td>
 			</tr>
 		</tbody>
 	</table>
@@ -37,10 +37,10 @@ description: ""
 				 <td><b>Location:</b></td><td>Kampong Kembangan Community Club</td>
 			</tr>
 			<tr>
-			 <td><b>Date:</b> </td><td>26 June 2022 (Sunday)</td>
+			 <td><b>Date:</b></td><td>26 June 2022 (Sunday)</td>
 			</tr>
 			<tr>
-				<td> <b>Time:</b> </td><td> 7:30AM - 10:30AM</td>
+				<td> <b>Time:</b> </td><td>7:30AM - 10:30AM</td>
 			</tr>
 		</tbody>
 	</table>

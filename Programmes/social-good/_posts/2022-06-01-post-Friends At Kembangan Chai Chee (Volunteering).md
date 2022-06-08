@@ -31,10 +31,9 @@ description: ""
 	<p>"Friends" would reach out to these seniors through house visits or phone calls, while at the same time promoting active ageing by sharing about upcoming community programmes and community health screenings conducted within Kembangan-Chai Chee.</p>
 </div>
 
-<div style="padding:30px 0 0 0">
+<div style="padding:0 0 0 0">
 	<p><b>Wish to join Friends@K-CC as a volunteer?</b></p>
-	<p>We apologize but registration is not opened yet. Please check back again.</p>
-</div>
+	<p>Registration has not been opened yet.
 
-<b>Have questions?</b><br>
-You may contact pa_kampongkembangancc@pa.gov.sg via email.<br><br><br>
+Please contact us at mpcluster@pa.gov.sg should you wish to find out more about the programme.</p>
+</div>

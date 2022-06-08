@@ -5,7 +5,7 @@ date: 2022-06-08
 layout: post
 description: ""
 ---
-### Singapore Botanic Garden Brisk Walk ###
+### Singapore Botanic Gardens Brisk Walk ###
 
 ![](/images/Programmes%20(June%202022)/KUCC%20Briskwalk%20(1).png) ![](/images/Programmes%20(June%202022)/KKCC%20Briskwalk%20(1).png)
 
@@ -37,13 +37,13 @@ description: ""
 	</tbody>
 </table>
 
-Kembangan-Chai Chee Active Ageing Committee is organising brisk walk at Singapore Botanic Gardens! 🌸🌺🌼
+<div>
+	<p>
+Kembangan-Chai Chee Active Ageing Committee is organising brisk walk at Singapore Botanic Gardens! 🌸🌺🌼</p>
+	<p>Join us as we spend the morning at the Singapore Botanic Gardens walking at a brisk pace to get fit! Bring your friends and family along for a morning filled with good vibes and fun times.</p>
+</div>
 
-Join us as we spend the morning at the Singapore Botanic Gardens walking at a brisk pace to get fit! Bring your friends and family along for a
-morning filled with good vibes and fun times.
-<br>
-
-<b>	Wish to join us?</b>
+<b>Wish to join us?</b>
 <div>
 	<a href="http://www.go.gov.sg/Kkccfamilyfunwalk " style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
 </div>

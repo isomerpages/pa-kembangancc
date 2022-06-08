@@ -12,7 +12,7 @@ description: ""
 	<tbody>
 		<tr>
 			<td><b>Location:</b></td>
-			<td>Ping An Green RC</td>
+			<td>Various locations within Chai Chee</td>
 		</tr>
 		<tr>
 			<td><b>Date:</b></td>

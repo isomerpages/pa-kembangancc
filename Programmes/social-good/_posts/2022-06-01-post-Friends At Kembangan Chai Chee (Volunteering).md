@@ -32,8 +32,8 @@ description: ""
 </div>
 
 <div style="padding:30px 0 0 0">
-	<p><b>Wish to join as a volunteer?</b></p>
-	<p>Registration is not opened yet. Please check back again.</p>
+	<p><b>Wish to join Friends@K-CC as a volunteer?</b></p>
+	<p>We apologize but registration is not opened yet. Please check back again.</p>
 </div>
 
 <b>Have questions?</b><br>

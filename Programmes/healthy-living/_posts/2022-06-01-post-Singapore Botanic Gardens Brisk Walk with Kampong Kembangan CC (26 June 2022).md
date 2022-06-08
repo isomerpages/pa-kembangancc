@@ -7,7 +7,7 @@ description: ""
 ---
 ### Singapore Botanic Gardens Brisk Walk with Kampong Kembangan CC ###
 
-<img src="/images/Programmes%20(June%202022)/KKCC%20Briskwalk%20(1).png" style="width:450px; height:auto">
+<img src="/images/Programmes%20(June%202022)/KKCC%20Briskwalk%20(1).png" style="width:500px; height:auto">
 
 <div style="padding:20px 0 20px 0">
 	<table  style="font-size:130%; background-color:#f2f2f2">

@@ -7,7 +7,7 @@ description: ""
 ---
 ### Friends @ K-CC ### 
 
-<div style="padding:15px 0 0 0">
+<div style="padding:15px 0 15px 0">
 <table style="font-size:130%; background-color:#f2f2f2">
 	<tbody>
 		<tr>

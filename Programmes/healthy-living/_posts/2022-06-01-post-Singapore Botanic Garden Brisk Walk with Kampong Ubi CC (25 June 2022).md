@@ -5,9 +5,7 @@ date: 2022-06-01
 layout: post
 description: ""
 ---
-
-
-### Kampong Ubi CC: Singapore Botanic Gardens Brisk Walk ###
+### Singapore Botanic Gardens Brisk Walk with Kampong Ubi CC ###
 
 <div style="padding:10px 0 20px 0px;">
 	<div style="display:inline-block; padding:0 15px 15px 0;"><img src="/images/Programmes%20(June%202022)/KUCC%20Briskwalk%20(1).png" style="width:450px; height:auto">

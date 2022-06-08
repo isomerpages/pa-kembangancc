@@ -12,38 +12,39 @@ description: ""
 	</div>
 	<div style="display:inline-block; padding:0 15px 15px 0;"><img src="/images/Programmes%20(June%202022)/KKCC%20Briskwalk%20(1).png" style="width:675px; height:auto">
 	</div>
-	<div style="display:inline-block; padding:0 15px 0 0;">
-	<img src="/images/PA%20Logo%202015%20(PNG).png" style="width:110px;height:auto;">
-	</div>
 </div>
 
-<table  style="font-size:130%; background-color:#f2f2f2">
-	<tbody>
-		<tr>
-			 <td><b>Location:</b></td><td>Kampong  Ubi Community Club </td>
-		</tr>
-		<tr>
-		 <td><b>Date:</b> </td><td>25 June 2022 (Saturday)</td>
-		</tr>
-		<tr>
-			<td> <b>Time:</b> </td><td> 7:30AM - 10:30AM</td>
-		</tr>
-	</tbody>
-</table>
+<div style="padding:20px 0 20px 0">
+	<table  style="font-size:130%; background-color:#f2f2f2">
+		<tbody>
+			<tr>
+				 <td><b>Location:</b></td><td>Kampong  Ubi Community Club </td>
+			</tr>
+			<tr>
+			 <td><b>Date:</b> </td><td>25 June 2022 (Saturday)</td>
+			</tr>
+			<tr>
+				<td> <b>Time:</b> </td><td> 7:30AM - 10:30AM</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
 
-<table align="right"> <table  style="font-size:130%; background-color:#f2f2f2">
-	<tbody>
-		<tr>
-			 <td><b>Location:</b></td><td>Kampong Kembangan Community Club</td>
-		</tr>
-		<tr>
-		 <td><b>Date:</b> </td><td>26 June 2022 (Sunday)</td>
-		</tr>
-		<tr>
-			<td> <b>Time:</b> </td><td> 7:30AM - 10:30AM</td>
-		</tr>
-	</tbody>
-</table>
+<div style="padding:20px 0 20px 0">
+	<table align="right"> <table  style="font-size:130%; background-color:#f2f2f2">
+		<tbody>
+			<tr>
+				 <td><b>Location:</b></td><td>Kampong Kembangan Community Club</td>
+			</tr>
+			<tr>
+			 <td><b>Date:</b> </td><td>26 June 2022 (Sunday)</td>
+			</tr>
+			<tr>
+				<td> <b>Time:</b> </td><td> 7:30AM - 10:30AM</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
 
 <div>
 	<p>

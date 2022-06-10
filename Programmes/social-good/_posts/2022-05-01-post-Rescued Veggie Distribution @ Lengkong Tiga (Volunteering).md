@@ -5,9 +5,6 @@ date: 2022-05-01
 layout: post
 description: ""
 ---
-
-
-
 ### Rescued Veggies Project @ Lengkong Tiga (Volunteering) ### 
 
 <img style="height:100%; width:100%; max-width:550px; min-height:100px" src="/images/Rescued Veggies Distribution.jpg">
@@ -37,9 +34,6 @@ You may contact Kampong Kembangan CC or Kampong Ubi CC via a phone call.
 <table  style="display:flex; flex-grow:1; margin: 0px 0px 25px 0px; font-size:120%;">
 <tbody>
 <tr>
- <td><b>Address:</b></td><td>5 Lengkong Tiga, Singapore 417408</td>
-</tr>
-<tr>
 	<td><b>Operating Hours:</b> </td>
 	<td>Phone Enquiries: 10:00AM - 6:00PM<br><br>Closed on Public Holidays</td>
 </tr>
@@ -52,9 +46,6 @@ You may contact Kampong Kembangan CC or Kampong Ubi CC via a phone call.
 #### Kampong Ubi CC ####
 <table  style="display:flex; font-size:120%; padding-bottom:25px">
 <tbody>
-<tr>
- <td><b>Address:</b></td><td>10 Jln Ubi, Singapore 409075</td>
-</tr>
 <tr>
  <td><b>Operating Hours:</b> </td>
 	<td>Phone Enquiries: 10:00AM - 6:00PM<br><br>Closed on Public Holidays</td>

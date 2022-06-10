@@ -6,7 +6,6 @@ date: 2022-06-01
 layout: post
 description: ""
 ---
-
 ### Growing Cacti and Succulents in Tropical Singapore ###
 
 <div style="padding:15px 0 0 0">
@@ -27,6 +26,7 @@ description: ""
 
 <div style="padding:20px 0 0 0">
 	<p>Have issues growing cacti or succulents? Join us in this online talk with Shawn Chen from Greenfingers Singapore where he will be sharing tips and tricks on how to care for cacti and succulents in our humid environment, as well as a list of cacti and succulents that grow more easily locally.</p>
+	<p><i>Note: This online workshop is organised by NParks.</i></p>
 </div>
 	
 <b>	Wish to join the online workshop?</b><br>

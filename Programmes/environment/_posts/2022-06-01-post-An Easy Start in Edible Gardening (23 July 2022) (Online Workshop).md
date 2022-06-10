@@ -23,7 +23,7 @@ description: ""
 	</table>
 </div>
 
-<div style="padding:20px 0 0 0">
+<div style="padding:30px 0 0 0">
 	<p>The growing of edible plants requires commitment, knowledge, space and sunlight. To give novices an easy and rewarding start, the growing of microgreens, which are young edible seedlings of plants, serves as a great way to start.</p>
 		<p>Also, there are some edible plants are easily started via stem-cuttings. Join us in this online talk, where Dr Wilson Wong shares with his participants how one can get started and succeed in his or her first edible crops.  Also pick up ideas on how you can use edibles for simple table displays!</p>
 	<p><i>Note: This online workshop is organised by NParks.</i></p>

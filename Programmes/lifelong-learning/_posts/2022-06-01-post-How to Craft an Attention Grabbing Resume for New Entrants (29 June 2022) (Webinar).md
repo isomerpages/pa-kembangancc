@@ -6,10 +6,7 @@ date: 2022-06-01
 layout: post
 description: ""
 ---
-
-
-
-You will learn:
+In this webinar, you will learn:
 
 •	Different resume formats and understand the different components of a resume 
 

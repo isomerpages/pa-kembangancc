@@ -26,7 +26,7 @@ description: ""
 Our movie screening is back with a different format! Watch on the big screen but hear the crystal clear sound on your phone or earpiece! 
 
 Download the 'Cinewav' app before the event and bring along your smartphone and an earpiece!
-Registered participants will be given a code to key in the app to retrieve the movie audio file. Code will be given at the venue on actual day.
+Registered participants will be given a code to key in the app to retrieve the movie audio file. Code will be given at the venue on the actual day.
 <br>
 <br>Each ticket includes:
 - Popcorn 

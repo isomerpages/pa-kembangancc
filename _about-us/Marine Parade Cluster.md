@@ -3,23 +3,18 @@ title: Marine Parade Cluster
 permalink: /about-us/about-marineparadecluster
 description: ""
 ---
-![](/images/Banners/banner_marineparadecluster.png)
+<div style="padding:0 0 30px 0">
+	<img src="/images/Logos/MarineParadeCluster_logo_1263x1263.png" style="width:300px; height:auto">
+</div>
 
 <div>
 	<p style=" font-size:120%; margin-top: 0px; margin-bottom:20px; line-height:1.35; padding:10px 0 0 0"><b>About Marine Parade Cluster</b></p>
 </div>
-		
+
 <table style="font-size:120%; margin-top: 0px; margin-bottom:20px;">
 	<tr>
 		<td><img style="width:400px; vertical-align:middle; float:left;right-margin:20px;" alt="Selfie" src="/images/About%20Us/Wefie.gif"></td>
-		<td>Marine Parade Cluster consists of the following divisions:
-			<ol>
-				<li style="font-size:18px; padding-left:8px">Braddell Heights</li>
-				<li style="font-size:18px; padding-left:8px">Geylang Serai</li>
-				<li style="font-size:18px; padding-left:8px">Joo Chiat</li>
-				<li style="font-size:18px; padding-left:8px">Kembangan-Chai Chee</li>
-				<li style="font-size:18px; padding-left:8px">Marine Parade</li>
-			</ol>
+		<td>Marine Parade Cluster consists of the following divisions: Braddell Heights, Geylang Serai, Joo Chiat, <b>Kembangan-Chai Chee</b>, Marine Parade, MacPherson and Mountbatten.
 		</td>
 	</tr>
 	<tr>
@@ -33,3 +28,11 @@ description: ""
 	<td>Through creative and targeted programming, Marine Parade Cluster aspires to connect and serve the needs of the different profiles within the community.
 	</td>
 </tr>
+</table>
+
+<div>
+	<p style=" font-size:120%; margin-top: 0px; margin-bottom:20px; line-height:1.35; padding:20px 0 0 0"><b>Get Connected with Marine Parade Cluster!</b></p>
+</div>
+<div>
+		<a href="https://www.facebook.com/marineparadecluster" style="display:block;"><img src="/images/Logos/f_logo_RGB-Blue_100.png" style="max-width:60px; max-height:60px; float:left;"></a>
+</div>

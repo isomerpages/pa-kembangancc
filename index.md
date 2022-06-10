@@ -36,7 +36,7 @@ sections:
       image: /images/About Us/OurVision.gif
       alt: Image alt text
       button: find out more
-      url: about-us/about-marineparadecluster
+      url: /about-us/aboutk-cc
   - infopic:
       title: Tan Chuan-Jin
       subtitle: Grassroots Adviser
@@ -60,7 +60,7 @@ sections:
       description: Meet some of our everyday samaritans and changemakers who make a
         difference and contribute to the lives of the people around us.
       button: find out more
-      url: /articles/all-stories
+      url: /local-heroes/all-stories
       alt: Image alt text
       image: /images/About Us/StoriesofK-CC.png
   - infopic:

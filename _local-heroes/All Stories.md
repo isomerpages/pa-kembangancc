@@ -3,8 +3,7 @@ title: All Stories
 permalink: /local-heroes/all-stories
 description: ""
 ---
-
-![](/images/Banners/Stories.png)
+![](/images/Banners/Stories%20of%20K-CC.png)
 
 <b>Our Local Heroes</b>
 <br>Meet some of our everyday samaritans and changemakers who make a difference and contribute to the lives of the people around us. <br>

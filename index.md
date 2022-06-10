@@ -62,7 +62,7 @@ sections:
       button: find out more
       url: /local-heroes/all-stories
       alt: Image alt text
-      image: /images/About Us/StoriesofK-CC.png
+      image: /images/About Us/Stories.png
   - infopic:
       title: Volunteer with Us
       subtitle: get involved

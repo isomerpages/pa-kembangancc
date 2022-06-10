@@ -23,11 +23,11 @@ description: ""
 
 <div style="padding:35px 0 0 0">
 	<p><u>In this webinar, you will learn:</u></p>
-•	Different resume formats and understand the different components of a resume 
-
-•	Tips to understand employers’ requirements by analysing job descriptions and applying it to your resume
-
-•	How to customise your resume to enhance your job search
+	<ul>
+		<li>Self-confidence and practical ways to keep your self-confidence high</li>
+		<li>Financial planning to help you cruise through your job search</li>
+		<li>Concrete steps to be successful in job search focusing on all steps</li>
+	</ul>
 </div>
 
 <b>Wish to join?</b>

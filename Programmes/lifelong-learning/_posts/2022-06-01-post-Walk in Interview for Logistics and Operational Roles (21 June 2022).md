@@ -12,7 +12,7 @@ description: ""
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>
 		<tr>
-			 <td><b>Location:</b></td><td>Level 3, Function Room<br><br>Kampong Chai Chee Community Club,<br>Heartbeat@Bedok,<br>11 Bedok North Street 1,<br>Singapore 469662</td>
+			 <td><b>Location:</b></td><td>Kampong Chai Chee Community Club,<br>Heartbeat@Bedok,<br>11 Bedok North Street 1,<br>Singapore 469662<br><br>Level 3, Function Room</td>
 		</tr>
 		<tr>
 		 <td><b>Date:</b> </td><td>21 June 2022 (Tuesday)</td>

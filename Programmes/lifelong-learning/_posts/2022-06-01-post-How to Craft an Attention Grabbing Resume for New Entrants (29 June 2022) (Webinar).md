@@ -11,7 +11,7 @@ description: ""
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>
 		<tr>
-			 <td><b>Location:</b></td><td>Online Webinar</td>
+			 <td><b>Location:</b></td><td>Online Webinar<br>(Link will be sent to successful registrants)</td>
 		</tr>
 		<tr>
 		 <td><b>Date:</b> </td><td>29 June 2022 (Wednesday)</td>
@@ -29,8 +29,6 @@ description: ""
 •	Tips to understand employers’ requirements by analysing job descriptions and applying it to your resume
 
 •	How to customise your resume to enhance your job search
-
-
 
 <b>Wish to join?</b>
 <div>

@@ -6,7 +6,6 @@ date: 2022-06-01
 layout: post
 description: ""
 ---
-
 ### Growing Cacti and Succulents in Tropical Singapore ###
 
 <div style="padding:15px 0 0 0">
@@ -19,7 +18,7 @@ description: ""
 			 <td><b>Date:</b> </td><td>25 June 2022 (Saturday)</td>
 			</tr>
 			<tr>
-				<td> <b>Time:</b> </td><td>2:00PM - 2:45PM</td>
+				<td> <b>Time:</b> </td><td>4:00PM - 4:45PM</td>
 			</tr>
 		</tbody>
 	</table>

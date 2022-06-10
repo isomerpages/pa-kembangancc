@@ -29,6 +29,7 @@ description: ""
 •	Tips to understand employers’ requirements by analysing job descriptions and applying it to your resume
 
 •	How to customise your resume to enhance your job search
+</div>
 
 <b>Wish to join?</b>
 <div>

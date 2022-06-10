@@ -12,7 +12,7 @@ description: ""
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>
 		<tr>
-			 <td><b>Location:</b></td><td>Level 3, Function Room<br><br>Heartbeat@Bedok,<br>11 Bedok North Street 1,<br>Singapore 469662</td>
+			 <td><b>Location:</b></td><td>Level 3, Function Room<br><br>Kampong Chai Chee Community Club,<br>Heartbeat@Bedok,<br>11 Bedok North Street 1,<br>Singapore 469662</td>
 		</tr>
 		<tr>
 		 <td><b>Date:</b> </td><td>21 June 2022 (Tuesday)</td>
@@ -23,7 +23,7 @@ description: ""
 	</tbody>
 </table>
 
-Workforce Singapore (WSG) is organising a walk-in interview at Heartbeat@Bedok on 21 June 2022 that will feature career resources for jobseekers who are interested in Logistics and Operational Roles.
+Workforce Singapore (WSG) is organising a walk-in interview at Kampong Chai Chee Community Club (located at Heartbeat@Bedok) on 21 June 2022 that will feature career resources for jobseekers who are interested in Logistics and Operational Roles.
 
 <b>Wish to join?</b>
 <div>

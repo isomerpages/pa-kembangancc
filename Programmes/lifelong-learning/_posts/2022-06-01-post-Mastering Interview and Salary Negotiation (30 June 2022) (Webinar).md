@@ -13,10 +13,10 @@ description: ""
 			 <td><b>Location:</b></td><td>Online Webinar<br>(Link will be sent to successful registrants)</td>
 		</tr>
 		<tr>
-		 <td><b>Date:</b> </td><td>29 June 2022 (Wednesday)</td>
+		 <td><b>Date:</b> </td><td>30 June 2022 (Thursday)</td>
 		</tr>
 		<tr>
-			<td> <b>Time:</b> </td><td>2:00PM - 3:30PM</td>
+			<td> <b>Time:</b> </td><td>2:00PM - 4:30PM</td>
 		</tr>
 	</tbody>
 </table>
@@ -33,5 +33,5 @@ description: ""
 
 <b>Wish to join?</b>
 <div>
-	<a href="https://go.gov.sg/vs-290622" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
+	<a href="https://go.gov.sg/vs-300622" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
 </div>

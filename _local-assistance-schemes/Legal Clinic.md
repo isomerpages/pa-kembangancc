@@ -5,7 +5,7 @@ description: ""
 ---
 <img style= "height:auto; width:450px" src="/images/Local%20Assistance%20Scheme/kcc_legal_clinic_05jan22.jpg">
 
-Residents within Kembangan-Chai Chee can receive free legal advice dealing with LPA, employment, marriage matters and etc. 
+Residents within Kembangan-Chai Chee can receive free legal advice dealing with Lasting Power of Attorney (LPA), employment, marriage matters and etc. 
 
 <b>Eligibility</b>
 <table style="font-size:130%; background-color:#f2f2f2">

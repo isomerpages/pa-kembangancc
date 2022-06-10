@@ -25,7 +25,6 @@ description: ""
 
 <div>
 	<p>Have issues growing cacti or succulents? Join us in this online talk with Shawn Chen from Greenfingers Singapore where he will be sharing tips and tricks on how to care for cacti and succulents in our humid environment, as well as a list of cacti and succulents that grow more easily locally.</p>
-	<p>Pick up tips on the suitable range of crops to grow and nuggets of knowledge that will ensure success in growing your own edible plants.</p>
 </div>
 	
 <b>	Wish to join the online workshop?</b><br>

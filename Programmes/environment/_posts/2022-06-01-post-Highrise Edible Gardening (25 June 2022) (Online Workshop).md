@@ -23,7 +23,7 @@ description: ""
 </table>
 </div>
 
-<div style="padding:20px 0 0 0">
+<div style="padding:35px 0 0 0">
 	<p>Many residents in Singapore reside in high-rise apartments where sunlight and space are limited. Join us online in this talk with Dr Wilson Wong to learn how to grow your edible plants successfully if you are an apartment dweller.</p>
 	<p>Pick up tips on the suitable range of crops to grow and nuggets of knowledge that will ensure success in growing your own edible plants.</p>
 	<p><i>Note: This online workshop is organised by NParks.</i></p>

@@ -11,7 +11,7 @@ description: ""
 <table style="font-size:130%; background-color:#f2f2f2">
 	<tbody>
 		<tr>
-			 <td><b>Location:</b></td><td>Online Workshop</td>
+			 <td><b>Location:</b></td><td>Online Workshop (Link will be sent to successful registrants)</td>
 		</tr>
 		<tr>
 		 <td><b>Date:</b> </td><td>25 June 2022 (Saturday)</td>

@@ -32,5 +32,5 @@ description: ""
 
 <b>Wish to join?</b>
 <div>
-	<a href="https://go.gov.sg/vs-290622" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
+	<a href="https://go.gov.sg/vs-210622" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
 </div>

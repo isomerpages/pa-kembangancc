@@ -5,7 +5,7 @@ date: 2022-06-01
 layout: post
 description: ""
 ---
-### How to Craft an Attention Grabbing Resume for New Entrants ###
+### Mastering Interview and Salary Negotiation ###
 
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>

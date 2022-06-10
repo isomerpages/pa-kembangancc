@@ -13,10 +13,10 @@ description: ""
 			 <td><b>Location:</b></td><td>Online Webinar<br>(Link will be sent to successful registrants)</td>
 		</tr>
 		<tr>
-		 <td><b>Date:</b> </td><td>29 June 2022 (Wednesday)</td>
+		 <td><b>Date:</b> </td><td>21 June 2022 (Tuesday)</td>
 		</tr>
 		<tr>
-			<td> <b>Time:</b> </td><td>2:00PM - 3:30PM</td>
+			<td> <b>Time:</b> </td><td>2:00PM - 4:30PM</td>
 		</tr>
 	</tbody>
 </table>

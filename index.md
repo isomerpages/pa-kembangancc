@@ -36,7 +36,7 @@ sections:
       image: /images/About Us/OurVision.gif
       alt: Image alt text
       button: find out more
-      url: about-us/about-marineparadecluster
+      url: /about-us/aboutk-cc
   - infopic:
       title: Tan Chuan-Jin
       subtitle: Grassroots Adviser

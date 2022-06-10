@@ -8,11 +8,11 @@ colors:
     - title: media-color-one
       color: "#0899aa"
     - title: media-color-two
-      color: "#60c090"
-    - title: media-color-three
       color: "#f15a4a"
-    - title: media-color-four
+    - title: media-color-three
       color: "#e68365"
+    - title: media-color-four
+      color: "#60c090"
     - title: media-color-five
       color: "#7573b6"
 resources_name: Programmes

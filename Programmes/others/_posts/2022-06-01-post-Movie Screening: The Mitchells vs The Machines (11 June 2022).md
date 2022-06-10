@@ -5,8 +5,6 @@ date: 2022-06-01
 layout: post
 description: ""
 ---
-
-
 ### Movie Screening: The Mitchells vs The Machines ###
 
 <img style="height:100%; width:100%; max-width:600px; max-height:846px" src="/images/Programmes%20(May%202022)/K-CC%20FLC%20Movie%20Screening.png">
@@ -25,7 +23,7 @@ description: ""
 	</tbody>
 </table>
 
-Our movie screening is back with a different format! Watch on big screen but hear the crystal clear sound on your phone or earpiece! 
+Our movie screening is back with a different format! Watch on the big screen but hear the crystal clear sound on your phone or earpiece! 
 
 Download the 'Cinewav' app before the event and bring along your smartphone with earpiece!
 Registered participants will be given a code to key in the app to retrieve the movie audio file. Code will be given at the venue on actual day.

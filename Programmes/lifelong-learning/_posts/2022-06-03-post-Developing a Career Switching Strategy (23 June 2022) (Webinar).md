@@ -5,14 +5,12 @@ date: 2022-06-03
 layout: post
 description: ""
 ---
-
-
 ### Developing a Career Switching Strategy ###
 
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>
 		<tr>
-			 <td><b>Location:</b></td><td>Online Webinar<br>(Link will be sent to successful registrants)</td>
+			 <td><b>Location:</b></td><td>Virtual Seminar (Online)<br>(Link will be sent to successful registrants)</td>
 		</tr>
 		<tr>
 		 <td><b>Date:</b> </td><td>23 June 2022 (Thursday)</td>
@@ -24,7 +22,7 @@ description: ""
 </table>
 
 <div style="padding:35px 0 0 0">
-	<p><u>In this webinar, you will learn:</u></p>
+	<p><u>In this seminar, you will learn:</u></p>
 	<ul>
 		<li>What is a Career Switch</li>
 		<li>Why is this so difficult and how you can overcome this</li>

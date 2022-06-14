@@ -33,5 +33,6 @@ Help your child unleash their creative side in these cool crafting workshops and
 <div>
 	<a href="https://docs.google.com/forms/d/e/1FAIpQLSea9O1FGZus6dE_YpnBsK7WOfaK07tv_3dlfr9p5sPavX0OpQ/viewform?vc=0&c=0&w=1&flr=0" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
 </div>
-
-<b> For more information, visit Wisma Geylang Serai's Facebook Page: </b> www.facebook.com/WismaGeylangSerai  
+	
+<b>For more information, visit Wisma Geylang Serai's Facebook Page: </b><br>
+www.facebook.com/WismaGeylangSerai<br><br><br>

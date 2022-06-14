@@ -34,3 +34,6 @@ This session is open to all ages and will be conducted in English. Sign up today
 <div>
 	<a href="https://nhb-eco.peatix.com/" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
 </div>
+
+<b>For more information, visit Wisma Geylang Serai's Facebook Page: </b><br>
+www.facebook.com/WismaGeylangSerai<br><br><br>

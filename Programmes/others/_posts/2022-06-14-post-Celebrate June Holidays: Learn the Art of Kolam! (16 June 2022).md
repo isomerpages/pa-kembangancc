@@ -20,6 +20,9 @@ description: ""
 		<tr>
 			<td> <b>Time:</b> </td><td> 2:00PM to 3:00PM </td>
 		</tr>
+			<tr>
+			<td> <b>Ticket Fee:</b> </td><td> $5.00 </td>
+		</tr>
 	</tbody>
 </table>
 

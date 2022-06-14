@@ -5,8 +5,7 @@ date: 2022-06-14
 layout: post
 description: ""
 ---
-
-### Celebrate June Holidays: Learn the Art of Kolam!  ###
+### Celebrate June Holidays: Learn the Art of Kolam! (Physical Workshop) ###
 
 <img src="/images/Programmes (June 2022)/WGS-children-programme.jpg" style="width:650px; height:auto">
 
@@ -16,7 +15,7 @@ description: ""
 			 <td><b>Location:</b></td><td>Geylang Serai Heritage Gallery (1 Engku Aman Turn, #01-05 Wisma Geylang Serai, S408528)</td>
 		</tr>
 		<tr>
-		 <td><b>Date:</b> </td><td>16 & 17 June 2022</td>
+		 <td><b>Date:</b> </td><td>16 & 17 June 2022 (2 runs of the same workshop)</td>
 		</tr>
 		<tr>
 			<td> <b>Time:</b> </td><td> 2:00PM to 3:00PM </td>

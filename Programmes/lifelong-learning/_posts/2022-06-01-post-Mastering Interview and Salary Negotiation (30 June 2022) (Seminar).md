@@ -5,13 +5,12 @@ date: 2022-06-01
 layout: post
 description: ""
 ---
-
 ### Mastering Interview and Salary Negotiation ###
 
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>
 		<tr>
-			 <td><b>Location:</b></td><td>Virtual Webinar (Online)<br>(Link will be sent to successful registrants)</td>
+			 <td><b>Location:</b></td><td>Virtual Seminar (Online)<br>(Link will be sent to successful registrants)</td>
 		</tr>
 		<tr>
 		 <td><b>Date:</b> </td><td>30 June 2022 (Thursday)</td>

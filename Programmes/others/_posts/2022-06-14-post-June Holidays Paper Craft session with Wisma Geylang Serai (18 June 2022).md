@@ -12,10 +12,10 @@ description: ""
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>
 		<tr>
-			 <td><b>Location:</b></td><td>Geylang Serai Heritage Gallery (1 Engku Aman Turn, #01-05 Wisma Geylang Serai, S408528)</td>
+			 <td><b>Location:</b></td><td> Wisma Geylang Serai, Persada Budaya @ Level 1</td>
 		</tr>
 		<tr>
-		 <td><b>Date:</b> </td><td>18 June 2022 (2 runs of the same workshop)</td>
+		 <td><b>Date:</b> </td><td>18 June 2022</td>
 		</tr>
 		<tr>
 			<td> <b>Time:</b> </td><td> 11:00AM to 12:00PM </td>
@@ -24,8 +24,6 @@ description: ""
 </table>
 
 Looking for something fun, crafty and environmentally sound to do this weekend with kids? Look no further than the Newspaper Coaster Workshop with Wisma Geylang Serai, where little artists will have an awesome time turning old newspapers into coasters!
-
-Help your child unleash their creative side in these cool crafting workshops and when they are done, come on down to our awesome bouncy castles or even catch a great movie or two! 
 
 **Participants are highly encouraged to bring their own recycled materials - Newspaper, Poster paint, White Glue and Scissors.**
 

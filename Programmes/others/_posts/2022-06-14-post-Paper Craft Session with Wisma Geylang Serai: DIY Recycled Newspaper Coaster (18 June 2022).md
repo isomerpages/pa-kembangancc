@@ -33,4 +33,4 @@ Looking for something fun, crafty and environmentally sound to do this weekend 
 	<a href="https://docs.google.com/forms/d/e/1FAIpQLSea9O1FGZus6dE_YpnBsK7WOfaK07tv_3dlfr9p5sPavX0OpQ/viewform?vc=0&c=0&w=1&flr=0" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
 </div>
 	
-<b>For more information, visit Wisma Geylang Serai's Facebook Page: </b><br>[Wisma Geylang Serai's Facebook Page](www.facebook.com/WismaGeylangSerai  )<br><br><br>
+<b>For more information, visit Wisma Geylang Serai's Facebook Page: </b><br>[Wisma Geylang Serai's Facebook Page](www.facebook.com/WismaGeylangSerai)<br><br><br>

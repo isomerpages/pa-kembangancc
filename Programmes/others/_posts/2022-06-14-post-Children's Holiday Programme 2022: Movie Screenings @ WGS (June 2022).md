@@ -23,8 +23,6 @@ description: ""
 	</tbody>
 </table>
 
-Wisma Geylang Serai is screening free movies this June Holidays and its FREE!
-
-Kids need to burn off some energy after the show? Swing by Wisma Geylang Serai to enjoy not one but THREE super cool bouncy houses! 
+Wisma Geylang Serai is screening movies this June Holidays and its FREE! Futhermore, if you have high-energy kids who cannot sit still, jump for joy as there will be THREE super cool bouncy castles as well! 
 
 <b>For more information, visit Wisma Geylang Serai's Facebook Page: </b><br>[Wisma Geylang Serai's Facebook Page](www.facebook.com/WismaGeylangSerai  )<br><br><br>

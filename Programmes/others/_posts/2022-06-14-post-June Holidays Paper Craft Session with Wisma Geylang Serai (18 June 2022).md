@@ -5,8 +5,7 @@ date: 2022-06-14
 layout: post
 description: ""
 ---
-
-### June Holidays Paper Craft session with Wisma Geylang Serai (DIY Recycled Newspaper Coaster) ###
+### June Holidays Paper Craft Session with Wisma Geylang Serai (DIY Recycled Newspaper Coaster) ###
 
 <img src="/images/Programmes (June 2022)/WGS-children-programme.jpg" style="width:650px; height:auto">
 

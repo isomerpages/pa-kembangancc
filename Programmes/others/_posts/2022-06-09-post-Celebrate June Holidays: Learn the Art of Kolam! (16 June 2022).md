@@ -5,8 +5,6 @@ date: 2022-06-09
 layout: post
 description: ""
 ---
-
-
 ### Celebrate June Holidays: Learn the Art of Kolam! (Physical Workshop) ###
 
 <img src="/images/Programmes (June 2022)/WGS-children-programme.jpg" style="width:650px; height:auto">
@@ -37,4 +35,7 @@ This session is open to all ages and will be conducted in English. Sign up today
 	<a href="https://nhb-eco.peatix.com/" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
 </div>
 
-<b>For more information, visit Wisma Geylang Serai's Facebook Page: </b><br>[Wisma Geylang Serai's Facebook Page (www.facebook.com/WismaGeylangSerai)<br><br><br>
+<b>For more information, visit Wisma Geylang Serai's Facebook Page: </b>
+<div style="padding:0 0 15px 0">
+		<a href="https://www.facebook.com/WismaGeylangSerai" style="display:block;"><img src="/images/Logos/f_logo_RGB-Blue_100.png" style="max-width:60px; max-height:60px; float:left;"></a>
+</div>

@@ -27,5 +27,5 @@ Wisma Geylang Serai is screening movies this June Holidays and its FREE! Futherm
 
 <b>For more information, visit Wisma Geylang Serai's Facebook Page:</b>
 <div>
-	<a href="https://zenway.gg/event/115" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
+		<a href="https://www.facebook.com/WismaGeylangSerai" style="display:block;"><img src="/images/Logos/f_logo_RGB-Blue_100.png" style="max-width:60px; max-height:60px; float:left;"></a>
 </div>

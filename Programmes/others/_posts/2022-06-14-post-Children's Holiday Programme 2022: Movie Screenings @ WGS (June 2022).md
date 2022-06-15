@@ -25,8 +25,7 @@ description: ""
 
 Wisma Geylang Serai is screening movies this June Holidays and its FREE! Futhermore, if you have high-energy kids who cannot sit still, jump for joy as there will be THREE super cool bouncy castles as well! 
 
-<b>For more information, visit Wisma Geylang Serai's Facebook Page: </b><br>
+<b>For more information, visit Wisma Geylang Serai's Facebook Page:</b>
 <div>
 	<a href="https://zenway.gg/event/115" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
 </div>
-<b>For more information, visit Wisma Geylang Serai's Facebook Page: </b><br>[Wisma Geylang Serai's Facebook Page](www.facebook.com/WismaGeylangSerai  )<br><br><br>

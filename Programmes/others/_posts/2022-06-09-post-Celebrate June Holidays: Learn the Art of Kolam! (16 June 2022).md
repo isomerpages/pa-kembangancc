@@ -9,10 +9,10 @@ description: ""
 
 <img src="/images/Programmes (June 2022)/WGS-children-programme.jpg" style="width:650px; height:auto">
 
-<table  style="font-size:130%; background-color:#f2f2f2">
+<table  style="font-size:130%; background-color:#f2f2f2" width="100%">
 	<tbody>
 		<tr>
-			 <td><b>Location:</b></td><td>Geylang Serai Heritage Gallery (1 Engku Aman Turn, #01-05 Wisma Geylang Serai, S408528)</td>
+			 <td width="20%"><b>Location:</b></td><td>Geylang Serai Heritage Gallery (1 Engku Aman Turn, #01-05 Wisma Geylang Serai, S408528)</td>
 		</tr>
 		<tr>
 		 <td><b>Date:</b> </td><td>16 & 17 June 2022 (2 runs of the same workshop)</td>

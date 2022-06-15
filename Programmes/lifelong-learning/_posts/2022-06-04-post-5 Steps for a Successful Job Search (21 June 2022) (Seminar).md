@@ -1,18 +1,16 @@
 ---
-title: 5 Steps for a Successful Job Search (21 June 2022) (Webinar)
+title: 5 Steps for a Successful Job Search (21 June 2022) (Seminar)
 permalink: /Programmes/lifelong-learning/5-steps-job-search
 date: 2022-06-04
 layout: post
 description: ""
 ---
-
-
 ### 5 Steps for a Successful Job Search ###
 
 <table style="font-size:130%; background-color:#f2f2f2">
 	<tbody>
 		<tr>
-			 <td><b>Location:</b></td><td>Online Webinar<br>(Link will be sent to successful registrants)</td>
+			 <td><b>Location:</b></td><td>Virtual Seminar (Online)<br>(Link will be sent to successful registrants)</td>
 		</tr>
 		<tr>
 		 <td><b>Date:</b> </td><td>21 June 2022 (Tuesday)</td>
@@ -24,7 +22,7 @@ description: ""
 </table>
 
 <div style="padding:35px 0 0 0">
-	<p><u>In this webinar, you will learn:</u></p>
+	<p><u>In this seminar, you will learn:</u></p>
 	<ul>
 		<li>Self-confidence and practical ways to keep your self-confidence high</li>
 		<li>Financial planning to help you cruise through your job search</li>

@@ -7,6 +7,8 @@ description: ""
 ---
 
 
+
+
 ### Walk-in Interview for Logistics and Operational Roles ###
 
 <img style="width:600px; height:auto" src="/images/Programmes%20(June%202022)/wsg_poster_jun22_logistics_operational.jpg">

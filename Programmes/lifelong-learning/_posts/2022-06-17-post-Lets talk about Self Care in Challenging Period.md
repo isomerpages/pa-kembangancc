@@ -5,20 +5,20 @@ date: 2022-06-17
 layout: post
 description: ""
 ---
-### Walk-in Interview for Logistics and Operational Roles ###
+### Let's talk about Self Care in Challenging Period ###
 
-<img style="width:600px; height:auto" src="/images/Programmes%20(June%202022)/wsg_poster_jun22_logistics_operational.jpg">
+<img style="width:600px; height:auto" src="/images/Programmes%20(June%202022)/Talk-Selfcare.jpg">
 
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>
 		<tr>
-			 <td><b>Location:</b></td><td>Kampong Chai Chee Community Club,<br>Heartbeat@Bedok,<br>11 Bedok North Street 1,<br>Singapore 469662<br><br>Level 3, Function Room</td>
+			 <td><b>Location:</b></td><td>South East CDC Office<br>@ Wisma Geylang Serai<br>#03-02<br>Singapore 408528<br></td>
 		</tr>
 		<tr>
-		 <td><b>Date:</b> </td><td>21 June 2022 (Tuesday)</td>
+		 <td><b>Date:</b> </td><td>22 June 2022 (Wednesday)</td>
 		</tr>
 		<tr>
-			<td> <b>Time:</b> </td><td>10:00AM - 1:00PM,<br>2:00PM - 5:00PM</td>
+			<td> <b>Time:</b> </td><td>11:00AM - 1:00PM<br></td>
 		</tr>
 	</tbody>
 </table>

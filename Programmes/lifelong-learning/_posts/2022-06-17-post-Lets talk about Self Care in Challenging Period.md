@@ -22,10 +22,9 @@ description: ""
 		</tr>
 	</tbody>
 </table>
-
-Workforce Singapore (WSG) is organising a walk-in interview at Kampong Chai Chee Community Club (located at Heartbeat@Bedok) on 21 June 2022 that will feature career resources for jobseekers who are interested in Logistics and Operational Roles.
+Do you experience stress, anxiety and disappointment? <br><br> Overtime these factors affect our mental health and overall well-being. <br><br> Let's talk about these issues and discuss on simple strategies to overcome these challenges. <br><br> During this physical workshop, we will get to practice a simple relaxation exercise. <br>
 
 <b>Wish to join?</b>
 <div>
-	<a href="https://www.go.gov.sg/wii-210622" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
+	<a href="http://go.gov.sg/nie2206" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
 </div>

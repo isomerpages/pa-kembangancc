@@ -5,7 +5,7 @@ date: 2022-06-13
 layout: post
 description: ""
 ---
-### Walk-in Interview for Mixed Sector Roles ###
+### WSG Virtual Career Fair ###
 
 <img style="width:600px; height:auto" src="/images/Programmes%20(June%202022)/edm-virtual-career-fair.jpg">
 

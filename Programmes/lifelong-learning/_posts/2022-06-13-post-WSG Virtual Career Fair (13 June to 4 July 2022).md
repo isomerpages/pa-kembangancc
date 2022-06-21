@@ -7,7 +7,7 @@ description: ""
 ---
 ### Walk-in Interview for Mixed Sector Roles ###
 
-<img style="width:600px; height:auto" src="/images/Programmes%20(June%202022)/wsg_interview_jun22_mixed_sector.jpg">
+<img style="width:600px; height:auto" src="/images/Programmes%20(June%202022)/edm-virtual-career-fair.jpg">
 
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>

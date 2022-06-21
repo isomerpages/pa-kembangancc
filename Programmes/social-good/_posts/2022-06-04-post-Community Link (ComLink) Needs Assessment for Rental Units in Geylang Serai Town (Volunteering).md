@@ -18,7 +18,7 @@ description: ""
 		</tr>
 		<tr>
 			<td><b>Date:</b></td>
-			<td>From late May 2022 onwards</td>
+			<td>From July 2022 onwards</td>
 		</tr>
 		<tr>
 			<td><b>Time:</b></td>

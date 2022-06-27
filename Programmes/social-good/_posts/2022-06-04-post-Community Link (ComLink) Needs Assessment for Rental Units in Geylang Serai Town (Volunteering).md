@@ -48,7 +48,7 @@ description: ""
 	</ul>
 </div>
 
-<div style="padding:45px 0 0 0">
+<div style="padding:65px 0 20px 0">
 	<p><b>Registration is now closed.</b></p>
 </div>
 

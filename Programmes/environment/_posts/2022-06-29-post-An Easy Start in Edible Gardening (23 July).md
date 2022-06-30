@@ -14,7 +14,7 @@ description: ""
 			 <td><b>Location:</b></td><td>Zoom, Online Workshop<br>(Link will be sent to successful registrants)</td>
 		</tr>
 		<tr>
-		 <td><b>Date:</b> </td><td>16 July 2022 (Saturday)</td>
+		 <td><b>Date:</b> </td><td>23 July 2022 (Saturday)</td>
 		</tr>
 		<tr>
 			<td> <b>Time:</b> </td><td>2:00PM - 2:45PM</td>

@@ -14,10 +14,10 @@ description: ""
 			 <td><b>Location:</b></td><td>Online Workshop<br>(Link will be sent to successful registrants)</td>
 		</tr>
 		<tr>
-		 <td><b>Date:</b> </td><td>16 July 2022 (Saturday)</td>
+		 <td><b>Date:</b> </td><td>23 July 2022 (Saturday)</td>
 		</tr>
 		<tr>
-			<td> <b>Time:</b> </td><td>2:00PM - 2:45PM</td>
+			<td> <b>Time:</b> </td><td>3:00PM - 3:45PM</td>
 		</tr>
 	</tbody>
 </table>

@@ -5,8 +5,7 @@ date: 2022-06-30
 layout: post
 description: ""
 ---
-
-### Leave a Lasting Impression During Interview ###
+### Successful Online Job Search ###
 
 <div style="padding:25px 0 0 0">
 	<table  style="font-size:130%; background-color:#f2f2f2">
@@ -15,7 +14,7 @@ description: ""
 				 <td><b>Location:</b></td><td>Virtual Seminar (Online)<br>(Link will be sent to successful registrants)</td>
 			</tr>
 			<tr>
-			 <td><b>Date:</b> </td><td>25 July 2022 (Monday)</td>
+			 <td><b>Date:</b> </td><td>27 July 2022 (Wednesday)</td>
 			</tr>
 			<tr>
 				<td> <b>Time:</b> </td><td>2:00PM - 4:30PM</td>
@@ -26,11 +25,14 @@ description: ""
 
 <div style="padding:35px 0 0 0">
 	<p><u>Synopsis</u></p>
-	<p>Interviewers quickly form their assumptions of job seekers within the first thirty seconds to a minute of interaction. Such impressions can be positive or negative, but they are often lasting in nature. To accelerate your chances to secure a job offer, you need to ace during a job interview. Yet, your performance is contingent on your prior due diligence and keen preparation. Only then you can establish your presence and confidence.</p>
-	<p><u>Learning Outcomes</u></p>
-		<ul>
-		<li>Participants will discover the typical pitfalls to avoid to have a strong start during a virtual or face-to-face physical interview.</li>
-		<li>You will also learn practical and quick tips to build rapport, foster engagement and showcase your value proposition. Find out how you can leave a lasting impression on your interviewers. Sign up today!</li>
+	<p>Most job seekers have realized that online applications doesn’t give them desired results. Experts put networking as the holy grail of job search. But what if a job seeker is not well networked and doesn’t have the confidence to charm at networking events.  
+  
+This session trains PMEs on the steps they can employ to get great results for jobs advertised online without going around networking events. Along with including tips on cracking the “ATS”, it equips participants with other avenues like LinkedIn to make their application a successful one and to have successful virtual networking. The final part of the workshop will focus mainly on virtual interviews which may be a completely</p>
+<p><u>Learning Outcomes</u></p>
+	<ul>
+		<li>Step by step guideline on cracking the ATS.</li>
+		<li>CV creation keeping in mind the ATS guidelines.</li>
+		<li>Using LinkedIn for active job search.</li>
 	</ul>
 </div>
 <p><b>Wish to join?</b></p>

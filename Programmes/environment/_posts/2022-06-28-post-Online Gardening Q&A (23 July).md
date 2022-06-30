@@ -24,12 +24,14 @@ description: ""
 </div>
 
 <div style="padding:35px 0 0 0">
-	<p>The growing of edible plants requires commitment, knowledge, space and sunlight. To give novices an easy and rewarding start, the growing of microgreens, which are young edible seedlings of plants, serves as a great way to start. Also, there are some edible plants are easily started via stem-cuttings. Join us in this online talk, where Dr Wilson Wong shares with his participants how one can get started and succeed in his or her first edible crops.  Also pick up ideas on how you can use edibles for simple table displays!</p>
+	<p>Have issues growing plants in your garden? Join us in this virtual meeting to get them answered by our in-house horticulturist, Dr Wilson Wong. This session will be run monthly during Bazaar in the Garden.
+
+Upon successful registration, do send your photos with your questions to JurongLakeGardens@nparks.gov.sg by **20th July 2022, 5pm** if you would like Dr Wilson Wong to have a more thorough understanding of your question. You may also choose to ask questions during the live session without sending photos.</p>
 	<p><i>Note: This online workshop is organised by NParks.</i></p>
 </div>
 
 <b>	Wish to join the online workshop?</b><br>
 Click on the link below to be brought to the event's page to register.
 <div>
-	<a href="https://www.nparks.gov.sg/activities/events-and-workshops/2022/7/an-easy-start-in-edible-gardening-(july)" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
+	<a href="https://www.nparks.gov.sg/activities/events-and-workshops/2022/7/gardening-q,-a-,a-(july)" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
 </div>

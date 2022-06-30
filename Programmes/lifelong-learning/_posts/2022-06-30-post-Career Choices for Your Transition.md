@@ -5,7 +5,7 @@ date: 2022-06-30
 layout: post
 description: ""
 ---
-### Career Choices for Your Transition ###
+### Career Choices for Your Transition (12 July) (Virtual Seminar) ###
 
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>

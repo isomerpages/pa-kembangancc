@@ -5,7 +5,7 @@ date: 2022-06-30
 layout: post
 description: ""
 ---
-### Mastering Interview and Salary Negotiation ###
+### Career Choices for Your Transition ###
 
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>
@@ -13,7 +13,7 @@ description: ""
 			 <td><b>Location:</b></td><td>Virtual Seminar (Online)<br>(Link will be sent to successful registrants)</td>
 		</tr>
 		<tr>
-		 <td><b>Date:</b> </td><td>30 June 2022 (Thursday)</td>
+		 <td><b>Date:</b> </td><td>12 July 2022 (Tuesday)</td>
 		</tr>
 		<tr>
 			<td> <b>Time:</b> </td><td>2:00PM - 4:30PM</td>

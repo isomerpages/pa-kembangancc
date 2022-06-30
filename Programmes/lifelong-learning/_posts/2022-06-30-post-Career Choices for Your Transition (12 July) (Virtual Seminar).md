@@ -31,16 +31,13 @@ How many companies will we join by then?
 What are the different choices any professional can make for your next career move, or should we?   
   
 Come listen 1st-hand from professionals who have acted on different career choices, on their views and recommended approach.</p>
-
 	<p><u>Learning Outcomes</u></p>
 	<ul>
 		<li>Understand the different choices any professional can make in their career life time.</li>
 		<li>Map out your own decision tree.</li>
 	</ul>
 </div>
-
-
-<b>Wish to join?</b>
+	<p><b>Wish to join?</b></p>
 <div>
 	<a href="https://go.gov.sg/vs-120722" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
 </div>

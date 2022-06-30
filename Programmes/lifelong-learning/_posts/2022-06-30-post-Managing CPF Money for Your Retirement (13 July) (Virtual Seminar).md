@@ -5,7 +5,6 @@ date: 2022-06-30
 layout: post
 description: ""
 ---
-
 ### Managing CPF Money for Your Retirement ###
 
 <div style="padding:25px 0 0 0">
@@ -30,9 +29,7 @@ description: ""
 	<p><u>Speaker's Profile</u></p>
 	<p>Ferris Wee is the pioneering financial literacy trainer in IFL and he exhibits strong delivery skillsets in engaging and empowering working adults, youths and low-income families in improving their financial literacy. He has since provided financial education to more than twenty thousand participants.</p>
 </div>
-
-
-<b>Wish to join?</b>
+<p><b>Wish to join?</b></p>
 <div>
 	<a href="https://go.gov.sg/vs-jul22-cpf" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
 </div>

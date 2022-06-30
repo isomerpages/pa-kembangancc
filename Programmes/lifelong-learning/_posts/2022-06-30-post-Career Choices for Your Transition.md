@@ -40,5 +40,5 @@ Come listen 1st-hand from professionals who have acted on different career choic
 
 <b>Wish to join?</b>
 <div>
-	<a href="https://go.gov.sg/vs-300622" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
+	<a href="https://go.gov.sg/vs-120722" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
 </div>

@@ -5,9 +5,9 @@ date: 2022-06-30
 layout: post
 description: ""
 ---
-
 ### Career Choices for Your Transition ###
 
+<div style="padding:35px 0 0 0">
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>
 		<tr>
@@ -21,7 +21,8 @@ description: ""
 		</tr>
 	</tbody>
 </table>
-
+<div>
+	
 <div style="padding:35px 0 0 0">
 	<p><u>Synopsis</u></p>
 	<p>Do we really have a choice?  

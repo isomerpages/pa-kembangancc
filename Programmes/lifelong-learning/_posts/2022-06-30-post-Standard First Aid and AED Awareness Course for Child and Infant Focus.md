@@ -7,7 +7,7 @@ description: ""
 ---
 ### **Standard First Aid + AED Awareness Course for Child and Infant Focus** ###
  
-![](/images/Programmes%20(July%202022)/FirstAidCourse.png)
+<img style="width:600px; height:auto" src="/images/Programmes%20(July%202022)/FirstAidCourse.png">
 
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>

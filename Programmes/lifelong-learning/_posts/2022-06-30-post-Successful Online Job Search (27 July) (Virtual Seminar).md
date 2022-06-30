@@ -37,5 +37,5 @@ This session trains PMEs on the steps they can employ to get great results for j
 </div>
 <p><b>Wish to join?</b></p>
 <div>
-	<a href="https://go.gov.sg/vs-250722" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
+	<a href="https://go.gov.sg/vs-270722" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
 </div>

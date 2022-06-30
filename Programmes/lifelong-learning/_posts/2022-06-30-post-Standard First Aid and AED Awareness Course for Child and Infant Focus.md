@@ -28,5 +28,5 @@ Join our half-day Standard First Aid + AED Awareness Course course to equip your
 
 <b>Wish to join us?</b>
 <div>
-	<a href="[https://www.go.gov.sg/kkccfirstaid](https://www.go.gov.sg/kkccfirstaid?fbclid=IwAR3Bn_pU5SSESU3olBPudAJNjc2PIZBwvRaf1A-kJhp2rXTG6tPzvGKwMYQ)" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
+	<a href="https://www.onepa.gov.sg/events/standard-first-aid-awareness-course-child-and-infant-focus-86415392" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
 </div>

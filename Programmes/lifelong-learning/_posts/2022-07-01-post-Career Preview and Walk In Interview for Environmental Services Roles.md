@@ -7,7 +7,7 @@ description: ""
 ---
 ### Career Preview and Walk In Interview for Environmental Services Roles ###
 
-<img style="width:600px; height:auto" src="/images/Programmes%20(June%202022)/poster_backtoworkwomen.jpg">
+<img style="width:600px; height:auto" src="/images/Programmes%20(July%202022)/environmental_services_roles_interview_preview.jpg">
 
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>

@@ -5,7 +5,7 @@ date: 2022-07-14
 layout: post
 description: ""
 ---
-### National Day Heartlands Celebration 2022 At South East (7 August 2022) ###
+### National Day Heartlands Celebration 2022 At South East ###
 
 <img style="width:600px; height:auto" src="/images/Programmes%20(August%202022)/NDCHL_SE_Poster.png">
 

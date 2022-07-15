@@ -32,15 +32,14 @@ Mark your calendars for 7 August and head down to Wisma Geylang Serai with your 
 	<li>Food bazaar with local delights where you can enjoy your favourite snacks!</li>
 	<li>Relive your childhood through the Uncle Ringo carnival rides. The little ones can also look forward to bouncy castles where they can bounce the evening away!</li>
 	<li>Sweat it out at the sports tryouts by ActiveSG with activities such as light saber martial art and archery tag.</li>
-
+</ul>
 
 Celebrate Togetherness @ South East!
-
-
 
 <b>Wish to join?</b>
 
 Head to any of the following CCs to collect a ticket to join National Day Heartlands Celebration 2022 @ South East:
+
 <ol>
 	<li>Bedok CC</li>
 	<li>Braddell Heights CC</li>
@@ -56,3 +55,4 @@ Head to any of the following CCs to collect a ticket to join National Day Heartl
 	<li>Mountbatten CC</li>
 	<li>Siglap CC</li>
 	<li>Siglap South CC</li>
+</ol>

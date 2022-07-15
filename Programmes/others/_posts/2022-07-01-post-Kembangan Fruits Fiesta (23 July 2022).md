@@ -25,12 +25,18 @@ description: ""
 
 <u>Please take note of the following:</u>
 
-Fruits will be served from 2.45pm onwards and will be on a while stocks last basis. There will be no reservation of fruits for late-comers. No takeaway is allowed.
-
-For Kembangan-Chai Chee residents, please bring NRIC(s) for verification.
-
-
+<ul>
+	<li>Fruits will be served at 2.45pm sharp.</li>
+	<li>There will be no reservation of fruits for latecomers.</li>
+	<li>Takeaways are not allowed.</li>
+	<li>For Kembangan-Chai Chee residents, please bring NRIC(s) for verification.</li>
+</ul>
 
 <b>Wish to join?</b>
 
-Tickets are available at Kampong Kembangan CC (6449 6022) and Lengkong Tiga RC, Blk 109 (6841 4817). Opening hours are from 10am to 6pm.
+<u>Tickets are available at:</u>
+<ul>
+	<li>Kampong Kembangan CC (6449 6022)</li>
+	<li>Lengkong Tiga RC, Blk 109 (6841 4817) </li>
+	<li>Operating hours: 10am - 6pm
+</ul>

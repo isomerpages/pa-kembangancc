@@ -52,6 +52,7 @@ Head to any of the following CCs to collect a ticket to join National Day Heartl
 	<li>Kampong Ubi CC</li>
 	<li>Katong CC</li>
 	<li>MacPherson CC</li>
+	<li>Marine Parade CC</li>
 	<li>Mountbatten CC</li>
 	<li>Siglap CC</li>
 	<li>Siglap South CC</li>

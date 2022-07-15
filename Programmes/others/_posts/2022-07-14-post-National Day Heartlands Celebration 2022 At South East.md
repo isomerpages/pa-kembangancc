@@ -7,7 +7,7 @@ description: ""
 ---
 ### National Day Heartlands Celebration 2022 At South East ###
 
-<img style="width:600px; height:auto" src="/images/Programmes%20(June%202022)/poster_backtoworkwomen.jpg">
+<img style="width:600px; height:auto" src="/images/Programmes%20(August%202022)/NDCHL_SE_Poster.png">
 
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>

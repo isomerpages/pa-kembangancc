@@ -34,7 +34,7 @@ description: ""
 
 <b>Wish to join?</b>
 
-<u>Tickets are available during operating hours at:</u>
+<u>Tickets are available at the following locations during operating hours:</u>
 <ul>
 	<li>Greenville RC (6743 3911)</li>
 	<li>View RC (6744 9636) </li>

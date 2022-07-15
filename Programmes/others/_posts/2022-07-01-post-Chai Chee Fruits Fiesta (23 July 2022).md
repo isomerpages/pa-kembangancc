@@ -5,7 +5,6 @@ date: 2022-07-01
 layout: post
 description: ""
 ---
-
 ### Chai Chee Fruits Fiesta ###
 
 <img style="width:600px; height:auto" src="/images/Programmes%20(July%202022)/chaichee_fruits_fiesta.jpeg">
@@ -35,12 +34,11 @@ description: ""
 
 <b>Wish to join?</b>
 
-<u>Tickets are available at:</u>
+<u>Tickets are available at the following RCs during opening hours:</u>
 <ul>
 	<li>Ping Yi Garden RC</li>
 	<li>Ping Yi Greens RC</li>
 	<li>Ping An RC</li>
 	<li>Ping An Green RC</li>
 	<li>Ansar RC</li>
-	<li>Operating hours: 10am - 6pm
 </ul>

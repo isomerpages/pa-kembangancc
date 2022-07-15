@@ -34,9 +34,8 @@ description: ""
 
 <b>Wish to join?</b>
 
-<u>Tickets are available at:</u>
+<u>Tickets are available at the following locations during operating hours:</u>
 <ul>
 	<li>Kampong Kembangan CC (6449 6022)</li>
 	<li>Lengkong Tiga RC, Blk 109 (6841 4817) </li>
-	<li>Operating hours: 10am - 6pm
 </ul>

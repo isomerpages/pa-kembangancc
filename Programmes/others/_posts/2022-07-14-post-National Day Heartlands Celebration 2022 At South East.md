@@ -26,16 +26,13 @@ description: ""
 Mark your calendars for 7 August and head down to Wisma Geylang Serai with your family & friends to join in the exciting line-up of activities at the National Day Heartland Celebrations @ South East!
 
 <u>What you can expect:</u>
+<ul>
+	<li>Stage performances by local interest groups, entertainment by local DJs, and even a flaming performance by fire tribes!</li>
+	<li>PAssionArts Festival Village with hands-on art booths suitable for all ages. Keep an eye out for the 'Faces of South East' art installation, featuring bear figurines painted by our South East residents and partners.</li>
+	<li>Food bazaar with local delights where you can enjoy your favourite snacks!</li>
+	<li>Relive your childhood through the Uncle Ringo carnival rides. The little ones can also look forward to bouncy castles where they can bounce the evening away!</li>
+	<li>Sweat it out at the sports tryouts by ActiveSG with activities such as light saber martial art and archery tag.</li>
 
-Stage performances by local interest groups, entertainment by local DJs, and even a flaming performance by fire tribes!
-
-PAssionArts Festival Village with hands-on art booths suitable for all ages. Keep an eye out for the 'Faces of South East' art installation, featuring bear figurines painted by our South East residents and partners.
-
-Food bazaar with local delights where you can enjoy your favourite snacks!
-
-Relive your childhood through the Uncle Ringo carnival rides. The little ones can also look forward to bouncy castles where they can bounce the evening away!
-
-Sweat it out at the sports tryouts by ActiveSG with activities such as light saber martial art and archery tag.
 
 Celebrate Togetherness @ South East!
 

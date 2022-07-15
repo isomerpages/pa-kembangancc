@@ -7,7 +7,7 @@ description: ""
 ---
 ### Kampong Kembangan CC Fruits Fiesta ###
 
-<img style="width:600px; height:auto" src="/images/Programmes%20(August%202022)/NDCHL_SE_Poster.png">
+<img style="width:600px; height:auto" src="/images/Programmes%20(July%202022)/kkcc_fruits_fiesta.jpeg">
 
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>

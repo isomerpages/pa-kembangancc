@@ -34,7 +34,7 @@ description: ""
 
 <b>Wish to join?</b>
 
-<u>Tickets are available during operating hours at the following locations:</u>
+<u>Tickets are available at the following locations during operating hours:</u>
 <ul>
 	<li>Ping Yi Garden RC</li>
 	<li>Ping Yi Greens RC</li>

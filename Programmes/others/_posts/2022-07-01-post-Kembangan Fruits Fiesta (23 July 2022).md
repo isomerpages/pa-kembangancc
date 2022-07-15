@@ -5,9 +5,7 @@ date: 2022-07-01
 layout: post
 description: ""
 ---
-
-
-### Kembangan CC Fruits Fiesta ###
+### Kembangan Fruits Fiesta ###
 
 <img style="width:600px; height:auto" src="/images/Programmes%20(July%202022)/kkcc_fruits_fiesta.jpeg">
 

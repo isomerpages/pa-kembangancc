@@ -5,10 +5,9 @@ date: 2022-07-01
 layout: post
 description: ""
 ---
-
 ### Fruits Fiesta at Ubi Cluster ###
 
-<img style="width:600px; height:auto" src="/images/Programmes%20(July%202022)/kkcc_fruits_fiesta.jpeg">
+<img style="width:600px; height:auto" src="/images/Programmes%20(July%202022)/greenville_fruits_fiesta.jpeg">
 
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>

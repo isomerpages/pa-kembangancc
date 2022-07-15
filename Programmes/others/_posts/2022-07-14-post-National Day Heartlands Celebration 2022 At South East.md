@@ -23,13 +23,39 @@ description: ""
 	</tbody>
 </table>
 
-Workforce Singapore (WSG) is organising a walk-in interview at Heartbeat@Bedok on 9 June 2022 that will feature career resources for Back-to-Work women (male jobseekers are welcome to participate too).
+Mark your calendars for 7 August and head down to Wisma Geylang Serai with your family & friends to join in the exciting line-up of activities at the National Day Heartland Celebrations @ South East!
 
-If you are currently a stay-home mum or caregiver who is looking to transition back to the workforce, or simply looking for more ways to empower yourself in your career, be sure not to miss it!
+<u>What you can expect:</u>
 
-<u>Note for live workshops:</u> Please note that seats are limited on a first come, first served basis. Standing space is available once seating capacity is full.
+Stage performances by local interest groups, entertainment by local DJs, and even a flaming performance by fire tribes!
+
+PAssionArts Festival Village with hands-on art booths suitable for all ages. Keep an eye out for the 'Faces of South East' art installation, featuring bear figurines painted by our South East residents and partners.
+
+Food bazaar with local delights where you can enjoy your favourite snacks!
+
+Relive your childhood through the Uncle Ringo carnival rides. The little ones can also look forward to bouncy castles where they can bounce the evening away!
+
+Sweat it out at the sports tryouts by ActiveSG with activities such as light saber martial art and archery tag.
+
+Celebrate Togetherness @ South East!
+
+
 
 <b>Wish to join?</b>
-<div>
-	<a href="https://www.go.gov.sg/wii-btww" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
-</div>
+
+Head to any of the following CCs to collect a ticket to join National Day Heartlands Celebration 2022 @ South East:
+<ol>
+	<li>Bedok CC</li>
+	<li>Braddell Heights CC</li>
+	<li>Changi Simei CC</li>
+	<li>Fengshan CC</li>
+	<li>Geylang Serai CC / Wisma Geylang Serai</li>
+	<li>Joo Chiat CC</li>
+	<li>Kampong Chai Chee CC</li>
+	<li>Kampong Kembangan CC</li>
+	<li>Kampong Ubi CC</li>
+	<li>Katong CC</li>
+	<li>MacPherson CC</li>
+	<li>Mountbatten CC</li>
+	<li>Siglap CC</li>
+	<li>Siglap South CC</li>

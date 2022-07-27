@@ -7,8 +7,8 @@ description: ""
 ---
 ### Brisk Walk with Kampong Ubi CC at Labrador Park ###
 
-
-![](/images/Programmes%20(August%202022)/KUCC%20Briskwalk%20Labrador%20Park.png) 
+<img
+src="/images/Programmes%20(August%202022)/KUCC%20Briskwalk%20Labrador%20Park.png" style="width:600px; height:auto">
 
 <div style="padding:20px 0 20px 0">
 	<table  style="font-size:130%; background-color:#f2f2f2">

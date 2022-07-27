@@ -5,10 +5,10 @@ date: 2022-07-27
 layout: post
 description: ""
 ---
-### Singapore Botanic Gardens Brisk Walk with Kampong Kembangan CC ###
+### Brisk Walk with Kampong Ubi CC at Labrador Park ###
 
 
-![](/images/Programmes%20(August%202022)/KUCC%20Briskwalk%20Labrador%20Park.png)
+![](/images/Programmes%20(August%202022)/KUCC%20Briskwalk%20Labrador%20Park.png) 
 
 <div style="padding:20px 0 20px 0">
 	<table  style="font-size:130%; background-color:#f2f2f2">
@@ -34,5 +34,5 @@ Kembangan-Chai Chee Active Ageing Committee is organising brisk walk at Labrador
 
 <p><b>Wish to join us?</b></p>
 <div>
-	<a href="**[https://www.go.gov.sg/kuccbriskwalk](https://www.go.gov.sg/kuccbriskwalk)** " style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
+	<a href="**[https://www.go.gov.sg/kuccbriskwalk] " style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
 </div>

@@ -28,7 +28,7 @@ src="/images/Programmes%20(August%202022)/KUCC%20Briskwalk%20Labrador%20Park.png
 
 <div>
 	<p>
-Kembangan-Chai Chee Active Ageing Committee is organising brisk walk at Labrador Park ! </p>
+Kembangan-Chai Chee Active Ageing Committee is organising brisk walk at Labrador Park ! 🌳🌳</p>
 	<p>Join us as we spend the morning at Labrador Park walking at a brisk pace to get fit! Bring your friends and family along for a morning filled with good vibes and fun times.</p>
 </div>
 

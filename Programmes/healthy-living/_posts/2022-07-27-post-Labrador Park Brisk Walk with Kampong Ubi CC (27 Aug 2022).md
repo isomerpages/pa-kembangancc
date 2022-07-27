@@ -5,7 +5,7 @@ date: 2022-07-27
 layout: post
 description: ""
 ---
-### Labrador Park Brisk Walk with Kampong Ubi CC ###
+### Brisk Walk with Kampong Ubi CC at Labrador Park ###
 
 <img
 src="/images/Programmes%20(August%202022)/KUCC%20Briskwalk%20Labrador%20Park.png" style="width:600px; height:auto">

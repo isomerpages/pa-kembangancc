@@ -14,7 +14,7 @@ src="/images/Programmes%20(August%202022)/KUCC%20Briskwalk%20Labrador%20Park.png
 	<table  style="font-size:130%; background-color:#f2f2f2">
 		<tbody>
 			<tr>
-				 <td><b>Location:</b></td><td>Kampong Kembangan Community Club</td>
+				 <td><b>Location:</b></td><td>Kampong Ubi Community Club</td>
 			</tr>
 			<tr>
 			 <td><b>Date:</b></td><td>27 August 2022 (Saturday)</td>

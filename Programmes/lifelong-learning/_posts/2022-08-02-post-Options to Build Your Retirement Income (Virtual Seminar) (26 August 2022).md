@@ -23,13 +23,16 @@ description: ""
 	</tbody>
 </table>
 
-Workforce Singapore (WSG) is organising a walk-in interview at Heartbeat@Bedok on 9 June 2022 that will feature career resources for Back-to-Work women (male jobseekers are welcome to participate too).
+<p><u>Synopsis</u></p>
+Learn the possible options to help you achieve your retirement goals and their benefits and risks.
 
-If you are currently a stay-home mum or caregiver who is looking to transition back to the workforce, or simply looking for more ways to empower yourself in your career, be sure not to miss it!
-
-<u>Note for live workshops:</u> Please note that seats are limited on a first come, first served basis. Standing space is available once seating capacity is full.
+<p><u>Learning Outcomes</u></p>
+<ul>
+	<li>Options to build your Retirement Income</li>
+	<li>Benefits and downsides of these options</li>
+</ul>
 
 <b>Wish to join?</b>
 <div>
-	<a href="https://www.go.gov.sg/wii-btww" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
+	<a href="https://go.gov.sg/vs-260822a" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Click Here to Register</b></a>
 </div>

@@ -7,7 +7,7 @@ description: ""
 ---
 ### Front Row Seats with Hiring Employers ###
 
-<img style="width:600px; height:auto" src="/images/Programmes%20(June%202022)/edm-virtual-career-fair.jpg">
+<img style="width:600px; height:auto" src="/images/Programmes%20(August%202022)/Front%20Row%20Seats%20with%20Hiring%20Employers.jpg">
 
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>

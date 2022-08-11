@@ -23,7 +23,7 @@ description: ""
 	</tbody>
 </table>
 
-<b>A Career & Recruitment Info Session</b>
+A Career & Recruitment Info Session
 
 Are you interested in pursuing a role in Healthcare, Transport, F&B, Manufacturing or Training sectors? Meet our hiring employers to find out more about the exciting career opportunities available!
 

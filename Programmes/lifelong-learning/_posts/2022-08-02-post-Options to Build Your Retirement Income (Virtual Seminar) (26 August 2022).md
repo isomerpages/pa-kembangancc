@@ -7,8 +7,6 @@ description: ""
 ---
 ### Options to Build Your Retirement Income ###
 
-<img style="width:600px; height:auto" src="/images/Programmes%20(June%202022)/poster_backtoworkwomen.jpg">
-
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>
 		<tr>

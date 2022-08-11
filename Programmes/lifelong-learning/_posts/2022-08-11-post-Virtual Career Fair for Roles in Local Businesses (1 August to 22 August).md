@@ -11,7 +11,7 @@ description: ""
 	<table  style="font-size:130%; background-color:#f2f2f2">
 		<tbody>
 			<tr>
-				 <td><b>Location:</b></td><td>Virtual Seminar (Online)<br>(Link will be sent to successful registrants)</td>
+				 <td><b>Location:</b></td><td>Virtual Seminar (Online)</td>
 			</tr>
 			<tr>
 			 <td><b>Date:</b> </td><td>1 August to 22 August 2022</td>

@@ -22,7 +22,7 @@ description: ""
 
 <div style="padding:35px 0 0 0">
 	<p>As we celebrate National Day, join us for this Virtual Career Fair that brings together a variety of opportunities for Administrative, Aviation, Engineering, Front Line, Logistics and Transportation job roles from Singapore-registered companies. Applications are open till 22 August 2022.</p>
-	<img src="/images/Programmes%20(August%202022)/Roles%20in%20Local%20Businesses.jpg">
+	<img style="width:600px; height:auto" src="/images/Programmes%20(August%202022)/Roles%20in%20Local%20Businesses.jpg">
 </div>
 	<p><b>Browse jobs and apply now by clicking on the link below:</b></p>
 <div>

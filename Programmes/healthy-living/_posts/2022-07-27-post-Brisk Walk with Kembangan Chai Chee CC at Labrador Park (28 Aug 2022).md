@@ -34,5 +34,5 @@ Kembangan-Chai Chee Active Ageing Committee is organising brisk walk at Labrador
 
 <p><b>Wish to join us?</b></p>
 <div>
-	<a href="https://www.go.gov.sg/kkccbriskwalk" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
+	<a href="https://www.go.gov.sg/kkccbriskwalk" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Click Here to Register</b></a>
 </div>

@@ -25,5 +25,5 @@ Workforce Singapore (WSG) is organising a walk-in interview at Kampong Chai Chee
 
 <b>Wish to join?</b>
 <div>
-	<a href="https://www.go.gov.sg/wii-btww" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Click Here to Register</b></a>
+	<a href="https://www.go.gov.sg/wii-170822" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Click Here to Register</b></a>
 </div>

@@ -3,7 +3,7 @@ title: Our Green Home (Photography Contest)
 permalink: /our-green-home
 description: ""
 ---
-<img style="width=400px; height=auto" src="/images/Programmes%20(August%202022)/Our%20Green%20Home%20-%20Photography%20Contest.jpg">
+<img style="width=400px; height=auto" src="/images/Programmes%20(August%202022)/Our Green Home - Photography Contest.jpg">
 
 Calling all residents to share your best inspirational "green" photographs and stand a chance to win a CapitaLand voucher worth $30! This competition aims to spread awareness and inspire others about taking care of our environment. Be creative and give us your best shots!
 

@@ -15,7 +15,6 @@ Rules & Regulation: [Insert PDF Link Here]
 
 *This competition is part of 'Cleaning Up our East Coast Park' and in-conjunction with World Cleanup Day 2022.*
 
-
 <div style="padding: 20px 0 0 0">
 	<a href="http://go.gov.sg/our-green-home" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Submit Here</b></a>
 </div>

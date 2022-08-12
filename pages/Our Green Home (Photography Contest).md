@@ -7,9 +7,7 @@ description: ""
 
 Calling all residents to share your best inspirational "green" photographs and stand a chance to win $30 CapitaLand voucher! This competition aims to spread awareness and inspire others about taking care of our environment. Be creative and give us your best shots!
 
-Theme: Our Green Home
-
-Submit By: 18 September 2022, 2359.
+<br>Theme: Our Green Home </br>Submit By: 18 September 2022, 2359. 
 
 Rules & Regulation: [Insert PDF Link Here]
 

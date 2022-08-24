@@ -8,7 +8,7 @@ description: ""
 ### South East Family Cleans Our East Coast Park ###
 
 <img
-src="/images/Programmes%20(August%202022)/SE Cleans Our ECP.jpg" style="width:600px; height:auto">
+src="/images/Programmes%20(August%202022)/SE Cleans our ECP.jpg" style="width:600px; height:auto">
 
 
 <table  style="font-size:130%; background-color:#f2f2f2">

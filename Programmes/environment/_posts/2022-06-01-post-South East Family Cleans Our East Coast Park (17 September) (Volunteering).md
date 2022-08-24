@@ -5,8 +5,6 @@ date: 2022-06-01
 layout: post
 description: ""
 ---
-
-
 ### South East Family Cleans Our East Coast Park ###
 
 <table  style="font-size:130%; background-color:#f2f2f2">

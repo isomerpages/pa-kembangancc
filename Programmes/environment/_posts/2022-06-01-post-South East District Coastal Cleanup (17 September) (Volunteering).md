@@ -25,7 +25,10 @@ Marine Parade Cluster and East Coast GRC will be organising a South East Distric
 
 The programme for the day includes mass workout, Kayak N Klean (picking up litter along the beach in a kayak) and a beach clean-up (litter picking along the beach).
 
-<b>Wish to join us a volunteer?</b><br>
-Registration has not been opened yet.
+This event is jointly organised by PAssion WaVe @ East Coast, East Coast GRC, Marine Parade GRC, South East CDC and NParks.
 
-Please contact us at mpcluster@pa.gov.sg should you wish to find out more about the programme.
+<b>Wish to join us a volunteer?</b><br>
+Click on the link below to find out more!
+<div>
+	<a href="https://www.go.gov.sg/se-cleans-ecp" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Click Here to Register</b></a>
+</div>

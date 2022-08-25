@@ -25,7 +25,7 @@ src="/images/Programmes%20(August%202022)/K-CC Clean Up.jpg" style="width:600px;
 	</tbody>
 </table>
 
-Marine Parade Cluster and East Coast GRC will be organising a South East District coastal clean-up at East Coast Park. Residents from East Coast GRCs, MacPherson and Mountbatten SMCs may join for this event.
+Marine Parade Cluster and East Coast GRC will be organising a South East District coastal clean-up at East Coast Park. Residents from Marine Parade and East Coast GRCs, MacPherson and Mountbatten SMCs may join for this event.
 
 The programme for the day includes mass workout, Kayak N Klean (picking up litter along the beach in a kayak) and a beach clean-up (litter picking along the beach).
 

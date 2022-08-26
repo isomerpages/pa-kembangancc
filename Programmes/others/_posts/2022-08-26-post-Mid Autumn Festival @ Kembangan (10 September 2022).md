@@ -9,10 +9,6 @@ description: ""
 
 <img
 src="/images/Programmes%20(September%202022)/MidAutumn2022.jpg" style="width:600px; height:auto">
-
-<img
-src="/images/Programmes%20(September%202022)/MidAutumn2022.jpg" style="width:600px; height:auto">
-
 <div style="padding:20px 0 20px 0">
 	<table  style="font-size:130%; background-color:#f2f2f2">
 		<tbody>
@@ -34,12 +30,8 @@ src="/images/Programmes%20(September%202022)/MidAutumn2022.jpg" style="width:600
 Join us to celebrate Mid-Autumn Festival with your family, friends and neighbours! 
 
 Look forward to an evening filled with fun and interesting activities. There will be performances, game stalls, lucky draw and many more!
-
-The Mid-Autumn Festival will be celebrated at four locations within Kembangan-Chai Chee estate.  Purchase your tickets now at your respective RC/CC and see you there!.</p>
-</div>
-
+		
 <p><b>Wish to join us?</b></p>
 
-<div>
-	<a href="https://www.go.gov.sg/kuccbriskwalk" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Click Here to Register</b></a>
+Purchase your tickets now at your respective RC/CC and see you there!</p>
 </div>

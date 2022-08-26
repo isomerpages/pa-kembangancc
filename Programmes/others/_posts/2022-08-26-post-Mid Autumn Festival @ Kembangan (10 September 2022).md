@@ -7,8 +7,9 @@ description: ""
 ---
 ### **Mid-Autumn Festival @ Kembangan (10 September 2022)**
 
+
 <img
-src="/images/Programmes%20(August%202022)/KKCC%20Briskwalk%20Labrador%20Park.png" style="width:600px; height:auto">		 
+src="/images/Programmes%20(September%202022)/MidAutumn2022.jpg" style="width:600px; height:auto">		 
 
 <div style="padding:20px 0 20px 0">
 	<table  style="font-size:130%; background-color:#f2f2f2">

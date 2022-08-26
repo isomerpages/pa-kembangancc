@@ -34,6 +34,5 @@ Join us to celebrate Mid-Autumn Festival with your family, friends and neighbour
 Look forward to an evening filled with fun and interesting activities. There will be performances, game stalls, lucky draw and many more!
 		
 <p><b>Wish to join us?</b></p>
-
-Purchase your tickets now at your respective RC/CC and see you there!</p>
+Purchase your tickets now at Kampong Ubi Community Club and see you there!</p>
 </div>

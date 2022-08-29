@@ -53,5 +53,3 @@ TEL: 64454232
 							<li>ANSAR RC<div>
 BLK 32 CHAI CHEE AVE #01-218<div>
 TEL: 64454231
-
-

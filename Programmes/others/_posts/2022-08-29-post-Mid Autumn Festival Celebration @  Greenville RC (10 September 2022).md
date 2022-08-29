@@ -42,8 +42,3 @@ Look forward to an evening filled with fun and interesting activities. There wil
 <li>PING AN GREEN RC<div>
 BLK 43 CHAI CHEE STREET #01-70<div>
 TEL: 62429415
-
-	
-	
-	
-

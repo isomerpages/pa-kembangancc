@@ -30,7 +30,7 @@ Open Space</td>
 	<p>
 Join us to celebrate Mid-Autumn Festival with your family, friends and neighbours! 
 
-Look forward to an evening filled with fun and interesting activities. There will be performances, game stalls, lucky draw and many more!
+Look forward to an evening filled with fun and interesting activities. There will be performances, game stalls, lucky draw and many more!</p>
 		
 <b>Wish to join?</b>
 

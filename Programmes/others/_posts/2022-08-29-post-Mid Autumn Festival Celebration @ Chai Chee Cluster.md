@@ -30,11 +30,12 @@ Open Space</td>
 	<p>
 Join us to celebrate Mid-Autumn Festival with your family, friends and neighbours! 
 
-Look forward to an evening filled with fun and interesting activities. There will be performances, game stalls, lucky draw and many more!</p>
+Look forward to an evening filled with fun and interesting activities. There will be performances, game stalls, lucky draw and many more!</p></div>
 		
 <b>Wish to join?</b>
 
-<div><u>Tickets are available at the following locations during operating hours:</u></div>
+<div>
+	<u>Tickets are available at the following locations during operating hours:</u></div>
 	
 <ul>
 	<li>PING AN GREEN RC<div>

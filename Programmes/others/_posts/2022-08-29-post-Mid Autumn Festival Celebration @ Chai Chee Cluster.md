@@ -35,6 +35,7 @@ Look forward to an evening filled with fun and interesting activities. There wil
 <b>Wish to join?</b><div>
 
 <u>Tickets are available at the following locations during operating hours:</u></div>
+	
 <ul>
 	<li>PING AN GREEN RC<div>
 BLK 43 CHAI CHEE STREET #01-70<div>

@@ -32,9 +32,9 @@ Join us to celebrate Mid-Autumn Festival with your family, friends and neighbour
 
 Look forward to an evening filled with fun and interesting activities. There will be performances, game stalls, lucky draw and many more!</p>
 		
-<b>Wish to join?</b>
+<b>Wish to join?</b><div>
 
-<u>Tickets are available at the following locations during operating hours:</u>
+<u>Tickets are available at the following locations during operating hours:</u></div>
 <ul>
 	<li>PING AN GREEN RC<div>
 BLK 43 CHAI CHEE STREET #01-70<div>

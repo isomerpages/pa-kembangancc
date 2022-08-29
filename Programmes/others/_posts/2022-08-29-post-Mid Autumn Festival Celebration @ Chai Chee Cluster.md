@@ -38,16 +38,16 @@ Look forward to an evening filled with fun and interesting activities. There wil
 <ul>
 	<li>PING AN GREEN RC<div>
 BLK 43 CHAI CHEE STREET #01-70<div>
-TEL: 62429415</li>
+TEL: 62429415
 			<li>PING YI GARDENS RC<div>
 BLK 50 CHAI CHEE STREET #01-841<div>
-TEL: 62412643</li>
+TEL: 62412643
 					<li>PING YI GREENS RC<div>
 BLK 808A CHAI CHEE ROAD #01-116<div>
-TEL: 65819255</li>
+TEL: 65819255
 			<li>PING AN RC<div>
 BLK 61 CHAI CHEE ROAD #01-840<div>
-TEL: 64454232</li>
+TEL: 64454232
 							<li>ANSAR RC<div>
 BLK 32 CHAI CHEE AVE #01-218<div>
 TEL: 64454231</li>

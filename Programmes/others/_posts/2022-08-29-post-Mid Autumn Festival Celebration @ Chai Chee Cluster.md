@@ -32,28 +32,26 @@ Join us to celebrate Mid-Autumn Festival with your family, friends and neighbour
 
 Look forward to an evening filled with fun and interesting activities. There will be performances, game stalls, lucky draw and many more!
 		
-<p><b>Wish to join us?</b></p>
+<b>Wish to join?</b>
 
-**Tickets will be on sales at the following location:**
-
-**PING AN GREEN RC**<div>
+<u>Tickets are available at the following locations during operating hours:</u>
+<ul>
+	<li>PING AN GREEN RC<div>
 BLK 43 CHAI CHEE STREET #01-70<div>
-TEL: 62429415
-
-**PING YI GARDENS RC**<div>
+TEL: 62429415</li>
+			<li>PING YI GARDENS RC<div>
 BLK 50 CHAI CHEE STREET #01-841<div>
-TEL: 62412643
-
-**PING YI GREENS RC**<div>
+TEL: 62412643</li>
+					<li>PING YI GREENS RC<div>
 BLK 808A CHAI CHEE ROAD #01-116<div>
-TEL: 65819255
-
-**PING AN RC**<div>
+TEL: 65819255</li>
+			<li>PING AN RC<div>
 BLK 61 CHAI CHEE ROAD #01-840<div>
-TEL: 64454232
-
-**ANSAR RC**<div>
+TEL: 64454232</li>
+							<li>ANSAR RC<div>
 BLK 32 CHAI CHEE AVE #01-218<div>
-TEL: 64454231
-	</p>
-</div>
+TEL: 64454231</li>
+
+
+
+</ul>

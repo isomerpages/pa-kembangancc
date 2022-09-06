@@ -5,15 +5,16 @@ description: ""
 ---
 <img style="width=400px; height=auto" src="/images/Programmes%20(September%202022)/Our Green Home - Photo Contest.jpg">
 
-Calling all residents to share your best inspirational "green" photographs and stand a chance to win a CapitaLand voucher worth $30! This competition aims to spread awareness and inspire others about taking care of our environment. Be creative and give us your best shots!
+Stand a chance to win $50 CapitaLand voucher by taking part in our photography competition! 
 
-Theme: Our Green Home 
+Capture the best ‘green’ shot, that represents caring for the environment in our daily lives! Share how we can go green in many different ways as we continue to raise awareness in climate change and eco-friendly lifestyles.
 
-Submit By: 18 September 2022, 2359
+Theme: Our Green Home
 
-Rules & Regulation: [Insert PDF Link Here]
+Submission Deadline: 21 September 2022
 
-*This competition is part of 'Cleaning Up our East Coast Park' and in-conjunction with World Cleanup Day 2022.*
+Rules & Regulation: https://drive.google.com/file/d/1tJ7YflBtlKR2GdY2BJNL0ufQEkyqbsYc/view?usp=sharing
+
 
 <p><b>Click on the link below to submit your entry!</b></p>
 <div style="padding: 20px 0 0 0">

@@ -1,12 +1,11 @@
 ---
 title: Mid Autumn Festival Celebration @ Chai Chee Cluster (3rd September 2022)
-permalink: /Programmes/others/MidAutumnChaiChee
+permalink: /Programmes/others/MidAutumnChaiChee/
 date: 2022-08-29
 layout: post
 description: ""
 ---
-
-#### Mid-Autumn Festival Celebration @ Chai Chee Cluster (3rd September 2022)
+#### Mid-Autumn Festival Celebration @ Chai Chee Cluster (3 September 2022)
 <img
 src="/images/Programmes%20(September%202022)/Chai%20Chee%20Cluster%20MidAutumn.jpeg" style="width:600px; height:auto">		 
 

@@ -14,10 +14,10 @@ description: ""
 				 <td><b>Location:</b></td><td>Virtual Seminar (Online)<br>(Link will be sent to successful registrants)</td>
 			</tr>
 			<tr>
-			 <td><b>Date:</b> </td><td>25 July 2022 (Monday)</td>
+			 <td><b>Date:</b> </td><td>16 September 2022 (Friday)</td>
 			</tr>
 			<tr>
-				<td> <b>Time:</b> </td><td>2:00PM - 4:30PM</td>
+				<td> <b>Time:</b> </td><td>12:30PM - 2:00PM</td>
 			</tr>
 		</tbody>
 	</table>
@@ -25,7 +25,7 @@ description: ""
 
 <div style="padding:35px 0 0 0">
 	<p><u>Synopsis</u></p>
-	<p>Join this webinar to learn more about Community Care. WSG’s Volunteer Career Advisors who have vast experience in Healthcare will share with you:</p>
+	<p>Join this webinar to learn more about Community Care. Workforce Singapore’s Volunteer Career Advisors who have vast experience in Healthcare will share with you:</p>
 		<ul>
 		<li>What is Community Care</li>
 		<li>What are the different settings in Community Care</li>

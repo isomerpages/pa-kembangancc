@@ -36,5 +36,5 @@ description: ""
 </div>
 <p><b>Wish to join the virtual seminar?</b></p>
 <div>
-	<a href="https://go.gov.sg/vs-250722" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register</b></a>
+	<a href="https://go.gov.sg/vs-160922a" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register</b></a>
 </div>

@@ -18,8 +18,7 @@ Submission Deadline: 21 September 2022
 <u>Rules & Regulations:</u>
 https://drive.google.com/file/d/1tJ7YflBtlKR2GdY2BJNL0ufQEkyqbsYc/view?usp=sharing
 
-
 <p><b>Click on the link below to submit your entry!</b></p>
 <div style="padding: 20px 0 0 0">
-	<a href="http://go.gov.sg/our-green-home" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Submit Entry</b></a>
+	<a href="http://go.gov.sg/our-green-home-mpgrc" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Submit Entry</b></a>
 </div>

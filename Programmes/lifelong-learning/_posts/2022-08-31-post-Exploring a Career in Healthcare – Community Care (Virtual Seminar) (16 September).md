@@ -6,7 +6,6 @@ date: 2022-08-31
 layout: post
 description: ""
 ---
-
 ### Exploring a Career in Healthcare – Community Care ###
 
 <div style="padding:25px 0 0 0">
@@ -38,5 +37,5 @@ description: ""
 </div>
 <p><b>Wish to join the virtual seminar?</b></p>
 <div>
-	<a href="https://go.gov.sg/vs-160922a" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register</b></a>
+	<a href="https://go.gov.sg/vs-160922a" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
 </div>

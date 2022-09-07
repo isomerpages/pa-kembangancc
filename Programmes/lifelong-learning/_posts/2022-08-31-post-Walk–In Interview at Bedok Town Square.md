@@ -7,7 +7,7 @@ description: ""
 ---
 ### Walk-In Interview at Bedok Town Square ###
 
-<img style="width:600px; height:auto" src="/images/Programmes%20(June%202022)/poster_backtoworkwomen.jpg">
+<img style="width:600px; height:auto" src="/images/Programmes%20(September%202022)/29Sep_WII_BedokTownSquare_Poster.jpg">
 
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>

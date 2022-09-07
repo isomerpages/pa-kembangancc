@@ -5,3 +5,27 @@ date: 2022-08-31
 layout: post
 description: ""
 ---
+### Walk-In Interview at Bedok Town Square ###
+
+<img style="width:600px; height:auto" src="/images/Programmes%20(June%202022)/poster_backtoworkwomen.jpg">
+
+<table  style="font-size:130%; background-color:#f2f2f2">
+	<tbody>
+		<tr>
+			 <td><b>Location:</b></td><td>Bedok Town Square,<br>206 Bedok North Street 1,<br>Singapore 460206</td>
+		</tr>
+		<tr>
+		 <td><b>Date:</b> </td><td>29 September 2022 (Thursday)</td>
+		</tr>
+		<tr>
+			<td> <b>Time:</b> </td><td> 10:00AM - 4:00PM</td>
+		</tr>
+	</tbody>
+</table>
+
+Workforce Singapore (WSG) is organising a walk-in interview at Bedok Town Square on 29 September 2022.
+
+<b>Wish to join this walk-in interview?</b>
+<div>
+	<a href="https://www.go.gov.sg/wii-btww" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
+</div>

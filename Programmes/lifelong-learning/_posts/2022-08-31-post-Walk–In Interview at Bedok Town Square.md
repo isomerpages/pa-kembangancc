@@ -12,7 +12,7 @@ description: ""
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>
 		<tr>
-			 <td><b>Location:</b></td><td>Bedok Town Square,<br>206 Bedok North Street 1,<br>Singapore 460206</td>
+			 <td><b>Location:</b></td><td>Bedok Town Square,<br>208C New Upper Changi Rd,<br>Singapore 463208</td>
 		</tr>
 		<tr>
 		 <td><b>Date:</b> </td><td>29 September 2022 (Thursday)</td>

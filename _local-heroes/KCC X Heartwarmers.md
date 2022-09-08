@@ -17,6 +17,6 @@ src="/images/Local Heroes/KCC X Heartwarmers/KCCxHeartwarmers_3.jpg" style="widt
 <img
 src="/images/Local Heroes/KCC X Heartwarmers/KCCxHeartwarmers_4.jpg" style="width:600px; height:auto">
 
-Organised by Heartwarmers Volunteer Group and Kembangan-Chi Chee social team, Project 100=50 offers low and middle income families an opportunity to purchase their daily necessities at subsidised rates. This is one of the many local assistance schemes to help our vulnerable residents living in Kembangan-Chai Chee. 
+Organised by Heartwarmers Volunteer Group and Kembangan-Chi Chee Social Team, Project 100=50 offers low and middle income families an opportunity to purchase their daily necessities at subsidised rates. This is one of the many local assistance schemes to help our vulnerable residents living in Kembangan-Chai Chee. 
 
-Do drop us a message if you would like to find out more about our assistance schemes!
+Do drop us a message if you would like to find out more about our local assistance schemes! 

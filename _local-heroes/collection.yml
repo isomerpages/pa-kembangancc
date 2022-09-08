@@ -2,6 +2,7 @@ collections:
   local-heroes:
     output: true
     order:
+      - KCC X Heartwarmers.md
       - All Stories.md
       - "Alvin Tan: Project Rescue Veggies.md"
       - "Jarel Tang: Giving Back in Your Own Ways.md"

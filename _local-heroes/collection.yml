@@ -2,6 +2,7 @@ collections:
   local-heroes:
     output: true
     order:
+      - "Lai Yiyang: Loaves of Love.md"
       - All Stories.md
       - KCC X Heartwarmers.md
       - "Alvin Tan: Project Rescue Veggies.md"

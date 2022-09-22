@@ -32,6 +32,7 @@ People's Association presents to you our first ever Industry Guru Hybrid Livestr
 Join our experts in a Fireside Chat and Huddle Up for an insightful and interactive conversation. 
 Limited seats available, so pick a topic of your interest now!
 	</p>
+	<p><b>Wish to join the live event?</b></p>
 	<p>
 		<b>Wish to join via livestream instead? Click ONE topic of your interest:</b>
 	</p>

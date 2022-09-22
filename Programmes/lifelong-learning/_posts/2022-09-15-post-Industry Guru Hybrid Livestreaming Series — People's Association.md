@@ -14,7 +14,7 @@ src="/images/Programmes%20(September%202022)/Hybrid_Livestreaming_Series.jpg" st
 	<table  style="font-size:130%; background-color:#f2f2f2">
 		<tbody>
 			<tr>
-				 <td><b>Location:</b></td><td>Hybrid* (Various Locations + Virtual)</td>
+				 <td><b>Location:</b></td><td>Various Locations + Livestream*</td>
 			</tr>
 			<tr>
 			 <td><b>Date:</b></td><td>29 September 2022 (Thursday)</td>
@@ -28,24 +28,14 @@ src="/images/Programmes%20(September%202022)/Hybrid_Livestreaming_Series.jpg" st
 
 <div>
 	<p>
-* <i>Hybrid: The Fireside Chat will be livestreamed to Geylang Serai RC, Eunos Crescent RC and Geylang Serai CC</i>
+<i>* The Fireside Chat will be livestreamed to Geylang Serai RC, Eunos Crescent RC and Geylang Serai RC.</i>
 
 People's Association presents to you our first ever Industry Guru Hybrid Livestreaming Series!
 Join our experts in a Fireside Chat and Huddle Up for an insightful and interactive conversation. 
 Limited seats available, so pick a topic of your interest now!
 	</p>
-	<p><b>Wish to join the LIVE EVENT? Click on ONE topic below to sign up for the live event!</b></p>
-<div>
-<ul>
-	<li><a href="https://www.onepa.gov.sg/courses/C026963510" style="font-size:18px">Understanding How Influence Works – Sources of Power @ Geylang Serai CC</a></li>
-	<li><a href="https://www.onepa.gov.sg/courses/C026963624" style="font-size:18px">Be a Leading Force for Sustainability @ Geylang Serai RC</a></li>
-	<li><a href="https://www.onepa.gov.sg/courses/C026963697" style="font-size:18px">Give Your Personal Branding a Boost @ Eunos Crescent RC</a></li>
-	<li><a href="https://www.onepa.gov.sg/courses/C026963570" style="font-size:18px">How to Achieve Personal Mastery in Leadership? @ Eunos Village RC</a></li>
-	</ul>
-</div>
-	
 <p>
-		<b>Wish to join via LIVESTREAM instead? Click ONE topic of your interest:</b>
+		<b>Wish to join the event? Click ONE topic of your interest:</b>
 </p>
 
 <div>

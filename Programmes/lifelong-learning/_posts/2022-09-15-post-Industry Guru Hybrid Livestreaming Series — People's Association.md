@@ -37,8 +37,8 @@ Limited seats available, so pick a topic of your interest now!
 <ul>
 	<li><a href="https://www.onepa.gov.sg/courses/C026963510" style="font-size:18px">Understanding How Influence Works – Sources of Power @ Geylang Serai CC</a></li>
 	<li><a href="https://www.onepa.gov.sg/courses/C026963624" style="font-size:18px">Be a Leading Force for Sustainability @ Geylang Serai RC</a></li>
-	<li><a href="https://www.onepa.gov.sg/courses/C026963697">Give Your Personal Branding a Boost @ Eunos Crescent RC</a></li>
-	<li><a href="https://www.onepa.gov.sg/courses/C026963570">How to Achieve Personal Mastery in Leadership? @ Eunos Village RC</a></li>
+	<li><a href="https://www.onepa.gov.sg/courses/C026963697" style="font-size:18px">Give Your Personal Branding a Boost @ Eunos Crescent RC</a></li>
+	<li><a href="https://www.onepa.gov.sg/courses/C026963570" style="font-size:18px">How to Achieve Personal Mastery in Leadership? @ Eunos Village RC</a></li>
 	</ul>
 </div>
 	
@@ -48,9 +48,9 @@ Limited seats available, so pick a topic of your interest now!
 
 <div>
 <ul>
-	<li><a href="https://www.onepa.gov.sg/courses/C026963510" style="font-size:16px">Understanding How Influence Works – Sources of Power (Livestream)</a></li>
-	<li><a href="https://www.onepa.gov.sg/courses/C026963624" style="font-size:16px">Be a Leading Force for Sustainability (Livestream)</a></li>
-	<li><a href="https://www.onepa.gov.sg/courses/C026963697">Give Your Personal Branding a Boost (Livestream)</a></li>
-	<li><a href="https://www.onepa.gov.sg/courses/C026963570">How to Achieve Personal Mastery in Leadership? (Livestream)</a></li>
+	<li><a href="https://www.onepa.gov.sg/courses/C026963510" style="font-size:18px">Understanding How Influence Works – Sources of Power (Livestream)</a></li>
+	<li><a href="https://www.onepa.gov.sg/courses/C026963624" style="font-size:18px">Be a Leading Force for Sustainability (Livestream)</a></li>
+	<li><a href="https://www.onepa.gov.sg/courses/C026963697" style="font-size:18px">Give Your Personal Branding a Boost (Livestream)</a></li>
+	<li><a href="https://www.onepa.gov.sg/courses/C026963570" style="font-size:18px">How to Achieve Personal Mastery in Leadership? (Livestream)</a></li>
 	</ul>
 </div>

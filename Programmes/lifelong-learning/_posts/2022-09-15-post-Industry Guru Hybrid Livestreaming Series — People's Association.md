@@ -8,7 +8,7 @@ description: ""
 ###  Industry Guru Hybrid Livestreaming Series ###
 
 <img
-src="/images/Programmes%20(August%202022)/KUCC%20Briskwalk%20Labrador%20Park.png" style="width:600px; height:auto">
+src="/images/Programmes%20(September%202022)/Hybrid_Livestreaming_Series.jpg" style="width:600px; height:auto">
 
 <div style="padding:20px 0 20px 0">
 	<table  style="font-size:130%; background-color:#f2f2f2">

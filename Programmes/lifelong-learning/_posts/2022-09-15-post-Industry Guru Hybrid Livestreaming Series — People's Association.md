@@ -27,8 +27,9 @@ src="/images/Programmes%20(September%202022)/Hybrid_Livestreaming_Series.jpg" st
 </div>
 
 <div>
-<p><i>* The Fireside Chat will be livestreamed to Geylang Serai RC, Eunos Crescent RC and Geylang Serai RC.</i></p>
-<p>People's Association presents to you our first ever Industry Guru Hybrid Livestreaming Series!
+<p><i>* The Fireside Chat will be livestreamed to Geylang Serai RC, Eunos Crescent RC and Geylang Serai RC.</i></br></br>
+
+People's Association presents to you our first ever Industry Guru Hybrid Livestreaming Series!
 Join our experts in a Fireside Chat and Huddle Up for an insightful and interactive conversation. 
 Limited seats available, so pick a topic of your interest now!</p>
 <p>

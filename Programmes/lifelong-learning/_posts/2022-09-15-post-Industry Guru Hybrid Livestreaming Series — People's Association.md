@@ -39,7 +39,8 @@ Limited seats available, so pick a topic of your interest now!
 	<li><a href="https://www.onepa.gov.sg/courses/C026963624" style="font-size:18px">Be a Leading Force for Sustainability @ Geylang Serai RC</a></li>
 	<li><a href="https://www.onepa.gov.sg/courses/C026963697">Give Your Personal Branding a Boost @ Eunos Crescent RC</a></li>
 	<li><a href="https://www.onepa.gov.sg/courses/C026963570">How to Achieve Personal Mastery in Leadership? @ Eunos Village RC</a></li>
-	</div>
+	</ul>
+</div>
 	
 <p>
 		<b>Wish to join via LIVESTREAM instead? Click ONE topic of your interest:</b>
@@ -51,4 +52,5 @@ Limited seats available, so pick a topic of your interest now!
 	<li><a href="https://www.onepa.gov.sg/courses/C026963624" style="font-size:16px">Be a Leading Force for Sustainability (Livestream)</a></li>
 	<li><a href="https://www.onepa.gov.sg/courses/C026963697">Give Your Personal Branding a Boost (Livestream)</a></li>
 	<li><a href="https://www.onepa.gov.sg/courses/C026963570">How to Achieve Personal Mastery in Leadership? (Livestream)</a></li>
+	</ul>
 </div>

@@ -5,3 +5,40 @@ date: 2022-09-15
 layout: post
 description: ""
 ---
+###  Industry Guru Hybrid Livestreaming Series ###
+
+<img
+src="/images/Programmes%20(August%202022)/KUCC%20Briskwalk%20Labrador%20Park.png" style="width:600px; height:auto">
+
+<div style="padding:20px 0 20px 0">
+	<table  style="font-size:130%; background-color:#f2f2f2">
+		<tbody>
+			<tr>
+				 <td><b>Location:</b></td><td>Various Locations + Virtual Livestreams</td>
+			</tr>
+			<tr>
+			 <td><b>Date:</b></td><td>29 September 2022 (Thursday)</td>
+			</tr>
+			<tr>
+				<td> <b>Time:</b> </td><td>7:00PM - 10:00PM</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+<div>
+	<p>
+People's Association presents to you our first ever Industry Guru Hybrid Livestreaming Series!
+Join our experts in a Fireside Chat and Huddle Up for an insightful and interactive conversation. 
+Limited seats available, so pick a topic of your interest now!
+	</p>
+
+<b>Wish to join via livestream instead? Click ONE topic of your interest:</b>
+<ul>
+	<li><a href="https://www.go.gov.sg/kuccbriskwalk">Understanding How Influence Works – Sources of Power (Livestream)</a></li>
+	<li><a href="https://www.go.gov.sg/kuccbriskwalk">Be a Leading Force for Sustainability (Livestream)</a></li>
+	<li><a href="https://www.go.gov.sg/kuccbriskwalk">Give Your Personal Branding a Boost (Livestream)</a></li>
+	<li><a href="https://www.go.gov.sg/kuccbriskwalk">How to Achieve Personal Mastery in Leadership? (Livestream)</a></li>
+</p>
+</div>
+

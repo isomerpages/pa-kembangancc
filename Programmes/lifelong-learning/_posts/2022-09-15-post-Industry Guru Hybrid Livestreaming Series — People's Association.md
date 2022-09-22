@@ -32,13 +32,13 @@ People's Association presents to you our first ever Industry Guru Hybrid Livestr
 Join our experts in a Fireside Chat and Huddle Up for an insightful and interactive conversation. 
 Limited seats available, so pick a topic of your interest now!
 	</p>
+	<p>
+		<b>Wish to join via livestream instead? Click ONE topic of your interest:</b>
+	</p>
 
-<b>Wish to join via livestream instead? Click ONE topic of your interest:</b>
 <ul>
 	<li><a href="https://www.go.gov.sg/kuccbriskwalk">Understanding How Influence Works – Sources of Power (Livestream)</a></li>
 	<li><a href="https://www.go.gov.sg/kuccbriskwalk">Be a Leading Force for Sustainability (Livestream)</a></li>
 	<li><a href="https://www.go.gov.sg/kuccbriskwalk">Give Your Personal Branding a Boost (Livestream)</a></li>
 	<li><a href="https://www.go.gov.sg/kuccbriskwalk">How to Achieve Personal Mastery in Leadership? (Livestream)</a></li>
-</p>
 </div>
-

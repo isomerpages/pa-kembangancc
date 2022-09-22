@@ -32,7 +32,7 @@ People's Association presents to you our first ever Industry Guru Hybrid Livestr
 Join our experts in a Fireside Chat and Huddle Up for an insightful and interactive conversation. 
 Limited seats available, so pick a topic of your interest now!
 	</p>
-	<p><b>Wish to join the live event? Click on ONE topic below to sign up!</b></p>
+	<p><b>Wish to join the LIVE EVENT? Click on ONE topic below to sign up for the live event!</b></p>
 <div>
 <ul>
 	<li><a href="https://www.onepa.gov.sg/courses/C026963510" style="font-size:14px">Understanding How Influence Works – Sources of Power @ Geylang Serai CC</a></li>
@@ -42,7 +42,7 @@ Limited seats available, so pick a topic of your interest now!
 	</div>
 	
 <p>
-		<b>Wish to join via livestream instead? Click ONE topic of your interest:</b>
+		<b>Wish to join via LIVESTREAM instead? Click ONE topic of your interest:</b>
 </p>
 
 <ul>

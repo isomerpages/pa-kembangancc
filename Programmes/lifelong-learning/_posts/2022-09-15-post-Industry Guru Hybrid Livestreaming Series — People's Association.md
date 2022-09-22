@@ -35,8 +35,8 @@ Limited seats available, so pick a topic of your interest now!
 	<p><b>Wish to join the LIVE EVENT? Click on ONE topic below to sign up for the live event!</b></p>
 <div>
 <ul>
-	<li><a href="https://www.onepa.gov.sg/courses/C026963510" style="font-size:14px">Understanding How Influence Works – Sources of Power @ Geylang Serai CC</a></li>
-	<li><a href="https://www.onepa.gov.sg/courses/C026963624" style="font-size:16px">Be a Leading Force for Sustainability @ Geylang Serai RC</a></li>
+	<li><a href="https://www.onepa.gov.sg/courses/C026963510" style="font-size:18px">Understanding How Influence Works – Sources of Power @ Geylang Serai CC</a></li>
+	<li><a href="https://www.onepa.gov.sg/courses/C026963624" style="font-size:18px">Be a Leading Force for Sustainability @ Geylang Serai RC</a></li>
 	<li><a href="https://www.onepa.gov.sg/courses/C026963697">Give Your Personal Branding a Boost @ Eunos Crescent RC</a></li>
 	<li><a href="https://www.onepa.gov.sg/courses/C026963570">How to Achieve Personal Mastery in Leadership? @ Eunos Village RC</a></li>
 	</div>

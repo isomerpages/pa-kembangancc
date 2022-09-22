@@ -32,14 +32,21 @@ People's Association presents to you our first ever Industry Guru Hybrid Livestr
 Join our experts in a Fireside Chat and Huddle Up for an insightful and interactive conversation. 
 Limited seats available, so pick a topic of your interest now!
 	</p>
-	<p><b>Wish to join the live event?</b></p>
-	<p>
-		<b>Wish to join via livestream instead? Click ONE topic of your interest:</b>
-	</p>
-</div>
-
+	<p><b>Wish to join the live event? Click on ONE topic below to sign up!</b></p>
+<div>
 <ul>
 	<li><a href="https://www.onepa.gov.sg/courses/C026963510" style="font-size:14px">Understanding How Influence Works – Sources of Power (Livestream)</a></li>
 	<li><a href="https://www.onepa.gov.sg/courses/C026963624">Be a Leading Force for Sustainability (Livestream)</a></li>
+	<li><a href="https://www.onepa.gov.sg/courses/C026963697">Give Your Personal Branding a Boost (Livestream)</a></li>
+	<li><a href="https://www.onepa.gov.sg/courses/C026963570">How to Achieve Personal Mastery in Leadership? (Livestream)</a></li>
+	</div>
+	
+<p>
+		<b>Wish to join via livestream instead? Click ONE topic of your interest:</b>
+</p>
+
+<ul>
+	<li><a href="https://www.onepa.gov.sg/courses/C026963510" style="font-size:16px">Understanding How Influence Works – Sources of Power (Livestream)</a></li>
+	<li><a href="https://www.onepa.gov.sg/courses/C026963624" style="font-size:16px">Be a Leading Force for Sustainability (Livestream)</a></li>
 	<li><a href="https://www.onepa.gov.sg/courses/C026963697">Give Your Personal Branding a Boost (Livestream)</a></li>
 	<li><a href="https://www.onepa.gov.sg/courses/C026963570">How to Achieve Personal Mastery in Leadership? (Livestream)</a></li>

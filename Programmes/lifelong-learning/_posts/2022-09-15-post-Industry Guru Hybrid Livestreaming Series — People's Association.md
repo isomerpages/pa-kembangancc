@@ -35,10 +35,10 @@ Limited seats available, so pick a topic of your interest now!
 	<p>
 		<b>Wish to join via livestream instead? Click ONE topic of your interest:</b>
 	</p>
+</div>
 
 <ul>
 	<li><a href="https://www.go.gov.sg/kuccbriskwalk">Understanding How Influence Works – Sources of Power (Livestream)</a></li>
 	<li><a href="https://www.go.gov.sg/kuccbriskwalk">Be a Leading Force for Sustainability (Livestream)</a></li>
 	<li><a href="https://www.go.gov.sg/kuccbriskwalk">Give Your Personal Branding a Boost (Livestream)</a></li>
 	<li><a href="https://www.go.gov.sg/kuccbriskwalk">How to Achieve Personal Mastery in Leadership? (Livestream)</a></li>
-</div>

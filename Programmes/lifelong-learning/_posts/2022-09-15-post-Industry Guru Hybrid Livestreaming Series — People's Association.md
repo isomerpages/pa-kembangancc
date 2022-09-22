@@ -38,7 +38,7 @@ Limited seats available, so pick a topic of your interest now!
 </div>
 
 <ul>
-	<li><a href="https://www.go.gov.sg/kuccbriskwalk">Understanding How Influence Works – Sources of Power (Livestream)</a></li>
-	<li><a href="https://www.go.gov.sg/kuccbriskwalk">Be a Leading Force for Sustainability (Livestream)</a></li>
-	<li><a href="https://www.go.gov.sg/kuccbriskwalk">Give Your Personal Branding a Boost (Livestream)</a></li>
-	<li><a href="https://www.go.gov.sg/kuccbriskwalk">How to Achieve Personal Mastery in Leadership? (Livestream)</a></li>
+	<li><a href="https://www.onepa.gov.sg/courses/C026963510">Understanding How Influence Works – Sources of Power (Livestream)</a></li>
+	<li><a href="https://www.onepa.gov.sg/courses/C026963624">Be a Leading Force for Sustainability (Livestream)</a></li>
+	<li><a href="https://www.onepa.gov.sg/courses/C026963697">Give Your Personal Branding a Boost (Livestream)</a></li>
+	<li><a href="https://www.onepa.gov.sg/courses/C026963570">How to Achieve Personal Mastery in Leadership? (Livestream)</a></li>

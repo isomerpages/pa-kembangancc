@@ -14,7 +14,7 @@ src="/images/Programmes%20(September%202022)/Hybrid_Livestreaming_Series.jpg" st
 	<table  style="font-size:130%; background-color:#f2f2f2">
 		<tbody>
 			<tr>
-				 <td><b>Location:</b></td><td>Various Locations + Virtual Livestreams</td>
+				 <td><b>Location:</b></td><td>Hybrid* (Various Locations + Virtual)</td>
 			</tr>
 			<tr>
 			 <td><b>Date:</b></td><td>29 September 2022 (Thursday)</td>
@@ -28,6 +28,8 @@ src="/images/Programmes%20(September%202022)/Hybrid_Livestreaming_Series.jpg" st
 
 <div>
 	<p>
+* <i>Hybrid: The Fireside Chat will be livestreamed to Geylang Serai RC, Eunos Crescent RC and Geylang Serai CC</i>
+
 People's Association presents to you our first ever Industry Guru Hybrid Livestreaming Series!
 Join our experts in a Fireside Chat and Huddle Up for an insightful and interactive conversation. 
 Limited seats available, so pick a topic of your interest now!

@@ -1,8 +1,9 @@
 ---
-title: Kembangan Chai Chee
-permalink: /draft
+title: Kembangan–Chai Chee
+permalink: /draft/
 description: ""
 ---
+
 ![](/images/Banners/About%20K-CC.png)
 
 <div>

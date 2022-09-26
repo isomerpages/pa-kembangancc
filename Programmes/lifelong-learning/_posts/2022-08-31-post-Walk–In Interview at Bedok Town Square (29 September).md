@@ -5,7 +5,6 @@ date: 2022-08-31
 layout: post
 description: ""
 ---
-
 ### Walk-In Interview at Bedok Town Square ###
 
 <img style="width:600px; height:auto" src="/images/Programmes%20(September%202022)/29Sep_WII_BedokTownSquare_Poster.jpg">
@@ -24,7 +23,7 @@ description: ""
 	</tbody>
 </table>
 
-Workforce Singapore (WSG) is organising a walk-in interview at Bedok Town Square on 29 September 2022.
+Visit the Walk-In Interview @ Bedok Town Square on 29 Sep 2022. There are job roles across various industries such as Food & Beverage, Retail and Logistics. 
 
 <b>Wish to join this walk-in interview?</b>
 <div>

@@ -9,8 +9,7 @@ image: ""
 ### Marine Parade GRC Coastal Clean-up @ East Coast Park ###
 
 <img
-src="/images/Programmes%20(August%202022)/K-CC Clean Up.jpg" style="width:600px; height:auto">
-
+src="/images/Programmes%20(October%202022)/GRC COASTAL CLEAN-UP.jpg" style="width:600px; height:auto">
 
 <table  style="font-size:130%; background-color:#f2f2f2">
 	<tbody>

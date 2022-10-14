@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ### Marine Parade GRC Coastal Clean-up @ East Coast Park ###
 
 <img

@@ -20,7 +20,7 @@ src="/images/Programmes%20(October%202022)/GRC COASTAL CLEAN-UP.jpg" style="widt
 		 <td><b>Date:</b> </td><td>13 November 2022 (Sunday)</td>
 		</tr>
 		<tr>
-			<td> <b>Time:</b> </td><td>9:30am - 11:45pm</td>
+			<td> <b>Time:</b> </td><td>9:30am - 11:45am</td>
 		</tr>
 	</tbody>
 </table>

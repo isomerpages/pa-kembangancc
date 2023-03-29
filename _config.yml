@@ -51,6 +51,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://pa-kembangancc-staging.netlify.app
-prod: https://pa-kembangancc-prod.netlify.app
+staging: https://staging.dv0g8syxqxm22.amplifyapp.com/
+prod: https://master.dv0g8syxqxm22.amplifyapp.com/
 is_government: false

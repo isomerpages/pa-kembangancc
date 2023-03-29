@@ -1,6 +1,6 @@
 ---
 title: Free Prescription Glasses
-permalink: /local-assistance-schemes/free-prescription-glasses
+permalink: /local-assistance-schemes/free-prescription-glasses/
 description: ""
 ---
 Kembangan-Chai Chee provides free prescription glasses to needy individuals who are not able to afford proper eye care. 

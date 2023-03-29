@@ -1,6 +1,6 @@
 ---
 title: "Jarel Tang: Giving Back in Your Own Ways"
-permalink: /local-heroes/jarel-giving-back
+permalink: /local-heroes/jarel-giving-back/
 description: ""
 ---
 

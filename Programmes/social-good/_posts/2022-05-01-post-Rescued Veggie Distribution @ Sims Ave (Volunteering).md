@@ -1,6 +1,6 @@
 ---
 title: Rescued Veggie Distribution @ Sims Ave (Volunteering)
-permalink: /Programmes/environment/rescued-veggie-distribution-sims
+permalink: /programmes/environment/rescued-veggie-distribution-sims/
 date: 2022-05-01
 layout: post
 description: ""

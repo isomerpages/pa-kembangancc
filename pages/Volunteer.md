@@ -1,6 +1,6 @@
 ---
 title: Volunteer
-permalink: /volunteer
+permalink: /volunteer/
 description: ""
 ---
 ![](/images/Banners/Volunteer%20with%20Us.png)

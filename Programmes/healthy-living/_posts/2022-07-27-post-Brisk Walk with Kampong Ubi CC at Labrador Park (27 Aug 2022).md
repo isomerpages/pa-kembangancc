@@ -1,6 +1,6 @@
 ---
 title: Brisk Walk with Kampong Ubi CC at Labrador Park (27 Aug 2022)
-permalink: /Programmes/healthy-living/BriskwalkLabradorpark/
+permalink: /programmes/healthy-living/briskwalklabradorpark/
 date: 2022-07-27
 layout: post
 description: ""

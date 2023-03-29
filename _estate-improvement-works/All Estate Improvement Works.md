@@ -1,6 +1,6 @@
 ---
 title: All Estate Improvement Works
-permalink: /estate-improvement-works/all-estate-improv-works
+permalink: /estate-improvement-works/all-estate-improv-works/
 description: ""
 ---
 ![](/images/Banners/Estate%20Improvements.png)

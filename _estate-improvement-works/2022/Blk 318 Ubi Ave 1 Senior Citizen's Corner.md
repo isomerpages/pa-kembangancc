@@ -1,6 +1,6 @@
 ---
 title: Blk 318 Ubi Ave 1 Senior Citizen's Corner
-permalink: /estate-improvement-works/318-senior-citizen-corner
+permalink: /estate-improvement-works/318-senior-citizen-corner/
 description: ""
 third_nav_title: "2022"
 ---

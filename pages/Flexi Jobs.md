@@ -1,6 +1,6 @@
 ---
 title: Flexi Jobs
-permalink: /flexi-jobs
+permalink: /flexi-jobs/
 description: ""
 ---
 ![](/images/Banners/Flexi%20Jobsv2.png)

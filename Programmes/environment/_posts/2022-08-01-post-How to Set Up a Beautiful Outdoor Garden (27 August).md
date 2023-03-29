@@ -1,6 +1,6 @@
 ---
 title: How to Set Up a Beautiful Outdoor Garden (27 August)
-permalink: /Programmes/environment/set-up-outdoor-garden
+permalink: /programmes/environment/set-up-outdoor-garden/
 date: 2022-08-01
 layout: post
 description: ""

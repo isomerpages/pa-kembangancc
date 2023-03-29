@@ -1,6 +1,6 @@
 ---
 title: Weekly Bread Distribution
-permalink: /local-assistance-schemes/weekly-bread-distribution
+permalink: /local-assistance-schemes/weekly-bread-distribution/
 description: ""
 ---
 Kembangan-Chai Chee's Weekly Bread Distribution Assistance Scheme helps defray the cost of daily groceries by providing residents with weekly bread or fresh fruits and vegetables.

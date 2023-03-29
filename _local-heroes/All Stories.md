@@ -1,6 +1,6 @@
 ---
 title: All Stories
-permalink: /local-heroes/all-stories
+permalink: /local-heroes/all-stories/
 description: ""
 ---
 ![](/images/Banners/Stories%20of%20K-CC.png)

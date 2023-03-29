@@ -1,6 +1,6 @@
 ---
 title: All Local Assistance Schemes
-permalink: /local-assistance-schemes/all-schemes
+permalink: /local-assistance-schemes/all-schemes/
 description: ""
 ---
 ![](/images/Banners/banner_local_assistance_schemes.png)

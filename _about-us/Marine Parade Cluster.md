@@ -1,6 +1,6 @@
 ---
 title: Marine Parade Cluster
-permalink: /about-us/about-marineparadecluster
+permalink: /about-us/about-marineparadecluster/
 description: ""
 ---
 <div style="padding:0 0 30px 0">

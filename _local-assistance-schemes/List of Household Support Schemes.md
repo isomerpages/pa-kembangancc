@@ -6,20 +6,7 @@ description: ""
 At Kembangan-Chai Chee, we have various Household Support programmes and schemes. Please refer to the infographic below for more info.
 
 
-<b>Eligibility</b>
-<table style="font-size:130%; background-color:#f2f2f2">
-<tbody>
-	<tr><td>Resident must reside within Kembangan-Chai Chee</td>
-</tr>
-</tbody>
-</table>
-	
-<b>Benefits</b>
-<table style="font-size:130%; background-color:#f2f2f2">
-<tbody>
-	<tr><td>Packet of cooked meals daily (number of packets will be determined by the family size or if beneficiary requires dinner) </td></tr>
-</tbody>
-</table>
+
 
 #### Application ####
 <table style="font-size:130%; background-color:#f2f2f2">

@@ -2,6 +2,7 @@ collections:
   local-assistance-schemes:
     output: true
     order:
+      - List of Household Support Schemes.md
       - All Local Assistance Schemes.md
       - Daily Free Meals.md
       - Free Prescription Glasses.md

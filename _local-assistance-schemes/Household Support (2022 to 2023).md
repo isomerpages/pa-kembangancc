@@ -6,7 +6,7 @@ description: ""
 At Kembangan-Chai Chee, we have various Household Support programmes and schemes. Please refer to the infographic below for more info.
 
 
-<img src="/images/Local%20Assistance%20Scheme/kcc_local_assistance_schemes.jpg" style="width:450px; height:auto">
+<img src="/images/Local%20Assistance%20Scheme/kcc_local_assistance_schemes.jpg" style="width:550px; height:auto">
 
 
 #### Application ####

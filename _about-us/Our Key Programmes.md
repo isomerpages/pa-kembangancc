@@ -1,6 +1,6 @@
 ---
 title: Our Key Programmes
-permalink: /about-us/key-programmes
+permalink: /about-us/key-programmes/
 description: ""
 ---
 ![](/images/Banners/Banner_Our_Key_Programmes.png)

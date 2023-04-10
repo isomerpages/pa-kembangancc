@@ -1,6 +1,6 @@
 ---
 title: South East Family Cleans Our East Coast Park (17 September) (Volunteering)
-permalink: /Programmes/environment/southeast-coastal-cleanup/
+permalink: /programmes/environment/southeast-coastal-cleanup/
 date: 2022-06-01
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: Daily Free Meals
-permalink: /local-assistance-schemes/daily-free-meals
+permalink: /local-assistance-schemes/daily-free-meals/
 description: ""
 ---
 Kembangan-Chai Chee's Daily Free Meals scheme was set up to lighten the finances for needy families for their daily meals and to address the needs of those who are unable to cook due to physical disabilities or no access to electricity and gas.

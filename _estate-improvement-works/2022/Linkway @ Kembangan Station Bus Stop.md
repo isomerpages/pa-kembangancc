@@ -1,6 +1,6 @@
 ---
 title: Linkway @ Kembangan Station Bus Stop
-permalink: /estate-improvement-works/linkway-kem-bus-stop
+permalink: /estate-improvement-works/linkway-kem-bus-stop/
 description: ""
 third_nav_title: "2022"
 ---

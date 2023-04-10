@@ -1,7 +1,7 @@
 ---
 title: Community Link (ComLink) Needs Assessment for Rental Units in Geylang
   Serai Town (Volunteering)
-permalink: /Programmes/social-good/comlink-gstown
+permalink: /programmes/social-good/comlink-gstown/
 date: 2022-06-04
 layout: post
 description: ""

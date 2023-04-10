@@ -1,6 +1,6 @@
 ---
 title: Rescued Veggie Distribution @ Lengkong Tiga (Volunteering)
-permalink: /Resources/environment/veggie-distribution
+permalink: /resources/environment/veggie-distribution/
 date: 2022-05-01
 layout: post
 description: ""

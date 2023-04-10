@@ -1,6 +1,6 @@
 ---
 title: "Alvin Tan: Project Rescue Veggies"
-permalink: /local-heroes/alvin-project-rescue-veggies
+permalink: /local-heroes/alvin-project-rescue-veggies/
 description: ""
 ---
 

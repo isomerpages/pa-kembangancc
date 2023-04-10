@@ -1,6 +1,6 @@
 ---
 title: Legal Clinic
-permalink: /local-assistance-schemes/legal-clinic
+permalink: /local-assistance-schemes/legal-clinic/
 description: ""
 ---
 <img style= "height:auto; width:450px" src="/images/Local%20Assistance%20Scheme/kcc_legal_clinic_05jan22.jpg">

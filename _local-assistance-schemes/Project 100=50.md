@@ -1,6 +1,6 @@
 ---
 title: Project 100=50
-permalink: /local-assistance-schemes/project-100-50
+permalink: /local-assistance-schemes/project-100-50/
 description: ""
 ---
 Kembangan-Chai Chee's Project 100=50 seeks to address the needs of middle-income families by providing them an opportunity to purchase their daily necessities or groceries at half the retail price or at a maximum value of $100.

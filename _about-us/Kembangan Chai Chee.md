@@ -1,6 +1,6 @@
 ---
 title: Kembangan Chai Chee
-permalink: /about-us/aboutk-cc
+permalink: /about-us/aboutk-cc/
 description: ""
 ---
 <div style="padding:0 0 20px 0">

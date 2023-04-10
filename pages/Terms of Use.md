@@ -1,6 +1,6 @@
 ---
 title: Terms of Use
-permalink: /terms-of-use
+permalink: /terms-of-use/
 description: ""
 ---
 ## General Terms and Conditions on the Use of the Website

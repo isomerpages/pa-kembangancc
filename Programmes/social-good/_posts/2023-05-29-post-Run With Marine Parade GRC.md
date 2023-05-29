@@ -8,7 +8,7 @@ image: ""
 ---
 ### Run With Marine Parade GRC ### 
 
-<img style="height:auto; width:400px;" src="/images/Programmes (May 2022)/rescued_veggies_distribution_simsavenue.png">
+<img style="height:auto; width:600px;" src="/images/rwmpgrc banner.png">
 
 <table style="font-size:130%; background-color:#f2f2f2">
 <tbody>

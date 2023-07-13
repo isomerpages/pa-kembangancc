@@ -4,7 +4,7 @@ title: Kembangan-Chai Chee
 description: Immerse in the buzz and happenings of your neighbourhood.
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Website update in progress - will be ready by end July 2023!
 sections:
   - hero:
       subtitle: Immerse in the buzz and happenings of your neighbourhood.

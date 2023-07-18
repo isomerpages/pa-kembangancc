@@ -33,7 +33,7 @@ sections:
       description: Kembangan-Chai Chee, a part of Marine Parade Cluster, aspires to
         connect and serve the needs of the different profiles within the
         community.
-      image: /images/About Us/OurVision.gif
+      image: /images/About Us/homepage - about us.png
       alt: Image alt text
       button: find out more
       url: /about-us/aboutk-cc

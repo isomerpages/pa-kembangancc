@@ -4,7 +4,7 @@ title: Kembangan-Chai Chee
 description: Immerse in the buzz and happenings of your neighbourhood.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Please note that our website is under maintenance.
+notification: Please note that our website is under maintenance. We will be back shortly!
 sections:
   - hero:
       subtitle: Immerse in the buzz and happenings of your neighbourhood.

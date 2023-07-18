@@ -38,14 +38,6 @@ sections:
       button: find out more
       url: /about-us/aboutk-cc
   - infopic:
-      title: Tan Chuan-Jin
-      subtitle: Grassroots Adviser
-      description: '"... it is always about our people and our home."'
-      button: Tan chuan-jin's FACEBOOK PAGE
-      alt: Image alt text
-      url: https://www.facebook.com/TanChuanJin1
-      image: /images/About Us/Speaker.png
-  - infopic:
       title: Estate Improvements
       description: As part of our continuous efforts to improve the community we live
         in, we are pleased to share with you some of the improvement works

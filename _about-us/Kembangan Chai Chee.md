@@ -8,7 +8,7 @@ description: ""
 </div>
 
 <div>
-	<p style=" font-size:130%; margin-top: 0px; line-height:1.35; padding:10px 0 0 0"><b>CCs located within Kembangan-Chai Chee Division</b></p>
+	<p style="font-size:130%; margin-top: 0px; line-height:1.35; padding:10px 0 0 0"><b>CCs located within Kembangan-Chai Chee Division</b></p>
 </div>
 
 <p><b><u>Kampong Kembangan CC</u></b></p>
@@ -26,10 +26,11 @@ description: ""
 </div>
 
 <div>
-	<p style=" font-size:120%; margin-top: 0px; line-height:1.35; padding:10px 0 0 0"><b>Get connected with us!</b></p>
+	<p style="font-size:120%; margin-top: 0px; line-height:1.35; padding:10px 0 0 0"><b>Get connected with us!</b></p>
 </div>
 
 
 <div style="padding:0 0 100px 0">
 		<a href="https://www.facebook.com/KembanganChaiChee" style="display:block;"><img src="/images/Logos/f_logo_RGB-Blue_100.png" style="max-width:60px; max-height:60px; float:left;"></a>
+	<a href="https://www.tiktok.com/@kembanganchaichee" style="display:block;"><img src="/images/Logos/tiktok logo.png" style="max-width:60px; max-height:60px; float:left;"></a>
 </div>

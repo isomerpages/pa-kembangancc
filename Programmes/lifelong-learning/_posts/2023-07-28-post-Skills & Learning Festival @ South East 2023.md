@@ -8,7 +8,7 @@ image: ""
 ---
 ### Skills &amp; Learning Festival @ South East 2023  ###
 
-<img style="width:4500px; height:auto" src="/images/Programmes%20(August%202023)/skills%20&amp;%20learning%20festival%20@%20south%20east%202023.png">
+<img style="width:4500px; height:auto;" src="/images/Programmes%20(August%202023)/skills%20&amp;%20learning%20festival%20@%20south%20east%202023.png">
 
 <table style="font-size:120%; background-color:#f2f2f2">
 	<tbody>

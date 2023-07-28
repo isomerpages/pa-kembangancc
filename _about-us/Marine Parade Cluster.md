@@ -8,11 +8,11 @@ description: ""
 </div>
 
 <div>
-	<p style=" font-size:120%; margin-top: 0px; margin-bottom:20px; line-height:1.35; padding:10px 0 0 0"><b>About Marine Parade Cluster</b></p>
+	<p style="font-size:120%; margin-top: 0px; margin-bottom:20px; line-height:1.35; padding:10px 0 0 0"><b>About Marine Parade Cluster</b></p>
 </div>
 
 <table style="font-size:120%; margin-top: 0px; margin-bottom:20px;">
-	<tr>
+	<tbody><tr>
 		<td><img style="width:400px; vertical-align:middle; float:left;right-margin:20px;" alt="Selfie" src="/images/About%20Us/Wefie.gif"></td>
 		<td>Marine Parade Cluster consists of the following divisions: Braddell Heights, Geylang Serai, Joo Chiat, <b>Kembangan-Chai Chee</b>, Marine Parade, MacPherson and Mountbatten.
 		</td>
@@ -28,11 +28,14 @@ description: ""
 	<td>Through creative and targeted programming, Marine Parade Cluster aspires to connect and serve the needs of the different profiles within the community.
 	</td>
 </tr>
-</table>
+</tbody></table>
 
 <div>
-	<p style=" font-size:120%; margin-top: 0px; margin-bottom:20px; line-height:1.35; padding:20px 0 0 0"><b>Get Connected with Marine Parade Cluster!</b></p>
+	<p style="font-size:120%; margin-top: 0px; margin-bottom:20px; line-height:1.35; padding:20px 0 0 0"><b>Get Connected with Marine Parade Cluster!</b></p>
 </div>
 <div>
-		<a href="https://www.facebook.com/marineparadecluster" style="display:block;"><img src="/images/Logos/f_logo_RGB-Blue_100.png" style="max-width:60px; max-height:60px; float:left;"></a>
-</div>
+		<a href="https://www.facebook.com/marineparadecluster" style="display:inline-block;"><img src="/images/Logos/f_logo_RGB-Blue_100.png" style="max-width:60px; max-height:60px; float:left;"></a>&nbsp;&nbsp;&nbsp;
+	<a href="https://www.instagram.com/marineparadecluster" style="display:inline-block;"><img src="/images/Logos/instagram%20logo.jpg" style="max-width:60px; max-height:60px; float:left;"></a>&nbsp;&nbsp;&nbsp;
+	<a href="http://t.me/Marineparadecluster" style="display:inline-block;"><img src="/images/Logos/telegram%20logo.png" style="max-width:60px; max-height:60px; float:left;"></a>
+	
+	</div>

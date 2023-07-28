@@ -11,7 +11,7 @@ Through volunteering, you can gain insights on your community; gain new skills a
 <br>Are you passionate about driving a change in the community? Wear the hat of a community builder and change someone's life today! <br>
 
 <div>
-	<a href="https://go.gov.sg/mpcvolunteer" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Get Involved</b></a>
+	<a href="https://go.gov.sg/kccvolunteer" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Get Involved</b></a>
 </div>
 
 <b>	Not Sure Where to Start?</b>

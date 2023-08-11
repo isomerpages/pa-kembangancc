@@ -2,4 +2,5 @@ collections:
   past-programmes:
     output: true
     order:
+      - National Day Dinner 2023.md
       - 2023.md

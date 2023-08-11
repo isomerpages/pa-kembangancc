@@ -1,5 +1,4 @@
 collections:
   past-programmes:
     output: true
-    order:
-      - 2023.md
+    order: []

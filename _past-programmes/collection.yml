@@ -1,0 +1,7 @@
+collections:
+  past-programmes:
+    output: true
+    order:
+      - 2023.md
+      - Movie Screening @ Parliament House.md
+      - National Day Dinner 2023.md

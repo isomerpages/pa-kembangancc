@@ -5,7 +5,7 @@ description: ""
 ---
 ### Movie Screening @ Parliament House 
 
-Volunteers from Kembangan-Chai Chee and Staff of Parliament House joined our beneficiaries from ComLink and Ministry of Social and Family Development and enjoyed a movie under the stars. 
+Volunteers from Kembangan-Chai Chee and Staff of Parliament House joined our beneficiaries from ComLink and Ministry of Social and Family Development and enjoyed the movie "Turning Red" under the stars. 
 
 <br>  
 

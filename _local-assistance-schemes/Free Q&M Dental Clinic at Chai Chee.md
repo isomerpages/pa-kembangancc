@@ -36,35 +36,6 @@ Residents within Kembangan-Chai Chee may receive free dental sessions from Q&amp
 </tbody>
 </table>
 
-<b>Ansar RC</b>
-<table style="font-size:120%; display:flex; padding-bottom:15px;">
-<tbody>
-<tr>
- <td><b>Address:</b></td><td>32 Chai Chee Ave, #01-218, Singapore 461032</td>
-</tr>
-<tr>
- <td><b>Time:</b> </td><td>7:30PM - 9:30PM</td>
-</tr>
-<tr>
-	<td><b>Dates:</b></td>
-	<td>
-		<ul>
-			<li><strike>23 Jan 2023</strike> (No legal clinic due to public holiday)</li>
-			<li>27 Feb 2023</li>
-			<li>27 Mar 2023</li>
-			<li>24 Apr 2023</li>
-			<li>22 May 2023</li>
-			<li>26 Jun 2023</li>
-			<li>24 Jul 2023</li>
-			<li>28 Aug 2023</li>
-			<li>25 Sep 2023</li>
-			<li>23 Oct 2023</li>
-			<li>27 Nov 2023</li>
-			<li><strike>25 Dec 2023</strike> (No legal clinic due to public holiday)</li>
-		</ul>
-	</td>
-	</tr>
-</tbody>
-</table>
+#### Location of Free Q&amp;M Clinic ####
 
-<iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="100%" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.753557784425!2d103.92277891457262!3d1.3237229990345571!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da22ad9df725df%3A0x1b51474efca0a386!2sAnsar%20RC!5e0!3m2!1sen!2ssg!4v1650523540337!5m2!1sen!2ssg"></iframe>
+<iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="100%" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.754158537636!2d103.92101747467034!3d1.3233494986640977!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da23081258a5cd%3A0x2131b858d56c5626!2sQ%26M%20Free%20Dental%20Clinic%20Limited!5e0!3m2!1sen!2ssg!4v1692330450797!5m2!1sen!2ssg"></iframe>

@@ -3,8 +3,6 @@ title: Legal Clinic
 permalink: /local-assistance-schemes/legal-clinic/
 description: ""
 ---
-
-
 Residents within Kembangan-Chai Chee can receive free legal advice dealing with Lasting Power of Attorney (LPA), employment, marriage matters and etc. Sessions are held on the fourth Monday of every month, except public holidays, at Ansar RC Centre.
 
 <b>Eligibility</b>
@@ -43,7 +41,7 @@ Residents within Kembangan-Chai Chee can receive free legal advice dealing with 
 	<td><b>Dates:</b></td>
 	<td>
 		<ul>
-			<li>23 Jan 2023 (No legal clinic due to public holiday)</li>
+			<li><strike>23 Jan 2023</strike> (No legal clinic due to public holiday)</li>
 			<li>27 Feb 2023</li>
 			<li>27 Mar 2023</li>
 			<li>24 Apr 2023</li>
@@ -53,7 +51,7 @@ Residents within Kembangan-Chai Chee can receive free legal advice dealing with 
 			<li>28 Aug 2023</li>
 			<li>25 Sep 2023</li>
 			<li>27 Nov 2023</li>
-			<li>25 Dec 2023 (No legal clinic due to public holiday)</li>
+			<li><strike>25 Dec 2023</strike> (No legal clinic due to public holiday)</li>
 		</ul>
 	</td>
 	</tr>

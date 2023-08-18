@@ -5,7 +5,7 @@ description: ""
 ---
 <img src="/images/Local%20Assistance%20Scheme/free_q&amp;m_dental_clinic_poster_2023.jpg" style="width:550px; height:auto">
 
-Residents within Kembangan-Chai Chee can receive free legal advice dealing with Lasting Power of Attorney (LPA), employment, marriage matters and etc. Sessions are held on the fourth Monday of every month, excluding public holidays, at Ansar RC Centre.
+Residents within Kembangan-Chai Chee can receive free dental sessions from Q&amp;M dentists at Blk 26 Chai Chee Road.
 
 <b>Eligibility</b>
 <table style="font-size:130%; background-color:#f2f2f2">

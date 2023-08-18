@@ -3,9 +3,9 @@ title: Legal Clinic
 permalink: /local-assistance-schemes/legal-clinic/
 description: ""
 ---
-<img style= "height:auto; width:450px" src="/images/Local%20Assistance%20Scheme/kcc_legal_clinic_05jan22.jpg">
 
-Residents within Kembangan-Chai Chee can receive free legal advice dealing with Lasting Power of Attorney (LPA), employment, marriage matters and etc. 
+
+Residents within Kembangan-Chai Chee can receive free legal advice dealing with Lasting Power of Attorney (LPA), employment, marriage matters and etc. Sessions are held on the fourth Monday of every month, except public holidays, at Ansar RC Centre.
 
 <b>Eligibility</b>
 <table style="font-size:130%; background-color:#f2f2f2">
@@ -26,7 +26,7 @@ Residents within Kembangan-Chai Chee can receive free legal advice dealing with 
 #### Application ####
 <table style="font-size:130%; background-color:#f2f2f2">
 <tbody>
-	<tr><td>Attend legal clinic sessions located at Ansar RC (dates and times for sessions can be in the poster above and in the table below)</td></tr>
+	<tr><td>Attend legal clinic sessions located at Ansar RC Centre (dates and times for sessions can be found in the table below)</td></tr>
 </tbody>
 </table>
 
@@ -43,16 +43,17 @@ Residents within Kembangan-Chai Chee can receive free legal advice dealing with 
 	<td><b>Dates:</b></td>
 	<td>
 		<ul>
-			<li>24 Jan 2022</li>
-			<li>28 Feb 2022</li>
-			<li>28 Mar 2022</li>
-			<li>25 Apr 2022</li>
-			<li>23 May 2022</li>
-			<li>27 Jun 2022</li>
-			<li>25 Jul 2022</li>
-			<li>22 Aug 2022</li>
-			<li>26 Sep 2022</li>
-			<li>28 Nov 2022</li>
+			<li>23 Jan 2023 (No legal clinic due to public holiday)</li>
+			<li>27 Feb 2023</li>
+			<li>27 Mar 2023</li>
+			<li>24 Apr 2023</li>
+			<li>22 May 2023</li>
+			<li>26 Jun 2023</li>
+			<li>24 Jul 2023</li>
+			<li>28 Aug 2023</li>
+			<li>25 Sep 2023</li>
+			<li>27 Nov 2023</li>
+			<li>25 Dec 2023 (No legal clinic due to public holiday)</li>
 		</ul>
 	</td>
 	</tr>

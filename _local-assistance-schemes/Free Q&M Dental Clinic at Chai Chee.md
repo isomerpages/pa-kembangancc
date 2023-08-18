@@ -20,7 +20,7 @@ Residents within Kembangan-Chai Chee may receive free dental sessions from Q&amp
 <b>Benefits</b>
 <table style="font-size:130%; background-color:#f2f2f2">
 <tbody>
-	<tr><td>Free dental session that only includes the following services:
+	<tr><td>Free dental session which only includes the following services:
 		<ul>
 			<li>Scaling and Polishing</li>
 			<li>Extractions</li>

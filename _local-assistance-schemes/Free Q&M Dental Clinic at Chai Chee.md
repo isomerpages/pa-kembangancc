@@ -5,9 +5,7 @@ description: ""
 ---
 <img src="/images/Local%20Assistance%20Scheme/free_q&amp;m_dental_clinic_poster_2023.jpg" style="width:550px; height:auto">
 
-Residents within Kembangan-Chai Chee may receive free dental sessions from Q&amp;M dentists at Blk 26 Chai Chee Road.<br><br>
-
-Residents may call Kampong Kembangan CC at 64496022 or Kampong Ubi CC at 67459919 to book a slot. Please refer to the table below for the eligibility criteria.
+Residents within Kembangan-Chai Chee may receive free dental sessions from Q&amp;M dentists at Blk 26 Chai Chee Road.<br>
 	
 <b>Eligibility</b>
 <table style="font-size:130%; background-color:#f2f2f2">
@@ -34,7 +32,7 @@ Residents may call Kampong Kembangan CC at 64496022 or Kampong Ubi CC at 6745991
 #### Application ####
 <table style="font-size:130%; background-color:#f2f2f2">
 <tbody>
-	<tr><td>Attend legal clinic sessions located at Ansar RC Centre (dates and times for sessions can be found in the table below)</td></tr>
+	<tr><td>Eligible residents may call Kampong Kembangan CC at 64496022 or Kampong Ubi CC at 67459919 to book a slot. </td></tr>
 </tbody>
 </table>
 

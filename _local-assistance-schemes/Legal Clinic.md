@@ -50,6 +50,7 @@ Residents within Kembangan-Chai Chee can receive free legal advice dealing with 
 			<li>24 Jul 2023</li>
 			<li>28 Aug 2023</li>
 			<li>25 Sep 2023</li>
+			<li>23 Oct 2023</li>
 			<li>27 Nov 2023</li>
 			<li><strike>25 Dec 2023</strike> (No legal clinic due to public holiday)</li>
 		</ul>

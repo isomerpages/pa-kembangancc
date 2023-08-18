@@ -20,7 +20,7 @@ Residents may call Kampong Kembangan CC at 64496022 or Kampong Ubi CC at 6745991
 <tbody>
 	<tr><td>Resident must reside within Kembangan-Chai Chee</td>
 </tr>
-	<tr><td>Must not be staying in a private property (e.g. landed property, condominiums, etc.)</td></tr>
+	<tr><td>Resident must not be staying in a private property (e.g. landed property, condominiums, etc.)</td></tr>
 	<tr><td>Resident stays in a HDB flat (4/3/2-room flats)</td></tr>
 </tbody>
 </table>

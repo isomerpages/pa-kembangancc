@@ -6,19 +6,13 @@ description: ""
 <img src="/images/Local%20Assistance%20Scheme/free_q&amp;m_dental_clinic_poster_2023.jpg" style="width:550px; height:auto">
 
 Residents within Kembangan-Chai Chee may receive free dental sessions from Q&amp;M dentists at Blk 26 Chai Chee Road.<br><br>
-Please note that the Free Q&amp;M Dental Clinic only includes the following services:
-<ul>
-	<li>Scaling &amp; Polishing</li>
-	<li>Extractions</li>
-	<li>Fillings</li>
-</ul>
 
 Residents may call Kampong Kembangan CC at 64496022 or Kampong Ubi CC at 67459919 to book a slot. Please refer to the table below for the eligibility criteria.
 	
 <b>Eligibility</b>
 <table style="font-size:130%; background-color:#f2f2f2">
 <tbody>
-	<tr><td>Resident must reside within Kembangan-Chai Chee</td>
+	<tr><td>Resident must be a Singaporean Citizen or Permanent Resident and reside within Kembangan-Chai Chee</td>
 </tr>
 	<tr><td>Resident must not be staying in a private property (e.g. landed property, condominiums, etc.)</td></tr>
 	<tr><td>Resident stays in a HDB flat (4/3/2-room flats)</td></tr>
@@ -28,7 +22,12 @@ Residents may call Kampong Kembangan CC at 64496022 or Kampong Ubi CC at 6745991
 <b>Benefits</b>
 <table style="font-size:130%; background-color:#f2f2f2">
 <tbody>
-	<tr><td>Free dental session consultation advice</td></tr>
+	<tr><td>Free dental session that only includes the following services:
+<ul>
+	<li>Scaling &amp; Polishing</li>
+	<li>Extractions</li>
+	<li>Fillings</li>
+</ul></td></tr>
 </tbody>
 </table>
 

@@ -3,7 +3,7 @@ title: National Day Dinner 2023
 permalink: /past-programmes/2023/ndd2023/
 description: ""
 ---
-### Kembangan-Chai Chee National Day Dinner 2023
+### Kembangan-Chai Chee National Day Dinner 2023 - 5 August 2023
 
 Residents of Kembangan-Chai Chee gather to celebrate the Nation's 58th Birthday at Roland Restaurant on 5 August 2023. Basked in the celebratory atmosphere, residents enjoyed National Day-themed performances and joined voices in a community sing-along session to crowd favourites such as "Home" and "Chan Mali Chan". 
 

@@ -3,7 +3,7 @@ title: Movie Screening @ Parliament House
 permalink: /past-programmes/moviescreeningph/
 description: ""
 ---
-### Movie Screening @ Parliament House 
+### Movie Screening @ Parliament House - 17 June 2023
 
 Volunteers from Kembangan-Chai Chee and Staff of Parliament House joined our beneficiaries from ComLink and Ministry of Social and Family Development and enjoyed the movie "Turning Red" under the stars. 
 

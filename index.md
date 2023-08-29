@@ -16,15 +16,15 @@ sections:
           - title: All Programmes
             url: /programmes
           - title: Environment
-            url: /programmes/environment/
+            url: /Programmes/environment/
           - title: Lifelong Learning
             url: /programmes/lifelong-learning/
           - title: Social Good
             url: /programmes/social-good/
           - title: Healthy Living
-            url: /programmes/healthy-living/
+            url: /Programmes/healthy-living/
           - title: Others
-            url: /programmes/others/
+            url: Programmes/others
   - resources:
       title: Featured Programmes
       button: View More Programmes

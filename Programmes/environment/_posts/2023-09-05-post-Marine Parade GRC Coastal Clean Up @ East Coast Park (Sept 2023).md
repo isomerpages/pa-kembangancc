@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-### Marine Parade GRC  Coastal Clean-Up @ Eastt Coast Park  ###
+### Marine Parade GRC  Coastal Clean-Up @ East Coast Park  ###
 
 <div>
 	<a href="http://www.go.gov.sg/ccu-sep23" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>

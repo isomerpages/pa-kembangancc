@@ -10,21 +10,6 @@ sections:
       subtitle: Immerse in the buzz and happenings of your neighbourhood.
       background: /images/About Us/HeroBanner.png
       title: Kembangan-Chai Chee
-      dropdown:
-        title: Explore Our Programmes
-        options:
-          - title: All Programmes
-            url: /programmes
-          - title: Environment
-            url: /programmes/environment/
-          - title: Lifelong Learning
-            url: /programmes/lifelong-learning/
-          - title: Social Good
-            url: /programmes/social-good/
-          - title: Healthy Living
-            url: /programmes/healthy-living/
-          - title: Others
-            url: /programmes/others/
   - resources:
       title: Featured Programmes
       button: View More Programmes

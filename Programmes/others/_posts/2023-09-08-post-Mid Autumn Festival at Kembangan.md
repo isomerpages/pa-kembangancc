@@ -39,6 +39,6 @@ Participants can enjoy the following activities at just $4 per ticket:&nbsp;
 	6. Games
 	7. Goodie Bag &amp; Lucky Draw&nbsp;
 
-**To purchase your ticket, please approach Kampong Kembangan CC’s counter. **
+To purchase your ticket, please approach Kampong Kembangan CC’s counter. 
 
 For more information, please call Kampong Kembangan CC at 64496022.

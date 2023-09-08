@@ -37,8 +37,8 @@ Participants can enjoy the following activities at just $4 per ticket:&nbsp;
 	4. Tea Art Demo
 	5. Children Lion Dance
 	6. Games
-	7. Goodie Bag &amp; Lucky Draw
+	7. Goodie Bag and Lucky Draw
 
-To purchase your ticket, please approach Kampong Kembangan CC’s counter.
+**To purchase your ticket, please approach Kampong Kembangan CC’s counter.**
 
 For more information, please call Kampong Kembangan CC at 64496022.

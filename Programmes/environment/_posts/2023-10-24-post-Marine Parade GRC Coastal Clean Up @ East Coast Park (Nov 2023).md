@@ -12,7 +12,7 @@ image: ""
 	<a href="http://www.go.gov.sg/ccu-nov23" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
 </div>
 
-<img style="width:4500px; height:auto;" src="/images/GRC%20Events/Coastal%20Clean%20Up/ccu%20sept%20poster.jpg">
+<img style="width:4500px; height:auto;" src="/images/GRC%20Events/Coastal%20Clean%20Up/marine%20parade%20grc%20coastal%20clean-up%20(11%20nov%202023)%20-%20poster.jpg">
 
 <table style="font-size:120%; background-color:#f2f2f2">
 	<tbody>

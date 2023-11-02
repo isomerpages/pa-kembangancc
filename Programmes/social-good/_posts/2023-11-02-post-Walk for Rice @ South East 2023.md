@@ -27,9 +27,6 @@ image: ""
 
 The Fairprice Walk for Rice + @ South East 2023 Programme aims to promote a giving spirit among residents by participating in a simple activity such as walking &amp; running! For every 300m you walk or run, the Fairprice Foundation will donate one bowl each of brown rice, white rice and oatmeal to support less privileged residents in South Eat District. 
 
-\[💚 WeCare for the Environment @ Marine Parade GRC\]
-
-<b>Limited slots available! Sign up here: </b>
 <div>
-	<a href="http://www.go.gov.sg/ccu-nov23" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
+	<a href="http://www.go.gov.sg/wfr2023" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Submit Your Mileage Here! </b></a>
 </div>

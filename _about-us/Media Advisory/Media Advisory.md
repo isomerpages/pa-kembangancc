@@ -5,9 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Media Advisory
 ---
-### Media Advisory ###
-
-**Notice of Filming and Photography**
+### Notice of Filming and Photography (English) ###
 
 Dear Participants,
 

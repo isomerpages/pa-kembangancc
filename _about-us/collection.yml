@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Media Advisory/Media Advisory.md
+      - Media Advisory/English.md
       - Media Advisory/.keep
       - Kembangan Chai Chee.md
       - Marine Parade Cluster.md

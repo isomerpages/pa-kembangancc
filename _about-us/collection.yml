@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Media Advisory/Chinese.md
-      - Media Advisory/English.md
       - Media Advisory/.keep
+      - Media Advisory/English.md
+      - Media Advisory/Chinese.md
       - Kembangan Chai Chee.md
       - Marine Parade Cluster.md
       - Our Key Programmes.md

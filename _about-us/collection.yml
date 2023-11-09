@@ -2,12 +2,12 @@ collections:
   about-us:
     output: true
     order:
+      - Kembangan Chai Chee.md
+      - Marine Parade Cluster.md
+      - Our Key Programmes.md
       - Media Advisory/.keep
       - Media Advisory/English.md
       - Media Advisory/Chinese.md
       - Media Advisory/Malay.md
       - Media Advisory/Tamil.md
-      - Kembangan Chai Chee.md
-      - Marine Parade Cluster.md
-      - Our Key Programmes.md
       - Contact Us.md

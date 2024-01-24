@@ -1,0 +1,18 @@
+logo: /images/Logos/Cluster_K-CC_Logos.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Programmes
+    resource_room: true
+  - title: Local Assistance Schemes
+    collection: local-assistance-schemes
+  - title: Local Heroes
+    collection: local-heroes
+  - title: Estate Improvements
+    collection: estate-improvement-works
+  - title: Flexi Jobs
+    url: /flexi-jobs
+  - title: Past Programmes
+    collection: past-programmes
+  - title: Volunteer
+    url: /volunteer

@@ -1,0 +1,11 @@
+collections:
+  local-assistance-schemes:
+    output: true
+    order:
+      - All Local Assistance Schemes.md
+      - Household Support (2022 to 2023).md
+      - Daily Free Meals.md
+      - Free Prescription Glasses.md
+      - Free Q&M Dental Clinic at Chai Chee.md
+      - Community Legal Clinic.md
+      - Project 100=50.md

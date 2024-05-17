@@ -2,8 +2,9 @@
 title: "Lai Yiyang: Loaves of Love"
 permalink: /local-heroes/loavesoflove/
 description: ""
+variant: markdown
 ---
-<iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/watch?v=bC_2_EjXZns" height="400" width="100%"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/bC_2_EjXZns?si=PuOfyTQSRN1BAN8e" height="400" width="100%"></iframe>
 
 "This project has help to bind residents within K-CC community together, and collectively we get to know the residents and improve the environment of Chai Chee as a whole."
 

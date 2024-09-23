@@ -12,13 +12,7 @@ variant: markdown
 	<p style="font-size:130%; margin-top: 0px; line-height:1.35; padding:10px 0 0 0"><b>CCs located within Kembangan-Chai Chee Division</b></p>
 </div>
 
-<p><b><u>Kampong Kembangan CC</u></b></p>
 
-<div style="padding: 0 0 20px 0"><img src="/images/About Us/Kembangan Chai Chee/Kampong Kembangan CC.jpg"></div>
-
-
-<div style="padding:0 0 30px 0"><p>A five-minute walk away from Kembangan MRT station, Kampong Kembangan CC is situated at a convenient location where residents can engage in sports and activities such as badminton and pickle ball. Residents may also register for classes such as ballet and taekwondo.</p>
-</div>
 
 <p><b><u>Kampong Ubi CC</u></b></p>
 <div style="padding: 0 0 20px 0"><img src="/images/About Us/Kembangan Chai Chee/Kampong Ubi CC.jpeg"></div>

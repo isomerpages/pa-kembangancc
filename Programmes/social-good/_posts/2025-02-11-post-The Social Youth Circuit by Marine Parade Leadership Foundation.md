@@ -55,7 +55,7 @@ to be won! You'll also get the chance to explore the vibrant Marine Parade
 Cluster, adding a unique twist to your experience! Don't miss out on this
 amazing opportunity to be part of something inspiring. Register now to
 secure your spot in the circuit!</p>
-<p><strong>Click here to find out more: </strong>
+<p><strong>Click here to find out more:</strong>
 </p>
 <p><strong><a href="https://form.gov.sg/67809e039b92dd0156b3ee58" class="bp-button" rel="noopener noreferrer nofollow" target="_blank">Register Here</a></strong>
 </p>

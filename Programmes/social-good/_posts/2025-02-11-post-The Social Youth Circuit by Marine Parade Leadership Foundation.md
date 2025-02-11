@@ -9,6 +9,9 @@ variant: tiptap
 ---
 <p><strong><a href="https://form.gov.sg/67809e039b92dd0156b3ee58" class="bp-button" rel="noopener noreferrer nofollow" target="_blank">Register Here</a></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The_Youth_Social_Circuit_Event.png">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -44,9 +47,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The_Youth_Social_Circuit_Event.png">
-</div>
 <p>Are you ready to connect, collaborate, and have fun? The Youth Social
 Circuit is all about bringing together dynamic young individuals like YOU
 to build meaningful connections, share ideas, and grow together.</p>

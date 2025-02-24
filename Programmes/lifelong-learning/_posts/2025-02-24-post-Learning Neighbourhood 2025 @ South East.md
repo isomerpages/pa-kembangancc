@@ -9,6 +9,46 @@ variant: tiptap
 ---
 <h3>Learning Neighbourhood 2025 @ South East</h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_24_2_2025_151026_www_facebook_com.jpg">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Location:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Heartbeat@Bedok
+<br>11 Bedok North Street 1
+<br>Singapore 469662</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20 - 23 February 2025 (Thursday - Sunday)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Time:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11:00AM - 8:00PM</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Join us at Learning Neighbourhood @ South East and unlock a world of career,
 skills, and lifelong learning opportunities!</p>
 <p>Whether you're exploring a career switch, upskilling for advancement,

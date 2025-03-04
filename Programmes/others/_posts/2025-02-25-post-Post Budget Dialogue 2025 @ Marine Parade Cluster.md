@@ -10,8 +10,9 @@ variant: tiptap
 <h3>Post-Budget Dialogue 2025 @ Marine Parade Cluster</h3>
 <p><strong><a href="https://go.gov.sg/mpclusterpostbudget25" class="bp-button" rel="noopener noreferrer nofollow" target="_blank">Register Here</a></strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Post_Budget_Dialogue_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Post_Budget_Dialogue_2025_Updated.png">
 </div>
 <table style="minWidth: 50px">
 <colgroup>

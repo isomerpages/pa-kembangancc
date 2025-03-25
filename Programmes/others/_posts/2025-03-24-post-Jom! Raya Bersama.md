@@ -8,7 +8,9 @@ image: ""
 variant: tiptap
 ---
 <h3>Jom! Raya Bersama</h3>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_03_25_095550.png">
+</div>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -52,4 +54,7 @@ variant: tiptap
 <p>Geylang Serai CC, Braddell Heights CC, Kampong Ubi CC. Marine Parade CC,</p>
 <p>Joo Chiat CC, Siglap South CC,</p>
 <p>MacPherson CC, Mountbatten CC service counter @ Blk 54 Cassia Crescent</p>
+<p>Tel: 6747 2919, Geylang Serai CC for enquiries!</p>
+<p></p>
+<p></p>
 <p>Tel: 6747 2919, Geylang Serai CC for enquiries!</p>

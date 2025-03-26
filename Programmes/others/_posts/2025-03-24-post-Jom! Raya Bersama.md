@@ -54,7 +54,7 @@ variant: tiptap
 <p>Geylang Serai CC, Braddell Heights CC, Kampong Ubi CC. Marine Parade CC,</p>
 <p>Joo Chiat CC, Siglap South CC,</p>
 <p>MacPherson CC, Mountbatten CC service counter @ Blk 54 Cassia Crescent</p>
-<p>Tel: 6747 2919, Geylang Serai CC for enquiries!</p>
+<p></p>
 <p></p>
 <p></p>
 <p>Tel: 6747 2919, Geylang Serai CC for enquiries!</p>

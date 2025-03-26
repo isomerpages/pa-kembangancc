@@ -57,4 +57,5 @@ variant: tiptap
 <p></p>
 <p></p>
 <p></p>
+<p></p>
 <p>Tel: 6747 2919, Geylang Serai CC for enquiries!</p>

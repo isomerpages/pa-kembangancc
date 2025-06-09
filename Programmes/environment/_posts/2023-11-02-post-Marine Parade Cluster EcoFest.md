@@ -5,38 +5,53 @@ date: 2023-11-02
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
-### Marine Parade Cluster EcoFest  ###
-
-<div>
-	<a href="https://go.gov.sg/mpcecofest2023" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
+<h3>Marine Parade Cluster EcoFest</h3>
+<div class="isomer-image-wrapper">
+<img style="width:4500px; height:auto;" height="auto" width="100%" src="/images/GRC%20Events/Others/kembangan_marine%20parade%20ecofest%20(a4%20poster).jpg">
 </div>
-
-<img style="width:4500px; height:auto;" src="/images/GRC%20Events/Others/kembangan_marine%20parade%20ecofest%20(a4%20poster).jpg">
-
-<table style="font-size:120%; background-color:#f2f2f2">
-	<tbody>
-		<tr>
-			 <td><b>Location:</b></td><td>Amphitheatre<br>Near Blk 35 Chai Chee Avenue</td>
-		</tr>
-		<tr>
-		 <td><b>Date:</b> </td><td> 19 November 2023 (Sunday) </td>
-		</tr>
-		<tr>
-			<td> <b>Time:</b> </td><td> 9:00AM - 12:00PM</td>
-		</tr>
-	</tbody>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Location:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Amphitheatre
+<br>Near Blk 35 Chai Chee Avenue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19 November 2023 (Sunday)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Time:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9:00AM - 12:00PM</p>
+</td>
+</tr>
+</tbody>
 </table>
-
-Celebrating Green Living in our neighbourhood!
-
-As part of our sustainability efforts, we are bringing you Ecofest @ MarineParadeCluster!
-Be enthralled by Mr Bottle’s Magic Show, indulged in Natural Beauty Workshop and engaged with our youths from St Stephen School, Tao Nan School and Geylang Methodist School (Primary) at their sustainability booths!
-
-Take home our exclusive bag, reusable of course! Scan the QR code now to register, see you on 19 November 2023!
-
-\[💚 WeCare for the Environment @ Marine Parade Cluster\]
-
-<div>
-	<a href="https://go.gov.sg/mpcecofest2023" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Register Here</b></a>
-</div>
+<p>Celebrating Green Living in our neighbourhood!</p>
+<p>As part of our sustainability efforts, we are bringing you Ecofest @ MarineParadeCluster!
+Be enthralled by Mr Bottle’s Magic Show, indulged in Natural Beauty Workshop
+and engaged with our youths from St Stephen School, Tao Nan School and
+Geylang Methodist School (Primary) at their sustainability booths!</p>
+<p>Take home our exclusive bag, reusable of course! Scan the QR code now
+to register, see you on 19 November 2023!</p>
+<p>[💚 WeCare for the Environment @ Marine Parade Cluster]</p>

@@ -5,6 +5,7 @@ date: 2023-11-02
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### Walk for Rice+ @ South East 2023  ###
 
@@ -15,6 +16,3 @@ The Fairprice Walk for Rice + @ South East 2023 Programme aims to promote a givi
 
 Participate in South East CDC's social media contest and stand a chance to win attractive  prizes! For more details, head over to @secdc on FaceBook and @ SouthEastCDC on Instagram.
 
-<div>
-	<a href="http://www.go.gov.sg/wfr2023" style="font-size:20px; width:35%; height:60px; background-color:#0899AA; color:white" class="bp-button"><b>Submit Your Mileage Here! </b></a>
-</div>
